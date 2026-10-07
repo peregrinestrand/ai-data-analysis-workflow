@@ -1,0 +1,2401 @@
+order_id,order_date,region,channel,product,units,unit_price,discount,returned
+O-00001,2026-06-15,NA,partner,Starter,3,44.1,0.1,false
+O-00002,2026-01-30,NA,web,Starter,14,46.55,0.05,false
+O-00003,2026-02-16,LATAM,web,Support Plan,4,990.0,0,false
+O-00004,2026-02-01,LATAM,web,Team,2,179.1,0.1,false
+O-00005,2026-05-29,LATAM,web,Support Plan,4,891.0,0.1,false
+O-00006,2026-04-03,EMEA,sales,Support Plan,7,990.0,0,false
+O-00007,2026-02-02,EMEA,sales,Team,16,159.2,0.2,false
+O-00008,2026-06-10,LATAM,sales,Add-on Seats,12,15.0,0,false
+O-00009,2026-04-03,NA,web,Support Plan,10,891.0,0.1,false
+O-00010,2026-06-25,LATAM,partner,Support Plan,3,990.0,0,false
+O-00011,2026-03-26,APAC,web,Add-on Seats,14,15.0,0,false
+O-00012,2026-02-09,APAC,partner,Business,20,474.05,0.05,false
+O-00013,2026-08-22,EMEA,web,Business,18,399.2,0.2,false
+O-00014,2026-06-08,LATAM,partner,Add-on Seats,12,15.0,0,false
+O-00015,2026-07-01,NA,sales,Starter,16,49.0,0,false
+O-00016,2026-03-08,NA,partner,Add-on Seats,16,15.0,0,false
+O-00017,2026-07-25,APAC,web,Add-on Seats,19,12.0,0.2,false
+O-00018,2026-07-03,LATAM,web,Team,3,199.0,0,false
+O-00019,2026-04-30,EMEA,partner,Support Plan,6,990.0,0,false
+O-00020,2026-03-16,LATAM,sales,Business,20,449.1,0.1,false
+O-00021,2026-03-06,EMEA,partner,Support Plan,13,940.5,0.05,false
+O-00022,2026-02-23,LATAM,sales,Add-on Seats,2,15.0,0,false
+O-00023,2026-04-17,LATAM,web,Starter,11,44.1,0.1,false
+O-00024,2026-01-01,NA,sales,Starter,12,44.1,0.1,true
+O-00025,2026-04-17,LATAM,web,Business,12,449.1,0.1,false
+O-00026,2026-03-04,EMEA,partner,Add-on Seats,16,14.25,0.05,false
+O-00027,2026-03-15,EMEA,sales,Business,9,474.05,0.05,false
+O-00028,2026-03-24,EMEA,web,Support Plan,12,990.0,0,false
+O-00029,2026-01-14,APAC,sales,Starter,9,44.1,0.1,false
+O-00030,2026-03-27,APAC,web,Support Plan,18,891.0,0.1,false
+O-00031,2026-04-25,NA,web,Add-on Seats,8,15.0,0,false
+O-00032,2026-07-02,EMEA,web,Business,17,499.0,0,false
+O-00033,2026-06-26,LATAM,sales,Business,12,499.0,0,false
+O-00034,2026-04-27,LATAM,web,Business,7,474.05,0.05,false
+O-00035,2026-01-01,LATAM,sales,Business,3,399.2,0.2,false
+O-00036,2026-07-18,NA,partner,Team,16,199.0,0,false
+O-00037,2026-07-22,LATAM,partner,Starter,6,49.0,0,true
+O-00038,2026-08-27,NA,sales,Support Plan,18,990.0,0,false
+O-00039,2026-03-09,EMEA,web,Starter,17,39.2,0.2,false
+O-00040,2026-08-11,NA,web,Starter,9,49.0,0,false
+O-00041,2026-06-16,APAC,sales,Add-on Seats,5,15.0,0,false
+O-00042,2026-07-01,LATAM,sales,Support Plan,18,891.0,0.1,false
+O-00043,2026-03-19,EMEA,partner,Team,20,199.0,0,false
+O-00044,2026-03-18,NA,web,Add-on Seats,20,12.0,0.2,false
+O-00045,2026-02-01,APAC,sales,Support Plan,17,891.0,0.1,false
+O-00046,2026-02-24,EMEA,web,Team,9,199.0,0,false
+O-00047,2026-09-17,LATAM,sales,Starter,4,49.0,0,false
+O-00048,2026-09-16,NA,sales,Business,17,449.1,0.1,false
+O-00049,2026-09-17,NA,sales,Support Plan,11,990.0,0,false
+O-00050,2026-03-12,LATAM,web,Add-on Seats,15,15.0,0,false
+O-00051,2026-05-04,LATAM,web,Team,10,199.0,0,false
+O-00052,2026-03-21,APAC,web,Business,5,474.05,0.05,false
+O-00053,2026-02-18,LATAM,partner,Team,8,199.0,0,false
+O-00054,2026-09-21,LATAM,partner,Add-on Seats,8,15.0,0,false
+O-00055,2026-07-07,EMEA,partner,Support Plan,16,792.0,0.2,true
+O-00056,2026-06-19,APAC,sales,Starter,4,49.0,0,false
+O-00057,2026-02-23,EMEA,partner,Business,2,499.0,0,false
+O-00058,2026-03-08,LATAM,sales,Business,13,499.0,0,false
+O-00059,2026-09-21,LATAM,sales,Business,4,499.0,0,false
+O-00060,2026-04-04,LATAM,web,Business,1,399.2,0.2,false
+O-00061,2026-05-14,EMEA,sales,Team,3,199.0,0,false
+O-00062,2026-08-21,EMEA,partner,Support Plan,15,891.0,0.1,false
+O-00063,2026-09-27,NA,web,Team,9,199.0,0,false
+O-00064,2026-06-09,APAC,sales,Team,10,189.05,0.05,false
+O-00065,2026-04-02,APAC,partner,Starter,9,49.0,0,true
+O-00066,2026-09-16,NA,sales,Add-on Seats,9,15.0,0,false
+O-00067,2026-08-10,LATAM,sales,Add-on Seats,18,12.0,0.2,false
+O-00068,2026-04-28,APAC,web,Team,13,199.0,0,false
+O-00069,2026-03-08,EMEA,web,Business,14,499.0,0,false
+O-00070,2026-07-15,APAC,sales,Team,10,189.05,0.05,false
+O-00071,2026-05-18,LATAM,web,Business,12,499.0,0,false
+O-00072,2026-06-15,NA,web,Business,7,499.0,0,false
+O-00073,2026-06-21,LATAM,web,Add-on Seats,9,13.5,0.1,false
+O-00074,2026-05-08,EMEA,web,Business,3,499.0,0,false
+O-00075,2026-01-22,LATAM,web,Business,10,399.2,0.2,false
+O-00076,2026-09-28,NA,sales,Support Plan,14,792.0,0.2,false
+O-00077,2026-03-18,APAC,sales,Support Plan,5,990.0,0,false
+O-00078,2026-09-20,LATAM,sales,Support Plan,7,891.0,0.1,false
+O-00079,2026-01-09,NA,web,Starter,2,49.0,0,false
+O-00080,2026-02-23,LATAM,partner,Support Plan,2,792.0,0.2,true
+O-00081,2026-09-30,NA,partner,Business,2,499.0,0,false
+O-00082,2026-09-15,EMEA,sales,Support Plan,5,792.0,0.2,false
+O-00083,2026-02-08,APAC,web,Team,8,159.2,0.2,false
+O-00084,2026-08-24,LATAM,partner,Starter,18,49.0,0,false
+O-00085,2026-04-12,EMEA,sales,Team,11,199.0,0,false
+O-00086,2026-06-05,NA,web,Add-on Seats,2,14.25,0.05,false
+O-00087,2026-02-20,NA,sales,Add-on Seats,10,12.0,0.2,false
+O-00088,2026-08-26,LATAM,partner,Starter,18,49.0,0,false
+O-00089,2026-08-31,EMEA,partner,Add-on Seats,5,14.25,0.05,false
+O-00090,2026-07-18,NA,web,Starter,19,49.0,0,false
+O-00091,2026-05-15,APAC,web,Support Plan,17,990.0,0,false
+O-00092,2026-07-06,NA,partner,Add-on Seats,13,15.0,0,true
+O-00093,2026-09-09,LATAM,partner,Business,6,499.0,0,false
+O-00094,2026-03-03,APAC,web,Business,11,474.05,0.05,false
+O-00095,2026-04-11,EMEA,sales,Business,9,499.0,0,false
+O-00096,2026-07-19,EMEA,partner,Add-on Seats,9,15.0,0,false
+O-00097,2026-05-27,NA,web,Business,14,449.1,0.1,false
+O-00098,2026-07-11,LATAM,web,Add-on Seats,20,15.0,0,false
+O-00099,2026-01-26,LATAM,partner,Support Plan,5,792.0,0.2,false
+O-00100,2026-09-06,EMEA,sales,Team,7,189.05,0.05,false
+O-00101,2026-06-02,APAC,sales,Business,13,399.2,0.2,false
+O-00102,2026-09-05,LATAM,web,Team,6,199.0,0,false
+O-00103,2026-09-12,NA,partner,Business,16,499.0,0,false
+O-00104,2026-05-05,EMEA,web,Business,18,499.0,0,false
+O-00105,2026-07-08,APAC,sales,Team,3,189.05,0.05,false
+O-00106,2026-09-26,NA,partner,Business,11,474.05,0.05,false
+O-00107,2026-07-04,NA,sales,Support Plan,19,990.0,0,false
+O-00108,2026-05-08,LATAM,partner,Add-on Seats,14,15.0,0,false
+O-00109,2026-01-12,NA,web,Add-on Seats,16,13.5,0.1,false
+O-00110,2026-02-07,LATAM,sales,Add-on Seats,15,15.0,0,false
+O-00111,2026-04-25,NA,web,Support Plan,4,792.0,0.2,false
+O-00112,2026-08-23,EMEA,sales,Starter,1,49.0,0,false
+O-00113,2026-01-20,APAC,web,Business,17,399.2,0.2,false
+O-00114,2026-02-27,EMEA,web,Business,17,449.1,0.1,false
+O-00115,2026-05-14,NA,sales,Starter,1,44.1,0.1,false
+O-00116,2026-08-24,APAC,partner,Team,4,179.1,0.1,false
+O-00117,2026-05-07,EMEA,partner,Business,2,499.0,0,false
+O-00118,2026-08-04,EMEA,partner,Team,15,199.0,0,false
+O-00119,2026-06-23,LATAM,partner,Add-on Seats,7,15.0,0,false
+O-00120,2026-09-16,EMEA,web,Add-on Seats,8,15.0,0,false
+O-00121,2026-04-24,APAC,partner,Starter,20,46.55,0.05,false
+O-00122,2026-04-25,LATAM,partner,Starter,20,49.0,0,false
+O-00123,2026-01-28,NA,web,Support Plan,5,940.5,0.05,false
+O-00124,2026-01-31,NA,partner,Add-on Seats,11,12.0,0.2,false
+O-00125,2026-02-10,NA,partner,Team,6,159.2,0.2,false
+O-00126,2026-08-28,EMEA,partner,Add-on Seats,13,14.25,0.05,false
+O-00127,2026-01-02,EMEA,partner,Starter,12,46.55,0.05,false
+O-00128,2026-03-05,NA,partner,Business,10,474.05,0.05,false
+O-00129,2026-08-31,NA,partner,Support Plan,15,990.0,0,false
+O-00130,2026-08-31,EMEA,sales,Add-on Seats,10,14.25,0.05,false
+O-00131,2026-01-18,LATAM,web,Starter,9,49.0,0,false
+O-00132,2026-06-23,APAC,partner,Business,20,499.0,0,false
+O-00133,2026-06-12,APAC,partner,Starter,20,39.2,0.2,false
+O-00134,2026-02-03,EMEA,web,Starter,16,39.2,0.2,false
+O-00135,2026-07-17,APAC,partner,Add-on Seats,1,14.25,0.05,false
+O-00136,2026-06-05,NA,sales,Team,11,199.0,0,false
+O-00137,2026-02-10,NA,partner,Team,8,189.05,0.05,false
+O-00138,2026-01-18,LATAM,sales,Support Plan,11,990.0,0,false
+O-00139,2026-02-23,EMEA,partner,Support Plan,3,990.0,0,false
+O-00140,2026-09-13,LATAM,web,Team,6,189.05,0.05,false
+O-00141,2026-05-01,EMEA,partner,Business,9,449.1,0.1,false
+O-00142,2026-05-11,APAC,web,Add-on Seats,8,15.0,0,false
+O-00143,2026-03-20,APAC,sales,Team,11,199.0,0,false
+O-00144,2026-05-06,NA,sales,Starter,15,49.0,0,false
+O-00145,2026-09-01,NA,partner,Business,3,499.0,0,false
+O-00146,2026-04-08,NA,web,Business,17,499.0,0,false
+O-00147,2026-05-14,EMEA,web,Support Plan,20,990.0,0,false
+O-00148,2026-07-08,APAC,web,Starter,8,49.0,0,false
+O-00149,2026-04-15,EMEA,partner,Add-on Seats,12,15.0,0,false
+O-00150,2026-02-09,NA,web,Add-on Seats,18,14.25,0.05,false
+O-00151,2026-02-21,LATAM,sales,Support Plan,5,792.0,0.2,false
+O-00152,2026-03-25,LATAM,sales,Business,14,499.0,0,false
+O-00153,2026-08-02,EMEA,partner,Support Plan,13,940.5,0.05,true
+O-00154,2026-07-06,NA,partner,Add-on Seats,7,14.25,0.05,false
+O-00155,2026-08-05,EMEA,web,Add-on Seats,20,14.25,0.05,false
+O-00156,2026-03-08,EMEA,web,Support Plan,5,792.0,0.2,false
+O-00157,2026-07-23,EMEA,sales,Support Plan,14,891.0,0.1,false
+O-00158,2026-06-28,APAC,web,Support Plan,6,990.0,0,false
+O-00159,2026-09-09,NA,partner,Team,3,199.0,0,false
+O-00160,2026-07-18,EMEA,sales,Support Plan,8,990.0,0,false
+O-00161,2026-04-11,LATAM,web,Support Plan,7,990.0,0,false
+O-00162,2026-09-23,NA,partner,Business,4,499.0,0,false
+O-00163,2026-04-09,EMEA,sales,Starter,11,49.0,0,false
+O-00164,2026-08-22,APAC,sales,Add-on Seats,12,15.0,0,false
+O-00165,2026-07-08,LATAM,sales,Add-on Seats,6,15.0,0,false
+O-00166,2026-09-08,LATAM,web,Add-on Seats,21,15.0,0,false
+O-00167,2026-07-24,EMEA,web,Team,13,199.0,0,false
+O-00168,2026-08-15,EMEA,web,Team,5,199.0,0,false
+O-00169,2026-09-19,EMEA,web,Support Plan,15,990.0,0,true
+O-00170,2026-02-03,EMEA,web,Team,16,199.0,0,false
+O-00171,2026-03-26,NA,web,Business,20,499.0,0,false
+O-00172,2026-05-21,LATAM,web,Business,17,474.05,0.05,false
+O-00173,2026-05-15,NA,partner,Business,2,499.0,0,false
+O-00174,2026-03-24,APAC,sales,Business,13,499.0,0,false
+O-00175,2026-05-16,EMEA,sales,Starter,12,46.55,0.05,false
+O-00176,2026-02-23,APAC,sales,Add-on Seats,12,15.0,0,false
+O-00177,2026-07-08,NA,partner,Business,4,499.0,0,false
+O-00178,2026-01-25,APAC,sales,Business,10,399.2,0.2,false
+O-00179,2026-06-10,EMEA,sales,Starter,8,49.0,0,false
+O-00180,2026-08-10,LATAM,sales,Business,2,474.05,0.05,false
+O-00181,2026-01-24,EMEA,web,Starter,19,49.0,0,false
+O-00182,2026-09-25,APAC,sales,Team,16,199.0,0,false
+O-00183,2026-04-15,APAC,sales,Add-on Seats,6,15.0,0,true
+O-00184,2026-05-05,NA,partner,Starter,3,39.2,0.2,false
+O-00185,2026-05-19,LATAM,partner,Starter,2,39.2,0.2,false
+O-00186,2026-06-29,LATAM,sales,Support Plan,16,990.0,0,false
+O-00187,2026-01-01,EMEA,web,Support Plan,1,940.5,0.05,false
+O-00188,2026-03-23,EMEA,web,Starter,20,44.1,0.1,false
+O-00189,2026-04-11,NA,partner,Team,17,179.1,0.1,false
+O-00190,2026-08-01,NA,sales,Business,4,399.2,0.2,false
+O-00191,2026-09-02,EMEA,partner,Add-on Seats,15,12.0,0.2,false
+O-00192,2026-03-31,NA,web,Business,8,399.2,0.2,true
+O-00193,2026-06-21,APAC,sales,Starter,9,39.2,0.2,false
+O-00194,2026-08-12,APAC,partner,Team,1,179.1,0.1,true
+O-00195,2026-05-14,NA,sales,Team,6,159.2,0.2,false
+O-00196,2026-04-09,LATAM,partner,Support Plan,8,940.5,0.05,false
+O-00197,2026-08-29,LATAM,sales,Starter,2,39.2,0.2,false
+O-00198,2026-06-07,NA,partner,Support Plan,19,990.0,0,false
+O-00199,2026-03-29,NA,web,Starter,4,49.0,0,false
+O-00200,2026-03-24,APAC,web,Starter,1,49.0,0,false
+O-00201,2026-01-22,EMEA,sales,Starter,3,44.1,0.1,false
+O-00202,2026-04-13,EMEA,sales,Add-on Seats,4,15.0,0,false
+O-00203,2026-02-27,EMEA,web,Starter,10,46.55,0.05,false
+O-00204,2026-02-20,NA,partner,Business,11,474.05,0.05,false
+O-00205,2026-06-29,APAC,partner,Starter,12,49.0,0,false
+O-00206,2026-09-15,LATAM,partner,Support Plan,2,990.0,0,false
+O-00207,2026-02-20,APAC,partner,Starter,18,44.1,0.1,false
+O-00208,2026-02-16,APAC,web,Add-on Seats,1,13.5,0.1,false
+O-00209,2026-01-28,EMEA,partner,Add-on Seats,4,14.25,0.05,false
+O-00210,2026-04-05,LATAM,sales,Business,17,499.0,0,false
+O-00211,2026-03-23,APAC,web,Team,16,199.0,0,false
+O-00212,2026-02-11,LATAM,sales,Support Plan,4,792.0,0.2,false
+O-00213,2026-02-18,LATAM,partner,Starter,14,39.2,0.2,true
+O-00214,2026-04-16,APAC,partner,Add-on Seats,18,13.5,0.1,false
+O-00215,2026-04-30,LATAM,web,Support Plan,20,792.0,0.2,false
+O-00216,2026-01-18,APAC,sales,Business,17,499.0,0,false
+O-00217,2026-08-19,APAC,web,Add-on Seats,17,15.0,0,false
+O-00218,2026-03-06,APAC,partner,Team,17,199.0,0,false
+O-00219,2026-03-21,NA,web,Business,20,449.1,0.1,false
+O-00220,2026-05-01,APAC,web,Business,4,499.0,0,false
+O-00221,2026-02-22,NA,partner,Team,5,199.0,0,false
+O-00222,2026-08-11,APAC,web,Starter,5,49.0,0,false
+O-00223,2026-08-26,EMEA,web,Add-on Seats,16,15.0,0,false
+O-00224,2026-06-01,LATAM,web,Team,9,179.1,0.1,false
+O-00225,2026-01-03,NA,partner,Support Plan,19,792.0,0.2,false
+O-00226,2026-04-28,NA,sales,Team,4,189.05,0.05,false
+O-00227,2026-05-14,EMEA,partner,Team,13,159.2,0.2,false
+O-00228,2026-03-22,APAC,partner,Add-on Seats,15,15.0,0,false
+O-00229,2026-07-29,NA,sales,Business,2,474.05,0.05,false
+O-00230,2026-02-24,EMEA,partner,Support Plan,7,990.0,0,false
+O-00231,2026-04-13,APAC,web,Support Plan,15,891.0,0.1,false
+O-00232,2026-09-01,EMEA,sales,Business,18,474.05,0.05,false
+O-00233,2026-08-22,NA,sales,Team,15,199.0,0,false
+O-00234,2026-07-02,EMEA,partner,Business,14,499.0,0,true
+O-00235,2026-08-03,LATAM,sales,Business,20,499.0,0,false
+O-00236,2026-07-25,NA,partner,Add-on Seats,7,15.0,0,false
+O-00237,2026-02-05,NA,partner,Support Plan,8,990.0,0,false
+O-00238,2026-07-31,LATAM,partner,Support Plan,6,990.0,0,false
+O-00239,2026-04-28,APAC,sales,Add-on Seats,9,14.25,0.05,false
+O-00240,2026-09-04,EMEA,sales,Business,12,399.2,0.2,false
+O-00241,2026-09-03,LATAM,partner,Support Plan,5,990.0,0,false
+O-00242,2026-06-05,LATAM,web,Starter,19,49.0,0,false
+O-00243,2026-03-13,APAC,sales,Support Plan,1,792.0,0.2,true
+O-00244,2026-02-06,APAC,partner,Support Plan,4,891.0,0.1,false
+O-00245,2026-04-30,NA,partner,Business,5,499.0,0,false
+O-00246,2026-03-27,EMEA,sales,Support Plan,10,990.0,0,false
+O-00247,2026-04-20,EMEA,sales,Add-on Seats,4,13.5,0.1,false
+O-00248,2026-08-03,NA,web,Add-on Seats,18,15.0,0,false
+O-00249,2026-03-15,LATAM,web,Add-on Seats,6,13.5,0.1,false
+O-00250,2026-01-04,NA,partner,Add-on Seats,19,14.25,0.05,false
+O-00251,2026-08-27,APAC,partner,Add-on Seats,1,15.0,0,false
+O-00252,2026-01-15,EMEA,sales,Starter,11,49.0,0,false
+O-00253,2026-09-06,NA,web,Team,16,199.0,0,false
+O-00254,2026-07-07,APAC,partner,Support Plan,4,990.0,0,false
+O-00255,2026-06-25,LATAM,partner,Support Plan,2,990.0,0,false
+O-00256,2026-09-10,LATAM,partner,Support Plan,11,990.0,0,false
+O-00257,2026-09-10,EMEA,partner,Team,13,199.0,0,false
+O-00258,2026-02-14,EMEA,partner,Support Plan,13,891.0,0.1,false
+O-00259,2026-07-24,APAC,web,Starter,2,46.55,0.05,false
+O-00260,2026-01-31,LATAM,sales,Team,20,159.2,0.2,false
+O-00261,2026-01-21,LATAM,sales,Team,4,159.2,0.2,false
+O-00262,2026-01-19,LATAM,web,Starter,12,49.0,0,false
+O-00263,2026-05-13,APAC,web,Add-on Seats,2,15.0,0,true
+O-00264,2026-01-28,LATAM,sales,Support Plan,2,990.0,0,false
+O-00265,2026-08-04,LATAM,partner,Starter,3,46.55,0.05,false
+O-00266,2026-03-21,LATAM,partner,Support Plan,4,990.0,0,false
+O-00267,2026-04-19,NA,sales,Starter,14,49.0,0,true
+O-00268,2026-03-04,EMEA,web,Starter,5,46.55,0.05,true
+O-00269,2026-05-05,LATAM,sales,Team,2,199.0,0,false
+O-00270,2026-03-16,EMEA,partner,Support Plan,16,940.5,0.05,false
+O-00271,2026-05-11,EMEA,sales,Starter,1,49.0,0,true
+O-00272,2026-02-10,LATAM,partner,Business,20,499.0,0,false
+O-00273,2026-09-07,EMEA,partner,Business,21,474.05,0.05,false
+O-00274,2026-03-27,NA,web,Business,6,399.2,0.2,false
+O-00275,2026-09-02,LATAM,partner,Business,20,499.0,0,false
+O-00276,2026-06-20,EMEA,web,Support Plan,10,891.0,0.1,false
+O-00277,2026-05-07,LATAM,partner,Add-on Seats,20,15.0,0,false
+O-00278,2026-05-26,EMEA,partner,Business,9,474.05,0.05,false
+O-00279,2026-01-22,APAC,web,Support Plan,5,990.0,0,false
+O-00280,2026-09-13,APAC,sales,Starter,20,46.55,0.05,false
+O-00281,2026-04-13,NA,partner,Support Plan,2,792.0,0.2,false
+O-00282,2026-04-16,APAC,sales,Starter,13,46.55,0.05,false
+O-00283,2026-07-01,EMEA,web,Add-on Seats,21,15.0,0,false
+O-00284,2026-09-25,APAC,partner,Support Plan,4,990.0,0,false
+O-00285,2026-04-09,EMEA,web,Business,12,449.1,0.1,false
+O-00286,2026-07-26,NA,web,Starter,17,49.0,0,false
+O-00287,2026-08-26,EMEA,web,Business,20,499.0,0,false
+O-00288,2026-01-11,EMEA,web,Team,19,189.05,0.05,false
+O-00289,2026-04-20,APAC,partner,Add-on Seats,4,14.25,0.05,false
+O-00290,2026-03-09,APAC,web,Business,7,499.0,0,false
+O-00291,2026-01-15,EMEA,web,Support Plan,12,792.0,0.2,false
+O-00292,2026-02-02,LATAM,web,Starter,9,49.0,0,false
+O-00293,2026-02-15,LATAM,web,Add-on Seats,6,15.0,0,false
+O-00294,2026-04-24,NA,web,Business,12,499.0,0,false
+O-00295,2026-01-15,EMEA,partner,Support Plan,16,990.0,0,false
+O-00296,2026-06-12,EMEA,web,Business,19,449.1,0.1,false
+O-00297,2026-02-23,LATAM,partner,Business,9,474.05,0.05,false
+O-00298,2026-09-04,LATAM,web,Add-on Seats,8,12.0,0.2,false
+O-00299,2026-08-28,NA,web,Team,8,179.1,0.1,false
+O-00300,2026-03-13,LATAM,web,Add-on Seats,1,12.0,0.2,false
+O-00301,2026-06-23,APAC,web,Add-on Seats,4,12.0,0.2,false
+O-00302,2026-06-19,NA,sales,Starter,6,39.2,0.2,false
+O-00303,2026-03-16,LATAM,web,Business,14,474.05,0.05,false
+O-00304,2026-01-14,APAC,sales,Business,11,499.0,0,false
+O-00305,2026-02-25,APAC,partner,Add-on Seats,4,15.0,0,false
+O-00306,2026-01-30,NA,sales,Add-on Seats,10,15.0,0,false
+O-00307,2026-04-14,APAC,partner,Business,8,499.0,0,false
+O-00308,2026-05-29,LATAM,web,Starter,10,49.0,0,false
+O-00309,2026-01-09,LATAM,sales,Business,17,499.0,0,false
+O-00310,2026-09-27,APAC,web,Business,14,474.05,0.05,false
+O-00311,2026-04-03,NA,web,Support Plan,8,792.0,0.2,false
+O-00312,2026-02-10,EMEA,sales,Add-on Seats,9,15.0,0,false
+O-00313,2026-04-09,APAC,web,Starter,3,39.2,0.2,false
+O-00314,2026-07-28,EMEA,sales,Business,12,399.2,0.2,false
+O-00315,2026-09-10,EMEA,web,Add-on Seats,16,12.0,0.2,false
+O-00316,2026-04-06,APAC,web,Team,12,179.1,0.1,false
+O-00317,2026-01-03,APAC,sales,Add-on Seats,17,15.0,0,false
+O-00318,2026-05-06,APAC,sales,Add-on Seats,19,15.0,0,false
+O-00319,2026-02-25,LATAM,partner,Support Plan,1,891.0,0.1,false
+O-00320,2026-03-10,EMEA,web,Starter,8,44.1,0.1,false
+O-00321,2026-02-22,APAC,partner,Support Plan,1,990.0,0,false
+O-00322,2026-04-10,APAC,web,Support Plan,19,940.5,0.05,false
+O-00323,2026-08-16,EMEA,partner,Starter,6,49.0,0,false
+O-00324,2026-09-10,APAC,web,Starter,5,49.0,0,false
+O-00325,2026-04-27,NA,web,Support Plan,15,792.0,0.2,false
+O-00326,2026-01-10,LATAM,sales,Add-on Seats,20,13.5,0.1,false
+O-00327,2026-07-22,EMEA,partner,Business,13,499.0,0,false
+O-00328,2026-06-14,LATAM,sales,Starter,11,44.1,0.1,false
+O-00329,2026-06-30,NA,partner,Starter,12,49.0,0,false
+O-00330,2026-02-05,APAC,partner,Team,17,159.2,0.2,true
+O-00331,2026-03-13,LATAM,partner,Add-on Seats,2,15.0,0,true
+O-00332,2026-05-17,APAC,sales,Support Plan,2,891.0,0.1,false
+O-00333,2026-03-04,EMEA,partner,Team,2,199.0,0,false
+O-00334,2026-06-27,NA,web,Starter,20,44.1,0.1,false
+O-00335,2026-02-13,LATAM,sales,Support Plan,5,940.5,0.05,false
+O-00336,2026-03-09,APAC,partner,Support Plan,10,990.0,0,false
+O-00337,2026-02-14,APAC,partner,Support Plan,19,990.0,0,false
+O-00338,2026-04-14,APAC,partner,Support Plan,10,891.0,0.1,false
+O-00339,2026-06-08,EMEA,web,Business,8,499.0,0,false
+O-00340,2026-07-16,LATAM,web,Business,6,499.0,0,false
+O-00341,2026-09-09,APAC,partner,Team,2,199.0,0,false
+O-00342,2026-03-23,EMEA,sales,Business,15,399.2,0.2,false
+O-00343,2026-07-18,LATAM,partner,Starter,17,39.2,0.2,false
+O-00344,2026-03-21,LATAM,partner,Business,5,399.2,0.2,false
+O-00345,2026-05-22,EMEA,sales,Add-on Seats,9,12.0,0.2,false
+O-00346,2026-03-07,LATAM,web,Starter,14,44.1,0.1,false
+O-00347,2026-09-12,LATAM,sales,Team,15,179.1,0.1,false
+O-00348,2026-07-14,LATAM,sales,Add-on Seats,12,15.0,0,false
+O-00349,2026-07-20,LATAM,sales,Business,3,474.05,0.05,false
+O-00350,2026-06-03,NA,sales,Business,5,474.05,0.05,false
+O-00351,2026-04-29,EMEA,partner,Business,20,499.0,0,false
+O-00352,2026-04-15,LATAM,web,Starter,2,49.0,0,false
+O-00353,2026-09-12,APAC,sales,Business,20,474.05,0.05,false
+O-00354,2026-09-22,LATAM,partner,Add-on Seats,12,13.5,0.1,false
+O-00355,2026-08-20,EMEA,sales,Starter,17,49.0,0,false
+O-00356,2026-09-14,LATAM,sales,Support Plan,19,990.0,0,false
+O-00357,2026-09-07,LATAM,partner,Support Plan,20,792.0,0.2,false
+O-00358,2026-02-17,NA,partner,Business,12,499.0,0,false
+O-00359,2026-09-20,NA,web,Business,13,474.05,0.05,false
+O-00360,2026-09-26,APAC,sales,Team,17,189.05,0.05,false
+O-00361,2026-02-24,APAC,sales,Starter,14,49.0,0,false
+O-00362,2026-06-07,EMEA,partner,Add-on Seats,4,13.5,0.1,true
+O-00363,2026-01-16,NA,web,Add-on Seats,18,13.5,0.1,false
+O-00364,2026-09-30,NA,sales,Team,16,199.0,0,false
+O-00365,2026-09-23,EMEA,web,Starter,3,44.1,0.1,false
+O-00366,2026-08-28,LATAM,web,Starter,20,49.0,0,false
+O-00367,2026-07-01,APAC,web,Starter,11,49.0,0,false
+O-00368,2026-02-02,APAC,web,Add-on Seats,20,14.25,0.05,true
+O-00369,2026-04-23,LATAM,sales,Starter,15,49.0,0,false
+O-00370,2026-05-08,NA,web,Team,19,199.0,0,false
+O-00371,2026-08-22,APAC,partner,Support Plan,2,940.5,0.05,false
+O-00372,2026-02-04,NA,sales,Add-on Seats,19,15.0,0,false
+O-00373,2026-07-24,LATAM,web,Team,3,199.0,0,false
+O-00374,2026-04-06,EMEA,partner,Add-on Seats,18,15.0,0,false
+O-00375,2026-07-17,APAC,partner,Starter,1,46.55,0.05,false
+O-00376,2026-06-29,NA,partner,Team,15,199.0,0,false
+O-00377,2026-08-12,EMEA,partner,Starter,11,49.0,0,false
+O-00378,2026-02-17,NA,partner,Support Plan,5,891.0,0.1,false
+O-00379,2026-05-03,NA,partner,Business,7,399.2,0.2,false
+O-00380,2026-04-17,APAC,partner,Support Plan,7,990.0,0,false
+O-00381,2026-03-09,APAC,sales,Add-on Seats,19,15.0,0,false
+O-00382,2026-07-26,NA,web,Starter,17,44.1,0.1,false
+O-00383,2026-07-17,EMEA,sales,Support Plan,6,990.0,0,false
+O-00384,2026-02-14,NA,web,Business,7,399.2,0.2,false
+O-00385,2026-02-04,APAC,sales,Business,7,499.0,0,false
+O-00386,2026-02-15,NA,partner,Team,13,199.0,0,false
+O-00387,2026-08-26,NA,partner,Team,2,159.2,0.2,false
+O-00388,2026-06-29,LATAM,web,Add-on Seats,8,14.25,0.05,false
+O-00389,2026-02-20,NA,partner,Starter,9,44.1,0.1,false
+O-00390,2026-01-21,LATAM,web,Support Plan,6,940.5,0.05,false
+O-00391,2026-06-05,NA,partner,Starter,18,49.0,0,false
+O-00392,2026-04-02,NA,sales,Add-on Seats,17,15.0,0,false
+O-00393,2026-06-28,EMEA,web,Business,2,449.1,0.1,false
+O-00394,2026-01-25,NA,sales,Starter,2,49.0,0,false
+O-00395,2026-06-26,EMEA,partner,Add-on Seats,20,15.0,0,false
+O-00396,2026-02-16,APAC,partner,Add-on Seats,11,12.0,0.2,false
+O-00397,2026-08-20,EMEA,sales,Team,16,179.1,0.1,false
+O-00398,2026-03-07,LATAM,web,Starter,18,49.0,0,false
+O-00399,2026-03-25,NA,sales,Business,8,499.0,0,false
+O-00400,2026-06-27,LATAM,web,Team,10,199.0,0,false
+O-00401,2026-09-07,LATAM,web,Team,3,159.2,0.2,false
+O-00402,2026-06-29,APAC,web,Team,19,179.1,0.1,false
+O-00403,2026-03-02,LATAM,web,Team,20,189.05,0.05,false
+O-00404,2026-07-27,NA,web,Business,2,474.05,0.05,false
+O-00405,2026-01-31,APAC,partner,Team,4,159.2,0.2,false
+O-00406,2026-02-27,NA,partner,Add-on Seats,15,13.5,0.1,false
+O-00407,2026-03-28,EMEA,web,Starter,15,46.55,0.05,false
+O-00408,2026-06-19,APAC,web,Add-on Seats,14,14.25,0.05,false
+O-00409,2026-06-14,EMEA,partner,Starter,10,39.2,0.2,false
+O-00410,2026-05-09,NA,web,Team,1,199.0,0,false
+O-00411,2026-03-16,APAC,partner,Team,17,159.2,0.2,false
+O-00412,2026-06-08,APAC,partner,Team,12,199.0,0,false
+O-00413,2026-03-11,APAC,partner,Team,2,199.0,0,false
+O-00414,2026-07-26,EMEA,web,Add-on Seats,15,12.0,0.2,false
+O-00415,2026-06-03,EMEA,web,Team,6,199.0,0,false
+O-00416,2026-07-25,EMEA,web,Add-on Seats,16,15.0,0,false
+O-00417,2026-01-02,EMEA,sales,Support Plan,14,990.0,0,false
+O-00418,2026-01-29,LATAM,partner,Starter,15,49.0,0,false
+O-00419,2026-04-01,NA,partner,Business,1,474.05,0.05,false
+O-00420,2026-06-28,NA,partner,Starter,18,49.0,0,false
+O-00421,2026-08-08,NA,partner,Support Plan,20,990.0,0,false
+O-00422,2026-06-19,APAC,sales,Support Plan,14,990.0,0,false
+O-00423,2026-03-12,APAC,partner,Support Plan,1,990.0,0,false
+O-00424,2026-08-18,EMEA,web,Support Plan,14,891.0,0.1,false
+O-00425,2026-07-04,NA,sales,Add-on Seats,14,15.0,0,false
+O-00426,2026-04-14,EMEA,web,Business,4,499.0,0,false
+O-00427,2026-05-09,LATAM,web,Support Plan,15,990.0,0,false
+O-00428,2026-02-27,EMEA,partner,Starter,15,49.0,0,false
+O-00429,2026-09-17,EMEA,sales,Support Plan,5,792.0,0.2,false
+O-00430,2026-03-29,NA,sales,Add-on Seats,3,15.0,0,false
+O-00431,2026-01-30,LATAM,web,Starter,12,49.0,0,true
+O-00432,2026-04-20,LATAM,partner,Starter,5,46.55,0.05,false
+O-00433,2026-02-14,NA,sales,Starter,12,49.0,0,false
+O-00434,2026-06-24,EMEA,partner,Starter,8,49.0,0,false
+O-00435,2026-09-26,APAC,sales,Add-on Seats,4,15.0,0,false
+O-00436,2026-06-17,EMEA,web,Team,9,199.0,0,false
+O-00437,2026-08-17,EMEA,sales,Add-on Seats,4,14.25,0.05,false
+O-00438,2026-05-13,NA,web,Support Plan,10,792.0,0.2,false
+O-00439,2026-03-15,APAC,sales,Business,15,499.0,0,true
+O-00440,2026-03-19,LATAM,sales,Add-on Seats,2,15.0,0,false
+O-00441,2026-07-20,LATAM,web,Add-on Seats,13,13.5,0.1,false
+O-00442,2026-07-04,APAC,sales,Team,10,179.1,0.1,false
+O-00443,2026-04-19,NA,partner,Add-on Seats,11,13.5,0.1,false
+O-00444,2026-07-01,APAC,web,Business,20,499.0,0,false
+O-00445,2026-05-08,LATAM,sales,Starter,5,39.2,0.2,false
+O-00446,2026-05-20,LATAM,partner,Starter,17,49.0,0,false
+O-00447,2026-09-28,NA,sales,Starter,18,49.0,0,false
+O-00448,2026-02-20,APAC,partner,Team,5,159.2,0.2,false
+O-00449,2026-06-24,APAC,sales,Team,12,179.1,0.1,false
+O-00450,2026-06-21,EMEA,sales,Business,11,474.05,0.05,false
+O-00451,2026-05-05,NA,partner,Team,5,199.0,0,true
+O-00452,2026-08-21,LATAM,partner,Add-on Seats,20,15.0,0,false
+O-00453,2026-03-15,APAC,sales,Business,9,399.2,0.2,false
+O-00454,2026-06-24,EMEA,web,Support Plan,3,891.0,0.1,false
+O-00455,2026-06-30,LATAM,partner,Add-on Seats,3,14.25,0.05,false
+O-00456,2026-03-31,APAC,partner,Support Plan,1,990.0,0,false
+O-00457,2026-05-02,EMEA,web,Starter,13,46.55,0.05,false
+O-00458,2026-05-25,EMEA,web,Team,2,199.0,0,false
+O-00459,2026-02-10,EMEA,sales,Business,5,499.0,0,false
+O-00460,2026-01-08,APAC,web,Team,11,199.0,0,false
+O-00461,2026-01-14,LATAM,partner,Support Plan,11,990.0,0,false
+O-00462,2026-08-01,EMEA,web,Support Plan,12,891.0,0.1,false
+O-00463,2026-08-26,EMEA,web,Business,21,499.0,0,false
+O-00464,2026-06-18,NA,web,Starter,5,49.0,0,false
+O-00465,2026-02-16,APAC,partner,Add-on Seats,12,13.5,0.1,false
+O-00466,2026-03-20,APAC,web,Support Plan,9,792.0,0.2,false
+O-00467,2026-01-17,APAC,sales,Support Plan,15,891.0,0.1,false
+O-00468,2026-09-25,APAC,web,Business,3,474.05,0.05,false
+O-00469,2026-07-05,NA,sales,Team,13,199.0,0,false
+O-00470,2026-03-04,EMEA,sales,Support Plan,7,891.0,0.1,false
+O-00471,2026-05-13,APAC,sales,Team,6,159.2,0.2,false
+O-00472,2026-03-24,EMEA,partner,Team,15,189.05,0.05,false
+O-00473,2026-06-26,LATAM,partner,Team,11,199.0,0,false
+O-00474,2026-01-08,EMEA,sales,Add-on Seats,12,15.0,0,false
+O-00475,2026-07-12,LATAM,partner,Team,2,199.0,0,false
+O-00476,2026-08-11,NA,web,Business,8,474.05,0.05,false
+O-00477,2026-06-02,LATAM,web,Support Plan,6,940.5,0.05,false
+O-00478,2026-05-17,NA,partner,Business,3,499.0,0,true
+O-00479,2026-05-08,NA,partner,Support Plan,20,940.5,0.05,false
+O-00480,2026-01-27,NA,sales,Business,2,474.05,0.05,false
+O-00481,2026-03-13,APAC,sales,Starter,4,49.0,0,false
+O-00482,2026-01-05,NA,partner,Team,17,159.2,0.2,false
+O-00483,2026-03-28,LATAM,sales,Add-on Seats,3,14.25,0.05,false
+O-00484,2026-07-23,APAC,web,Support Plan,8,792.0,0.2,false
+O-00485,2026-01-20,NA,sales,Support Plan,8,891.0,0.1,false
+O-00486,2026-02-23,EMEA,web,Business,3,499.0,0,false
+O-00487,2026-09-07,NA,sales,Add-on Seats,1,15.0,0,false
+O-00488,2026-03-17,EMEA,sales,Business,16,499.0,0,false
+O-00489,2026-04-21,NA,sales,Starter,9,39.2,0.2,false
+O-00490,2026-05-16,APAC,web,Starter,7,44.1,0.1,false
+O-00491,2026-07-05,APAC,web,Business,4,474.05,0.05,false
+O-00492,2026-06-19,LATAM,sales,Business,13,474.05,0.05,false
+O-00493,2026-08-03,LATAM,web,Add-on Seats,14,15.0,0,false
+O-00494,2026-01-03,NA,sales,Support Plan,9,792.0,0.2,false
+O-00495,2026-07-13,NA,web,Starter,5,49.0,0,false
+O-00496,2026-01-26,LATAM,sales,Support Plan,11,792.0,0.2,false
+O-00497,2026-06-11,LATAM,sales,Starter,16,39.2,0.2,false
+O-00498,2026-08-29,APAC,sales,Support Plan,13,792.0,0.2,false
+O-00499,2026-07-13,APAC,sales,Starter,15,49.0,0,false
+O-00500,2026-06-14,EMEA,sales,Support Plan,8,891.0,0.1,false
+O-00501,2026-05-15,LATAM,sales,Business,17,449.1,0.1,false
+O-00502,2026-04-24,NA,web,Support Plan,12,891.0,0.1,false
+O-00503,2026-03-28,APAC,web,Team,5,159.2,0.2,false
+O-00504,2026-01-23,APAC,partner,Business,14,499.0,0,false
+O-00505,2026-05-09,LATAM,web,Business,12,399.2,0.2,false
+O-00506,2026-09-24,APAC,partner,Starter,2,46.55,0.05,false
+O-00507,2026-08-17,EMEA,partner,Add-on Seats,8,15.0,0,true
+O-00508,2026-03-08,APAC,partner,Support Plan,8,891.0,0.1,false
+O-00509,2026-06-24,LATAM,partner,Starter,18,49.0,0,true
+O-00510,2026-05-13,EMEA,sales,Team,10,159.2,0.2,false
+O-00511,2026-06-15,APAC,web,Business,15,499.0,0,false
+O-00512,2026-09-10,EMEA,web,Team,15,179.1,0.1,false
+O-00513,2026-01-23,LATAM,partner,Business,2,399.2,0.2,false
+O-00514,2026-07-28,LATAM,sales,Support Plan,10,990.0,0,false
+O-00515,2026-03-08,NA,sales,Support Plan,12,990.0,0,false
+O-00516,2026-06-18,EMEA,web,Add-on Seats,13,14.25,0.05,false
+O-00517,2026-09-12,EMEA,web,Support Plan,20,940.5,0.05,false
+O-00518,2026-08-12,LATAM,partner,Team,4,189.05,0.05,false
+O-00519,2026-09-20,EMEA,sales,Team,8,179.1,0.1,false
+O-00520,2026-05-31,APAC,partner,Add-on Seats,4,15.0,0,false
+O-00521,2026-02-09,EMEA,web,Add-on Seats,3,15.0,0,false
+O-00522,2026-01-29,NA,sales,Business,16,499.0,0,false
+O-00523,2026-08-02,NA,partner,Starter,6,49.0,0,false
+O-00524,2026-01-04,NA,sales,Business,17,499.0,0,false
+O-00525,2026-07-16,APAC,sales,Business,19,449.1,0.1,false
+O-00526,2026-01-27,APAC,partner,Team,13,189.05,0.05,false
+O-00527,2026-05-12,APAC,web,Team,2,199.0,0,false
+O-00528,2026-07-11,LATAM,sales,Add-on Seats,19,15.0,0,false
+O-00529,2026-06-24,NA,partner,Support Plan,2,792.0,0.2,false
+O-00530,2026-09-30,EMEA,partner,Support Plan,11,990.0,0,false
+O-00531,2026-08-13,APAC,web,Team,21,189.05,0.05,false
+O-00532,2026-08-16,NA,web,Starter,7,39.2,0.2,false
+O-00533,2026-03-12,EMEA,sales,Add-on Seats,6,15.0,0,false
+O-00534,2026-03-26,LATAM,web,Business,7,449.1,0.1,false
+O-00535,2026-03-16,NA,sales,Starter,15,49.0,0,false
+O-00536,2026-02-16,EMEA,partner,Team,9,159.2,0.2,false
+O-00537,2026-08-06,NA,web,Team,2,189.05,0.05,false
+O-00538,2026-04-30,APAC,sales,Support Plan,5,990.0,0,false
+O-00539,2026-06-16,NA,web,Team,13,199.0,0,false
+O-00540,2026-03-21,APAC,web,Support Plan,3,990.0,0,false
+O-00541,2026-04-05,LATAM,partner,Add-on Seats,4,15.0,0,false
+O-00542,2026-03-04,NA,sales,Support Plan,17,990.0,0,false
+O-00543,2026-06-28,EMEA,partner,Starter,7,46.55,0.05,false
+O-00544,2026-06-05,EMEA,web,Team,16,199.0,0,false
+O-00545,2026-04-27,APAC,web,Support Plan,20,990.0,0,false
+O-00546,2026-06-26,NA,web,Business,2,499.0,0,false
+O-00547,2026-08-19,LATAM,web,Business,12,499.0,0,false
+O-00548,2026-06-02,EMEA,sales,Support Plan,15,990.0,0,false
+O-00549,2026-02-27,NA,sales,Add-on Seats,15,15.0,0,true
+O-00550,2026-09-20,EMEA,partner,Team,16,199.0,0,false
+O-00551,2026-03-25,APAC,web,Starter,11,49.0,0,false
+O-00552,2026-09-03,APAC,web,Business,4,499.0,0,false
+O-00553,2026-09-12,APAC,sales,Support Plan,5,940.5,0.05,false
+O-00554,2026-01-22,APAC,partner,Team,10,189.05,0.05,false
+O-00555,2026-03-07,NA,sales,Support Plan,17,990.0,0,false
+O-00556,2026-01-08,EMEA,web,Add-on Seats,19,15.0,0,false
+O-00557,2026-04-28,EMEA,web,Team,9,199.0,0,false
+O-00558,2026-09-23,EMEA,partner,Support Plan,4,792.0,0.2,false
+O-00559,2026-04-30,NA,sales,Support Plan,2,990.0,0,false
+O-00560,2026-06-22,EMEA,web,Team,20,159.2,0.2,false
+O-00561,2026-06-05,APAC,web,Add-on Seats,19,15.0,0,true
+O-00562,2026-07-30,LATAM,web,Starter,8,39.2,0.2,false
+O-00563,2026-03-27,NA,partner,Team,7,199.0,0,false
+O-00564,2026-06-19,EMEA,web,Add-on Seats,2,14.25,0.05,false
+O-00565,2026-06-18,EMEA,sales,Starter,7,39.2,0.2,false
+O-00566,2026-07-07,LATAM,web,Business,19,474.05,0.05,false
+O-00567,2026-09-12,NA,partner,Business,4,474.05,0.05,false
+O-00568,2026-03-26,LATAM,partner,Support Plan,10,792.0,0.2,false
+O-00569,2026-09-30,EMEA,web,Business,8,499.0,0,false
+O-00570,2026-05-02,LATAM,sales,Starter,13,39.2,0.2,false
+O-00571,2026-06-25,LATAM,partner,Starter,8,39.2,0.2,false
+O-00572,2026-06-23,LATAM,partner,Starter,10,46.55,0.05,false
+O-00573,2026-02-26,LATAM,partner,Add-on Seats,20,15.0,0,false
+O-00574,2026-06-21,NA,web,Business,13,474.05,0.05,false
+O-00575,2026-05-30,APAC,web,Business,6,399.2,0.2,false
+O-00576,2026-07-28,NA,web,Team,3,199.0,0,false
+O-00577,2026-06-20,NA,partner,Team,8,199.0,0,false
+O-00578,2026-07-21,APAC,partner,Business,4,449.1,0.1,false
+O-00579,2026-03-25,LATAM,sales,Starter,1,49.0,0,false
+O-00580,2026-05-06,LATAM,sales,Business,12,399.2,0.2,false
+O-00581,2026-09-21,LATAM,web,Business,14,449.1,0.1,false
+O-00582,2026-08-16,APAC,partner,Business,2,399.2,0.2,false
+O-00583,2026-07-12,EMEA,sales,Add-on Seats,17,12.0,0.2,false
+O-00584,2026-01-30,EMEA,sales,Add-on Seats,15,15.0,0,false
+O-00585,2026-03-19,LATAM,web,Business,16,499.0,0,true
+O-00586,2026-05-19,NA,web,Support Plan,19,891.0,0.1,false
+O-00587,2026-07-20,NA,sales,Support Plan,11,990.0,0,false
+O-00588,2026-01-14,LATAM,sales,Add-on Seats,3,12.0,0.2,false
+O-00589,2026-09-10,APAC,sales,Business,11,449.1,0.1,false
+O-00590,2026-01-25,APAC,web,Team,17,199.0,0,false
+O-00591,2026-09-24,NA,sales,Business,4,499.0,0,false
+O-00592,2026-07-04,NA,partner,Business,16,449.1,0.1,false
+O-00593,2026-08-13,LATAM,web,Business,13,499.0,0,false
+O-00594,2026-08-30,APAC,web,Team,21,179.1,0.1,false
+O-00595,2026-03-23,APAC,web,Team,9,179.1,0.1,false
+O-00596,2026-07-30,EMEA,partner,Add-on Seats,14,14.25,0.05,false
+O-00597,2026-05-28,EMEA,partner,Add-on Seats,1,15.0,0,false
+O-00598,2026-06-06,APAC,sales,Business,9,499.0,0,false
+O-00599,2026-02-19,LATAM,sales,Starter,10,49.0,0,false
+O-00600,2026-03-02,LATAM,partner,Business,13,474.05,0.05,false
+O-00601,2026-06-22,APAC,web,Team,18,159.2,0.2,false
+O-00602,2026-05-28,NA,web,Business,3,474.05,0.05,false
+O-00603,2026-01-02,NA,sales,Add-on Seats,13,15.0,0,false
+O-00604,2026-05-21,NA,web,Team,8,179.1,0.1,false
+O-00605,2026-05-25,EMEA,sales,Add-on Seats,10,15.0,0,false
+O-00606,2026-07-16,APAC,sales,Starter,22,44.1,0.1,false
+O-00607,2026-04-20,NA,partner,Starter,12,39.2,0.2,false
+O-00608,2026-02-10,APAC,web,Support Plan,3,990.0,0,false
+O-00609,2026-06-16,NA,web,Add-on Seats,5,14.25,0.05,false
+O-00610,2026-01-31,LATAM,sales,Support Plan,20,990.0,0,true
+O-00611,2026-08-28,EMEA,partner,Team,12,199.0,0,false
+O-00612,2026-09-29,NA,web,Support Plan,8,891.0,0.1,false
+O-00613,2026-01-16,NA,web,Starter,17,49.0,0,false
+O-00614,2026-02-02,APAC,sales,Starter,19,49.0,0,false
+O-00615,2026-09-20,LATAM,web,Starter,14,49.0,0,false
+O-00616,2026-05-09,EMEA,sales,Add-on Seats,19,15.0,0,false
+O-00617,2026-08-21,NA,partner,Support Plan,7,940.5,0.05,false
+O-00618,2026-04-10,EMEA,sales,Support Plan,1,940.5,0.05,false
+O-00619,2026-04-11,APAC,web,Support Plan,10,792.0,0.2,false
+O-00620,2026-01-12,EMEA,web,Business,7,474.05,0.05,true
+O-00621,2026-05-16,APAC,sales,Team,19,159.2,0.2,false
+O-00622,2026-07-01,APAC,web,Starter,8,49.0,0,false
+O-00623,2026-01-16,LATAM,web,Business,4,499.0,0,false
+O-00624,2026-08-30,LATAM,web,Business,12,499.0,0,false
+O-00625,2026-09-28,APAC,sales,Add-on Seats,8,15.0,0,false
+O-00626,2026-04-09,APAC,sales,Add-on Seats,13,15.0,0,false
+O-00627,2026-08-12,NA,web,Starter,4,39.2,0.2,false
+O-00628,2026-07-14,EMEA,web,Starter,15,49.0,0,false
+O-00629,2026-02-06,APAC,partner,Support Plan,18,940.5,0.05,false
+O-00630,2026-04-16,EMEA,web,Team,12,189.05,0.05,false
+O-00631,2026-02-20,NA,web,Add-on Seats,15,13.5,0.1,false
+O-00632,2026-08-14,EMEA,sales,Starter,16,46.55,0.05,false
+O-00633,2026-05-03,LATAM,sales,Add-on Seats,20,15.0,0,false
+O-00634,2026-09-12,LATAM,web,Team,8,189.05,0.05,false
+O-00635,2026-04-25,EMEA,web,Starter,7,49.0,0,true
+O-00636,2026-01-25,LATAM,web,Team,2,179.1,0.1,false
+O-00637,2026-07-31,APAC,web,Team,15,189.05,0.05,false
+O-00638,2026-02-23,EMEA,web,Team,17,199.0,0,false
+O-00639,2026-06-15,EMEA,sales,Add-on Seats,1,15.0,0,false
+O-00640,2026-02-13,EMEA,sales,Starter,18,44.1,0.1,false
+O-00641,2026-07-23,EMEA,sales,Team,1,179.1,0.1,false
+O-00642,2026-08-23,NA,web,Team,14,179.1,0.1,false
+O-00643,2026-09-24,APAC,sales,Starter,5,49.0,0,false
+O-00644,2026-02-21,EMEA,partner,Business,10,499.0,0,false
+O-00645,2026-03-17,LATAM,sales,Support Plan,11,990.0,0,true
+O-00646,2026-02-08,EMEA,web,Support Plan,7,891.0,0.1,false
+O-00647,2026-07-28,NA,sales,Starter,1,39.2,0.2,false
+O-00648,2026-03-11,LATAM,web,Team,20,199.0,0,false
+O-00649,2026-03-10,APAC,partner,Business,1,499.0,0,false
+O-00650,2026-03-25,LATAM,web,Add-on Seats,20,15.0,0,false
+O-00651,2026-05-08,EMEA,partner,Support Plan,1,990.0,0,false
+O-00652,2026-07-02,APAC,web,Team,11,179.1,0.1,false
+O-00653,2026-01-19,APAC,partner,Business,12,499.0,0,false
+O-00654,2026-08-23,NA,web,Support Plan,4,792.0,0.2,false
+O-00655,2026-07-28,EMEA,sales,Team,8,199.0,0,false
+O-00656,2026-08-09,EMEA,web,Support Plan,17,792.0,0.2,false
+O-00657,2026-05-26,LATAM,web,Business,9,499.0,0,false
+O-00658,2026-04-18,APAC,sales,Support Plan,5,792.0,0.2,false
+O-00659,2026-02-04,LATAM,partner,Starter,3,39.2,0.2,false
+O-00660,2026-01-08,EMEA,partner,Starter,5,44.1,0.1,false
+O-00661,2026-09-10,APAC,partner,Team,1,199.0,0,false
+O-00662,2026-07-29,NA,partner,Starter,16,49.0,0,false
+O-00663,2026-01-16,LATAM,web,Starter,7,49.0,0,false
+O-00664,2026-05-23,EMEA,web,Starter,3,49.0,0,false
+O-00665,2026-06-09,APAC,web,Starter,5,46.55,0.05,false
+O-00666,2026-01-30,LATAM,partner,Starter,19,44.1,0.1,false
+O-00667,2026-02-03,APAC,web,Business,5,499.0,0,false
+O-00668,2026-04-01,NA,partner,Business,12,499.0,0,false
+O-00669,2026-02-27,NA,web,Business,13,499.0,0,false
+O-00670,2026-04-10,NA,partner,Business,8,399.2,0.2,false
+O-00671,2026-05-15,EMEA,web,Starter,13,49.0,0,false
+O-00672,2026-01-16,LATAM,partner,Add-on Seats,4,15.0,0,false
+O-00673,2026-09-09,EMEA,partner,Starter,17,49.0,0,false
+O-00674,2026-08-07,LATAM,web,Starter,7,49.0,0,false
+O-00675,2026-08-29,NA,partner,Support Plan,2,891.0,0.1,false
+O-00676,2026-04-21,LATAM,web,Starter,14,44.1,0.1,false
+O-00677,2026-09-25,NA,sales,Business,7,499.0,0,false
+O-00678,2026-08-28,LATAM,sales,Team,4,159.2,0.2,false
+O-00679,2026-04-16,APAC,sales,Business,3,499.0,0,false
+O-00680,2026-09-01,LATAM,partner,Team,17,159.2,0.2,false
+O-00681,2026-09-21,EMEA,sales,Add-on Seats,4,12.0,0.2,false
+O-00682,2026-09-13,NA,sales,Business,6,499.0,0,false
+O-00683,2026-07-08,NA,sales,Team,3,189.05,0.05,false
+O-00684,2026-02-11,LATAM,web,Starter,10,46.55,0.05,false
+O-00685,2026-04-09,APAC,sales,Business,19,499.0,0,false
+O-00686,2026-07-25,EMEA,sales,Team,2,189.05,0.05,false
+O-00687,2026-09-02,APAC,sales,Add-on Seats,9,15.0,0,false
+O-00688,2026-08-29,NA,partner,Add-on Seats,9,15.0,0,true
+O-00689,2026-04-01,APAC,partner,Starter,19,49.0,0,false
+O-00690,2026-05-03,EMEA,web,Support Plan,9,891.0,0.1,false
+O-00691,2026-07-17,NA,partner,Team,18,199.0,0,false
+O-00692,2026-03-18,NA,sales,Team,19,199.0,0,false
+O-00693,2026-01-30,NA,web,Add-on Seats,6,15.0,0,false
+O-00694,2026-08-20,LATAM,partner,Support Plan,8,792.0,0.2,false
+O-00695,2026-07-28,EMEA,web,Add-on Seats,4,15.0,0,false
+O-00696,2026-03-31,NA,partner,Starter,17,46.55,0.05,false
+O-00697,2026-09-20,EMEA,partner,Team,18,179.1,0.1,false
+O-00698,2026-07-09,NA,partner,Starter,20,44.1,0.1,false
+O-00699,2026-05-11,NA,partner,Business,17,499.0,0,false
+O-00700,2026-02-07,EMEA,sales,Add-on Seats,7,12.0,0.2,false
+O-00701,2026-01-05,LATAM,partner,Business,6,474.05,0.05,false
+O-00702,2026-04-30,LATAM,web,Team,18,189.05,0.05,false
+O-00703,2026-03-10,NA,partner,Business,13,399.2,0.2,false
+O-00704,2026-07-06,NA,web,Team,9,199.0,0,false
+O-00705,2026-07-27,LATAM,sales,Starter,18,46.55,0.05,false
+O-00706,2026-07-02,APAC,sales,Add-on Seats,11,14.25,0.05,false
+O-00707,2026-03-24,LATAM,partner,Starter,10,44.1,0.1,false
+O-00708,2026-05-08,NA,partner,Business,9,499.0,0,false
+O-00709,2026-08-21,EMEA,web,Starter,22,46.55,0.05,false
+O-00710,2026-05-20,EMEA,web,Starter,6,49.0,0,false
+O-00711,2026-01-03,NA,web,Team,9,159.2,0.2,false
+O-00712,2026-05-02,EMEA,web,Starter,3,49.0,0,false
+O-00713,2026-03-18,LATAM,partner,Starter,17,49.0,0,false
+O-00714,2026-08-02,LATAM,partner,Business,2,499.0,0,false
+O-00715,2026-02-16,EMEA,sales,Starter,9,49.0,0,false
+O-00716,2026-06-18,APAC,sales,Add-on Seats,5,15.0,0,false
+O-00717,2026-01-27,NA,sales,Add-on Seats,13,15.0,0,false
+O-00718,2026-04-28,APAC,web,Add-on Seats,4,15.0,0,false
+O-00719,2026-04-08,LATAM,partner,Team,20,199.0,0,false
+O-00720,2026-08-30,LATAM,web,Starter,9,49.0,0,false
+O-00721,2026-08-23,NA,partner,Support Plan,16,891.0,0.1,false
+O-00722,2026-01-30,EMEA,web,Starter,8,44.1,0.1,false
+O-00723,2026-08-21,NA,web,Team,12,199.0,0,false
+O-00724,2026-02-01,NA,partner,Business,10,474.05,0.05,false
+O-00725,2026-06-06,EMEA,sales,Business,3,499.0,0,false
+O-00726,2026-09-21,NA,web,Team,9,199.0,0,false
+O-00727,2026-03-03,APAC,sales,Add-on Seats,17,15.0,0,false
+O-00728,2026-02-24,EMEA,sales,Add-on Seats,14,14.25,0.05,false
+O-00729,2026-09-20,NA,partner,Business,18,474.05,0.05,false
+O-00730,2026-07-10,LATAM,sales,Business,20,499.0,0,false
+O-00731,2026-02-14,APAC,web,Starter,18,49.0,0,false
+O-00732,2026-01-18,APAC,sales,Starter,11,46.55,0.05,false
+O-00733,2026-03-16,LATAM,sales,Starter,2,49.0,0,false
+O-00734,2026-03-11,EMEA,sales,Starter,11,49.0,0,false
+O-00735,2026-07-28,NA,web,Team,14,159.2,0.2,false
+O-00736,2026-03-05,NA,partner,Support Plan,4,990.0,0,false
+O-00737,2026-07-17,LATAM,web,Team,21,189.05,0.05,false
+O-00738,2026-04-14,NA,sales,Team,16,199.0,0,false
+O-00739,2026-09-20,APAC,web,Starter,11,46.55,0.05,false
+O-00740,2026-03-18,APAC,partner,Team,11,159.2,0.2,false
+O-00741,2026-08-03,EMEA,web,Team,20,199.0,0,false
+O-00742,2026-05-11,EMEA,web,Business,8,499.0,0,false
+O-00743,2026-05-17,APAC,partner,Business,20,499.0,0,false
+O-00744,2026-05-26,EMEA,web,Starter,14,39.2,0.2,false
+O-00745,2026-05-06,EMEA,sales,Team,5,199.0,0,false
+O-00746,2026-06-16,LATAM,partner,Business,5,499.0,0,false
+O-00747,2026-06-22,EMEA,partner,Team,11,199.0,0,false
+O-00748,2026-01-25,LATAM,partner,Add-on Seats,15,12.0,0.2,false
+O-00749,2026-04-20,APAC,partner,Team,3,199.0,0,false
+O-00750,2026-01-14,EMEA,web,Business,3,449.1,0.1,false
+O-00751,2026-01-27,NA,partner,Add-on Seats,10,14.25,0.05,false
+O-00752,2026-06-08,LATAM,partner,Business,10,399.2,0.2,false
+O-00753,2026-02-24,EMEA,partner,Add-on Seats,14,15.0,0,false
+O-00754,2026-04-27,NA,web,Business,18,499.0,0,false
+O-00755,2026-03-05,EMEA,partner,Support Plan,19,940.5,0.05,true
+O-00756,2026-03-09,LATAM,web,Team,17,199.0,0,false
+O-00757,2026-07-02,EMEA,web,Support Plan,2,990.0,0,false
+O-00758,2026-08-10,NA,partner,Starter,14,49.0,0,false
+O-00759,2026-06-18,NA,partner,Support Plan,17,990.0,0,false
+O-00760,2026-03-15,LATAM,sales,Team,6,199.0,0,false
+O-00761,2026-02-27,APAC,web,Starter,7,44.1,0.1,true
+O-00762,2026-09-15,NA,sales,Add-on Seats,7,15.0,0,false
+O-00763,2026-08-13,EMEA,partner,Team,22,199.0,0,false
+O-00764,2026-04-30,LATAM,web,Support Plan,15,990.0,0,false
+O-00765,2026-01-03,APAC,sales,Team,8,179.1,0.1,false
+O-00766,2026-09-22,NA,web,Support Plan,6,891.0,0.1,false
+O-00767,2026-02-26,LATAM,sales,Support Plan,7,990.0,0,false
+O-00768,2026-08-06,EMEA,partner,Starter,15,49.0,0,false
+O-00769,2026-08-01,NA,partner,Add-on Seats,8,15.0,0,false
+O-00770,2026-06-22,LATAM,sales,Team,7,199.0,0,false
+O-00771,2026-07-29,APAC,sales,Add-on Seats,11,15.0,0,false
+O-00772,2026-08-17,EMEA,web,Team,20,199.0,0,false
+O-00773,2026-04-05,LATAM,partner,Add-on Seats,19,14.25,0.05,false
+O-00774,2026-05-22,LATAM,sales,Team,16,179.1,0.1,false
+O-00775,2026-09-14,NA,web,Starter,14,46.55,0.05,false
+O-00776,2026-07-26,EMEA,partner,Add-on Seats,12,12.0,0.2,false
+O-00777,2026-07-20,NA,partner,Support Plan,18,990.0,0,false
+O-00778,2026-09-02,APAC,sales,Add-on Seats,16,15.0,0,false
+O-00779,2026-01-03,NA,sales,Business,13,499.0,0,false
+O-00780,2026-04-23,APAC,web,Support Plan,18,940.5,0.05,false
+O-00781,2026-05-27,EMEA,web,Starter,20,49.0,0,false
+O-00782,2026-08-14,LATAM,partner,Business,17,499.0,0,false
+O-00783,2026-06-16,LATAM,web,Business,9,474.05,0.05,false
+O-00784,2026-05-14,EMEA,partner,Add-on Seats,3,15.0,0,false
+O-00785,2026-01-07,APAC,partner,Business,16,499.0,0,false
+O-00786,2026-07-13,EMEA,web,Team,7,159.2,0.2,false
+O-00787,2026-03-17,APAC,web,Team,2,189.05,0.05,false
+O-00788,2026-02-24,NA,sales,Support Plan,3,990.0,0,false
+O-00789,2026-04-09,EMEA,sales,Add-on Seats,13,14.25,0.05,false
+O-00790,2026-04-02,NA,partner,Starter,3,49.0,0,false
+O-00791,2026-01-20,EMEA,partner,Team,4,189.05,0.05,false
+O-00792,2026-04-03,NA,sales,Business,7,499.0,0,false
+O-00793,2026-08-11,APAC,partner,Add-on Seats,2,14.25,0.05,false
+O-00794,2026-01-13,NA,web,Team,5,199.0,0,false
+O-00795,2026-01-31,LATAM,sales,Support Plan,2,940.5,0.05,false
+O-00796,2026-01-08,LATAM,partner,Starter,20,39.2,0.2,false
+O-00797,2026-07-22,NA,web,Support Plan,17,940.5,0.05,false
+O-00798,2026-07-16,NA,sales,Starter,19,44.1,0.1,false
+O-00799,2026-07-05,LATAM,sales,Team,20,159.2,0.2,false
+O-00800,2026-06-20,LATAM,sales,Support Plan,6,990.0,0,false
+O-00801,2026-04-08,APAC,web,Support Plan,1,891.0,0.1,false
+O-00802,2026-06-12,APAC,sales,Business,6,449.1,0.1,false
+O-00803,2026-09-08,APAC,web,Add-on Seats,2,14.25,0.05,false
+O-00804,2026-08-01,APAC,sales,Support Plan,16,990.0,0,false
+O-00805,2026-03-10,EMEA,partner,Business,4,449.1,0.1,false
+O-00806,2026-08-15,APAC,web,Add-on Seats,12,15.0,0,false
+O-00807,2026-06-03,NA,web,Business,9,499.0,0,false
+O-00808,2026-09-18,LATAM,sales,Business,17,499.0,0,false
+O-00809,2026-08-31,EMEA,web,Team,10,179.1,0.1,false
+O-00810,2026-03-09,APAC,sales,Add-on Seats,8,15.0,0,false
+O-00811,2026-01-18,LATAM,partner,Starter,3,49.0,0,false
+O-00812,2026-01-18,NA,partner,Support Plan,16,792.0,0.2,false
+O-00813,2026-05-29,APAC,sales,Team,5,159.2,0.2,false
+O-00814,2026-03-03,NA,sales,Business,11,499.0,0,false
+O-00815,2026-04-25,LATAM,web,Business,9,499.0,0,false
+O-00816,2026-06-04,EMEA,sales,Add-on Seats,18,13.5,0.1,false
+O-00817,2026-08-16,NA,web,Add-on Seats,17,12.0,0.2,false
+O-00818,2026-07-16,NA,sales,Add-on Seats,18,15.0,0,false
+O-00819,2026-03-24,EMEA,sales,Business,13,499.0,0,false
+O-00820,2026-08-29,LATAM,partner,Business,20,499.0,0,false
+O-00821,2026-06-18,NA,partner,Starter,12,46.55,0.05,false
+O-00822,2026-03-13,LATAM,sales,Business,11,474.05,0.05,false
+O-00823,2026-04-02,APAC,web,Business,7,474.05,0.05,false
+O-00824,2026-05-26,LATAM,sales,Business,19,399.2,0.2,false
+O-00825,2026-09-04,NA,sales,Team,12,179.1,0.1,false
+O-00826,2026-05-31,NA,sales,Support Plan,3,940.5,0.05,true
+O-00827,2026-02-06,NA,sales,Support Plan,4,990.0,0,false
+O-00828,2026-05-27,EMEA,web,Support Plan,1,990.0,0,false
+O-00829,2026-08-07,EMEA,partner,Business,21,499.0,0,false
+O-00830,2026-06-29,NA,web,Support Plan,7,990.0,0,false
+O-00831,2026-04-25,EMEA,web,Starter,9,44.1,0.1,false
+O-00832,2026-09-21,APAC,sales,Add-on Seats,15,15.0,0,false
+O-00833,2026-08-06,EMEA,sales,Business,17,474.05,0.05,false
+O-00834,2026-01-12,EMEA,web,Add-on Seats,20,13.5,0.1,false
+O-00835,2026-03-24,APAC,sales,Business,18,499.0,0,false
+O-00836,2026-07-09,APAC,sales,Team,6,199.0,0,false
+O-00837,2026-03-05,NA,partner,Support Plan,19,891.0,0.1,false
+O-00838,2026-09-12,LATAM,partner,Support Plan,3,990.0,0,false
+O-00839,2026-03-13,NA,web,Team,12,199.0,0,false
+O-00840,2026-09-02,LATAM,partner,Business,16,499.0,0,false
+O-00841,2026-01-26,LATAM,sales,Team,2,179.1,0.1,false
+O-00842,2026-04-12,EMEA,partner,Starter,11,49.0,0,false
+O-00843,2026-02-10,LATAM,partner,Starter,17,46.55,0.05,false
+O-00844,2026-03-21,NA,partner,Add-on Seats,11,15.0,0,false
+O-00845,2026-08-08,NA,sales,Starter,16,39.2,0.2,false
+O-00846,2026-03-22,EMEA,partner,Support Plan,2,990.0,0,false
+O-00847,2026-09-24,NA,sales,Add-on Seats,6,12.0,0.2,false
+O-00848,2026-05-13,LATAM,web,Team,15,199.0,0,false
+O-00849,2026-07-23,EMEA,web,Add-on Seats,5,12.0,0.2,false
+O-00850,2026-07-06,APAC,web,Business,11,499.0,0,false
+O-00851,2026-08-09,EMEA,web,Starter,3,44.1,0.1,false
+O-00852,2026-05-15,EMEA,partner,Support Plan,16,990.0,0,false
+O-00853,2026-09-11,LATAM,partner,Starter,20,49.0,0,false
+O-00854,2026-09-05,LATAM,web,Starter,8,39.2,0.2,false
+O-00855,2026-02-08,EMEA,partner,Team,2,199.0,0,false
+O-00856,2026-05-18,APAC,web,Business,14,399.2,0.2,false
+O-00857,2026-03-24,LATAM,partner,Team,1,199.0,0,false
+O-00858,2026-08-09,NA,sales,Team,11,199.0,0,false
+O-00859,2026-07-14,EMEA,sales,Team,1,199.0,0,false
+O-00860,2026-02-13,APAC,sales,Business,18,449.1,0.1,false
+O-00861,2026-09-30,NA,partner,Support Plan,8,792.0,0.2,false
+O-00862,2026-07-11,APAC,sales,Support Plan,19,891.0,0.1,false
+O-00863,2026-09-15,NA,sales,Starter,15,39.2,0.2,false
+O-00864,2026-01-23,APAC,partner,Starter,15,49.0,0,false
+O-00865,2026-05-08,LATAM,sales,Business,10,474.05,0.05,false
+O-00866,2026-01-17,APAC,partner,Business,7,399.2,0.2,false
+O-00867,2026-07-03,APAC,partner,Business,1,499.0,0,false
+O-00868,2026-04-17,NA,partner,Business,12,399.2,0.2,true
+O-00869,2026-02-01,APAC,partner,Add-on Seats,2,14.25,0.05,false
+O-00870,2026-09-26,APAC,web,Business,12,499.0,0,false
+O-00871,2026-04-06,LATAM,web,Business,7,499.0,0,false
+O-00872,2026-01-23,NA,partner,Add-on Seats,15,15.0,0,false
+O-00873,2026-06-10,NA,sales,Team,6,199.0,0,false
+O-00874,2026-05-06,APAC,web,Team,2,189.05,0.05,false
+O-00875,2026-03-19,APAC,sales,Starter,4,49.0,0,false
+O-00876,2026-07-23,APAC,web,Add-on Seats,13,14.25,0.05,false
+O-00877,2026-07-10,EMEA,partner,Business,7,499.0,0,false
+O-00878,2026-04-07,NA,web,Support Plan,19,891.0,0.1,false
+O-00879,2026-02-20,NA,sales,Team,8,189.05,0.05,false
+O-00880,2026-06-14,EMEA,web,Support Plan,11,891.0,0.1,false
+O-00881,2026-02-16,LATAM,web,Team,7,189.05,0.05,false
+O-00882,2026-08-02,APAC,web,Team,5,189.05,0.05,false
+O-00883,2026-08-05,NA,partner,Support Plan,9,792.0,0.2,true
+O-00884,2026-06-05,APAC,partner,Add-on Seats,15,15.0,0,false
+O-00885,2026-07-14,LATAM,web,Support Plan,20,891.0,0.1,false
+O-00886,2026-07-18,NA,web,Business,15,499.0,0,false
+O-00887,2026-04-19,EMEA,web,Starter,3,49.0,0,false
+O-00888,2026-08-10,LATAM,sales,Add-on Seats,12,15.0,0,false
+O-00889,2026-03-28,EMEA,sales,Support Plan,16,990.0,0,false
+O-00890,2026-04-18,NA,partner,Business,11,449.1,0.1,false
+O-00891,2026-05-21,APAC,web,Support Plan,12,990.0,0,false
+O-00892,2026-09-30,APAC,web,Business,5,499.0,0,false
+O-00893,2026-07-04,NA,partner,Starter,8,49.0,0,false
+O-00894,2026-08-17,APAC,partner,Business,2,499.0,0,false
+O-00895,2026-08-23,NA,partner,Starter,2,49.0,0,false
+O-00896,2026-06-14,LATAM,sales,Starter,16,44.1,0.1,false
+O-00897,2026-04-12,NA,web,Team,6,199.0,0,false
+O-00898,2026-09-14,NA,sales,Support Plan,8,891.0,0.1,false
+O-00899,2026-05-29,NA,sales,Add-on Seats,20,15.0,0,false
+O-00900,2026-06-08,APAC,sales,Team,18,179.1,0.1,false
+O-00901,2026-04-24,LATAM,sales,Business,19,499.0,0,false
+O-00902,2026-07-06,LATAM,partner,Support Plan,6,792.0,0.2,false
+O-00903,2026-02-11,EMEA,sales,Support Plan,5,990.0,0,false
+O-00904,2026-02-05,NA,sales,Starter,1,44.1,0.1,false
+O-00905,2026-08-14,EMEA,sales,Add-on Seats,18,15.0,0,false
+O-00906,2026-06-23,EMEA,web,Business,12,499.0,0,false
+O-00907,2026-01-12,EMEA,web,Team,10,159.2,0.2,false
+O-00908,2026-02-14,NA,partner,Support Plan,9,891.0,0.1,false
+O-00909,2026-01-31,APAC,web,Business,3,399.2,0.2,false
+O-00910,2026-03-15,LATAM,sales,Support Plan,15,940.5,0.05,false
+O-00911,2026-08-22,NA,web,Business,11,449.1,0.1,false
+O-00912,2026-06-06,LATAM,web,Team,4,199.0,0,false
+O-00913,2026-07-08,LATAM,sales,Business,18,499.0,0,false
+O-00914,2026-07-02,LATAM,web,Team,13,159.2,0.2,false
+O-00915,2026-07-27,NA,sales,Team,14,189.05,0.05,false
+O-00916,2026-04-18,NA,sales,Team,12,179.1,0.1,false
+O-00917,2026-02-18,APAC,partner,Business,4,474.05,0.05,false
+O-00918,2026-04-22,APAC,partner,Starter,10,49.0,0,false
+O-00919,2026-03-12,NA,sales,Team,10,159.2,0.2,false
+O-00920,2026-08-11,LATAM,partner,Add-on Seats,7,15.0,0,false
+O-00921,2026-09-18,NA,partner,Team,15,199.0,0,false
+O-00922,2026-04-04,NA,web,Add-on Seats,19,13.5,0.1,false
+O-00923,2026-09-15,LATAM,web,Starter,8,49.0,0,false
+O-00924,2026-02-22,LATAM,web,Business,20,499.0,0,false
+O-00925,2026-03-30,APAC,partner,Starter,16,49.0,0,false
+O-00926,2026-03-22,APAC,web,Business,18,399.2,0.2,false
+O-00927,2026-01-31,EMEA,web,Team,7,199.0,0,false
+O-00928,2026-02-14,APAC,partner,Team,9,199.0,0,false
+O-00929,2026-08-25,NA,partner,Team,14,199.0,0,false
+O-00930,2026-02-28,APAC,sales,Starter,15,39.2,0.2,false
+O-00931,2026-01-12,NA,web,Business,2,499.0,0,false
+O-00932,2026-07-30,LATAM,web,Business,14,449.1,0.1,false
+O-00933,2026-09-20,LATAM,sales,Add-on Seats,21,14.25,0.05,false
+O-00934,2026-07-28,LATAM,web,Starter,18,46.55,0.05,false
+O-00935,2026-05-06,EMEA,web,Business,14,499.0,0,true
+O-00936,2026-09-07,NA,web,Add-on Seats,6,14.25,0.05,false
+O-00937,2026-04-15,NA,sales,Add-on Seats,1,12.0,0.2,false
+O-00938,2026-07-15,LATAM,sales,Business,19,499.0,0,false
+O-00939,2026-03-07,EMEA,sales,Starter,10,49.0,0,false
+O-00940,2026-06-06,NA,web,Starter,3,49.0,0,true
+O-00941,2026-07-08,NA,sales,Add-on Seats,19,14.25,0.05,false
+O-00942,2026-03-02,LATAM,partner,Add-on Seats,15,14.25,0.05,false
+O-00943,2026-04-27,LATAM,web,Business,16,399.2,0.2,false
+O-00944,2026-07-13,LATAM,sales,Support Plan,9,891.0,0.1,false
+O-00945,2026-08-18,APAC,web,Team,16,179.1,0.1,false
+O-00946,2026-03-20,NA,partner,Team,9,199.0,0,false
+O-00947,2026-01-09,LATAM,web,Starter,20,46.55,0.05,false
+O-00948,2026-06-05,LATAM,sales,Starter,4,49.0,0,false
+O-00949,2026-09-17,EMEA,partner,Business,6,499.0,0,true
+O-00950,2026-03-19,NA,sales,Starter,3,44.1,0.1,false
+O-00951,2026-09-23,EMEA,web,Business,15,499.0,0,false
+O-00952,2026-06-10,EMEA,sales,Starter,18,39.2,0.2,false
+O-00953,2026-01-30,EMEA,web,Add-on Seats,3,13.5,0.1,false
+O-00954,2026-05-23,LATAM,partner,Team,19,189.05,0.05,true
+O-00955,2026-08-22,APAC,partner,Support Plan,2,792.0,0.2,false
+O-00956,2026-02-13,EMEA,sales,Add-on Seats,11,15.0,0,false
+O-00957,2026-06-12,APAC,sales,Business,12,499.0,0,false
+O-00958,2026-09-20,APAC,sales,Support Plan,9,940.5,0.05,false
+O-00959,2026-04-15,NA,sales,Team,18,199.0,0,false
+O-00960,2026-03-31,APAC,partner,Support Plan,7,940.5,0.05,false
+O-00961,2026-02-19,APAC,sales,Starter,6,46.55,0.05,false
+O-00962,2026-09-28,LATAM,web,Team,14,159.2,0.2,false
+O-00963,2026-07-11,APAC,partner,Support Plan,3,891.0,0.1,false
+O-00964,2026-07-19,NA,sales,Business,19,499.0,0,false
+O-00965,2026-05-04,EMEA,sales,Support Plan,6,990.0,0,false
+O-00966,2026-05-18,LATAM,partner,Business,10,449.1,0.1,false
+O-00967,2026-04-05,NA,web,Starter,5,44.1,0.1,false
+O-00968,2026-09-02,APAC,web,Support Plan,5,792.0,0.2,false
+O-00969,2026-06-18,APAC,partner,Starter,9,49.0,0,false
+O-00970,2026-01-07,LATAM,web,Add-on Seats,15,15.0,0,false
+O-00971,2026-07-12,EMEA,web,Team,14,199.0,0,true
+O-00972,2026-02-20,LATAM,sales,Add-on Seats,19,12.0,0.2,false
+O-00973,2026-05-07,LATAM,partner,Team,2,199.0,0,false
+O-00974,2026-01-17,EMEA,sales,Starter,19,39.2,0.2,false
+O-00975,2026-03-16,LATAM,web,Support Plan,15,990.0,0,false
+O-00976,2026-03-24,NA,web,Support Plan,11,891.0,0.1,false
+O-00977,2026-04-10,APAC,sales,Business,2,449.1,0.1,false
+O-00978,2026-02-22,EMEA,partner,Business,9,399.2,0.2,false
+O-00979,2026-08-09,LATAM,partner,Add-on Seats,17,15.0,0,false
+O-00980,2026-03-31,EMEA,web,Team,7,199.0,0,false
+O-00981,2026-06-21,NA,partner,Add-on Seats,16,15.0,0,false
+O-00982,2026-03-30,EMEA,web,Add-on Seats,3,15.0,0,false
+O-00983,2026-01-10,LATAM,sales,Add-on Seats,17,15.0,0,false
+O-00984,2026-03-12,EMEA,sales,Add-on Seats,8,15.0,0,false
+O-00985,2026-09-09,LATAM,partner,Starter,17,49.0,0,true
+O-00986,2026-08-09,NA,web,Business,1,499.0,0,false
+O-00987,2026-08-05,LATAM,sales,Add-on Seats,12,13.5,0.1,false
+O-00988,2026-06-11,EMEA,partner,Business,14,449.1,0.1,false
+O-00989,2026-09-13,LATAM,web,Add-on Seats,5,12.0,0.2,false
+O-00990,2026-08-10,EMEA,web,Support Plan,17,990.0,0,false
+O-00991,2026-08-04,APAC,sales,Starter,16,49.0,0,false
+O-00992,2026-07-13,EMEA,partner,Support Plan,20,990.0,0,false
+O-00993,2026-05-01,LATAM,sales,Starter,14,46.55,0.05,false
+O-00994,2026-03-16,LATAM,partner,Support Plan,2,792.0,0.2,false
+O-00995,2026-01-08,NA,partner,Starter,8,49.0,0,false
+O-00996,2026-03-26,APAC,web,Add-on Seats,8,12.0,0.2,false
+O-00997,2026-09-28,APAC,sales,Support Plan,5,990.0,0,false
+O-00998,2026-07-17,APAC,web,Add-on Seats,8,15.0,0,false
+O-00999,2026-01-10,APAC,partner,Starter,4,49.0,0,false
+O-01000,2026-01-01,LATAM,sales,Starter,11,49.0,0,false
+O-01001,2026-07-14,NA,partner,Support Plan,4,990.0,0,false
+O-01002,2026-08-24,NA,partner,Starter,7,49.0,0,false
+O-01003,2026-01-01,EMEA,partner,Starter,6,46.55,0.05,false
+O-01004,2026-06-17,NA,web,Business,13,399.2,0.2,false
+O-01005,2026-08-18,APAC,partner,Support Plan,4,990.0,0,false
+O-01006,2026-07-10,NA,web,Starter,4,49.0,0,false
+O-01007,2026-06-06,APAC,web,Business,15,449.1,0.1,false
+O-01008,2026-02-24,EMEA,partner,Add-on Seats,6,15.0,0,false
+O-01009,2026-01-04,EMEA,sales,Add-on Seats,3,15.0,0,false
+O-01010,2026-01-27,LATAM,sales,Add-on Seats,4,15.0,0,false
+O-01011,2026-04-13,NA,sales,Add-on Seats,12,14.25,0.05,false
+O-01012,2026-03-07,LATAM,web,Business,14,499.0,0,false
+O-01013,2026-03-02,NA,partner,Business,15,499.0,0,false
+O-01014,2026-09-04,APAC,partner,Support Plan,1,990.0,0,false
+O-01015,2026-08-16,LATAM,partner,Add-on Seats,10,15.0,0,false
+O-01016,2026-03-22,LATAM,web,Starter,16,46.55,0.05,false
+O-01017,2026-06-25,LATAM,sales,Starter,18,39.2,0.2,false
+O-01018,2026-02-13,LATAM,sales,Team,10,189.05,0.05,false
+O-01019,2026-05-28,APAC,partner,Add-on Seats,10,13.5,0.1,false
+O-01020,2026-03-13,NA,partner,Support Plan,1,940.5,0.05,false
+O-01021,2026-01-13,APAC,sales,Add-on Seats,12,15.0,0,false
+O-01022,2026-01-11,LATAM,partner,Team,3,199.0,0,false
+O-01023,2026-04-24,APAC,partner,Team,14,199.0,0,false
+O-01024,2026-08-21,LATAM,partner,Add-on Seats,4,15.0,0,false
+O-01025,2026-02-28,LATAM,partner,Business,19,474.05,0.05,false
+O-01026,2026-05-03,LATAM,partner,Business,13,499.0,0,false
+O-01027,2026-08-17,EMEA,partner,Support Plan,17,792.0,0.2,false
+O-01028,2026-03-23,EMEA,partner,Business,3,499.0,0,false
+O-01029,2026-06-02,LATAM,sales,Add-on Seats,18,15.0,0,false
+O-01030,2026-02-03,NA,sales,Team,3,189.05,0.05,false
+O-01031,2026-09-28,APAC,partner,Starter,1,44.1,0.1,false
+O-01032,2026-08-08,NA,web,Starter,4,49.0,0,true
+O-01033,2026-07-26,APAC,partner,Add-on Seats,2,15.0,0,false
+O-01034,2026-04-03,NA,partner,Business,5,449.1,0.1,false
+O-01035,2026-07-21,EMEA,web,Business,14,499.0,0,false
+O-01036,2026-02-21,APAC,partner,Team,20,199.0,0,true
+O-01037,2026-08-16,LATAM,sales,Business,11,499.0,0,false
+O-01038,2026-04-23,APAC,web,Business,18,474.05,0.05,false
+O-01039,2026-07-13,EMEA,web,Support Plan,3,891.0,0.1,false
+O-01040,2026-06-11,LATAM,web,Add-on Seats,18,13.5,0.1,false
+O-01041,2026-09-08,EMEA,partner,Team,12,199.0,0,false
+O-01042,2026-05-30,NA,sales,Add-on Seats,20,12.0,0.2,false
+O-01043,2026-05-26,LATAM,sales,Team,7,199.0,0,false
+O-01044,2026-01-12,EMEA,partner,Business,7,449.1,0.1,false
+O-01045,2026-07-31,APAC,web,Business,19,499.0,0,false
+O-01046,2026-09-21,LATAM,partner,Add-on Seats,12,12.0,0.2,false
+O-01047,2026-06-25,APAC,sales,Starter,8,49.0,0,false
+O-01048,2026-04-12,LATAM,partner,Business,1,399.2,0.2,false
+O-01049,2026-06-08,APAC,web,Support Plan,9,990.0,0,false
+O-01050,2026-03-01,APAC,partner,Starter,17,49.0,0,false
+O-01051,2026-02-14,LATAM,partner,Business,12,449.1,0.1,false
+O-01052,2026-01-22,APAC,partner,Support Plan,9,891.0,0.1,false
+O-01053,2026-09-13,APAC,web,Team,11,159.2,0.2,false
+O-01054,2026-05-07,NA,web,Team,17,199.0,0,false
+O-01055,2026-09-11,APAC,partner,Business,1,499.0,0,false
+O-01056,2026-04-29,LATAM,sales,Add-on Seats,7,15.0,0,false
+O-01057,2026-01-22,EMEA,partner,Business,4,474.05,0.05,false
+O-01058,2026-09-28,NA,sales,Starter,19,49.0,0,false
+O-01059,2026-03-06,APAC,web,Support Plan,11,940.5,0.05,false
+O-01060,2026-09-03,APAC,partner,Team,3,199.0,0,false
+O-01061,2026-09-08,NA,web,Support Plan,17,792.0,0.2,false
+O-01062,2026-04-25,EMEA,partner,Team,4,199.0,0,false
+O-01063,2026-06-12,APAC,sales,Starter,14,49.0,0,false
+O-01064,2026-01-23,APAC,sales,Add-on Seats,15,14.25,0.05,false
+O-01065,2026-06-25,APAC,sales,Starter,7,46.55,0.05,false
+O-01066,2026-04-15,APAC,sales,Support Plan,14,990.0,0,false
+O-01067,2026-02-02,EMEA,sales,Starter,20,49.0,0,true
+O-01068,2026-09-07,LATAM,sales,Business,9,474.05,0.05,false
+O-01069,2026-05-19,EMEA,partner,Team,15,199.0,0,false
+O-01070,2026-04-18,NA,web,Starter,19,49.0,0,false
+O-01071,2026-07-31,APAC,web,Add-on Seats,16,15.0,0,false
+O-01072,2026-02-23,LATAM,sales,Starter,13,39.2,0.2,false
+O-01073,2026-09-09,NA,web,Support Plan,13,891.0,0.1,false
+O-01074,2026-08-04,APAC,partner,Starter,2,49.0,0,false
+O-01075,2026-07-06,EMEA,sales,Support Plan,17,891.0,0.1,false
+O-01076,2026-01-09,EMEA,partner,Team,11,199.0,0,false
+O-01077,2026-08-03,NA,web,Starter,17,39.2,0.2,false
+O-01078,2026-04-19,LATAM,partner,Team,5,179.1,0.1,false
+O-01079,2026-08-26,LATAM,web,Starter,14,49.0,0,false
+O-01080,2026-03-02,NA,partner,Starter,4,39.2,0.2,false
+O-01081,2026-06-21,NA,sales,Starter,9,44.1,0.1,true
+O-01082,2026-08-04,EMEA,web,Business,16,474.05,0.05,false
+O-01083,2026-05-03,APAC,sales,Add-on Seats,5,14.25,0.05,false
+O-01084,2026-06-02,EMEA,partner,Starter,11,39.2,0.2,false
+O-01085,2026-09-11,LATAM,web,Support Plan,5,990.0,0,false
+O-01086,2026-01-08,NA,web,Business,15,399.2,0.2,false
+O-01087,2026-01-30,NA,sales,Team,15,199.0,0,false
+O-01088,2026-08-29,LATAM,partner,Starter,8,49.0,0,false
+O-01089,2026-08-24,NA,web,Add-on Seats,7,12.0,0.2,false
+O-01090,2026-08-31,NA,web,Support Plan,2,940.5,0.05,false
+O-01091,2026-03-04,NA,partner,Business,7,449.1,0.1,false
+O-01092,2026-02-16,LATAM,sales,Team,17,199.0,0,false
+O-01093,2026-02-03,APAC,sales,Starter,4,49.0,0,false
+O-01094,2026-03-31,APAC,web,Add-on Seats,4,15.0,0,false
+O-01095,2026-03-29,APAC,sales,Support Plan,5,891.0,0.1,false
+O-01096,2026-05-22,LATAM,sales,Team,10,199.0,0,false
+O-01097,2026-04-19,NA,sales,Team,15,199.0,0,false
+O-01098,2026-06-20,NA,partner,Business,13,474.05,0.05,false
+O-01099,2026-03-21,APAC,web,Add-on Seats,9,15.0,0,false
+O-01100,2026-09-26,APAC,sales,Team,14,199.0,0,false
+O-01101,2026-07-04,LATAM,sales,Support Plan,20,990.0,0,false
+O-01102,2026-06-22,APAC,web,Add-on Seats,6,15.0,0,false
+O-01103,2026-02-16,NA,web,Business,18,474.05,0.05,false
+O-01104,2026-05-08,APAC,partner,Business,2,399.2,0.2,false
+O-01105,2026-02-28,EMEA,web,Team,19,199.0,0,false
+O-01106,2026-02-10,LATAM,web,Team,16,179.1,0.1,false
+O-01107,2026-06-24,LATAM,web,Business,9,499.0,0,false
+O-01108,2026-07-02,APAC,sales,Starter,9,39.2,0.2,false
+O-01109,2026-06-15,APAC,partner,Business,20,499.0,0,false
+O-01110,2026-01-23,EMEA,sales,Add-on Seats,12,13.5,0.1,false
+O-01111,2026-08-12,APAC,partner,Team,1,159.2,0.2,false
+O-01112,2026-09-22,APAC,web,Support Plan,6,990.0,0,true
+O-01113,2026-07-08,LATAM,web,Support Plan,16,940.5,0.05,false
+O-01114,2026-07-10,EMEA,web,Business,5,449.1,0.1,false
+O-01115,2026-04-05,NA,partner,Business,4,449.1,0.1,false
+O-01116,2026-07-29,NA,sales,Business,11,499.0,0,false
+O-01117,2026-08-17,LATAM,web,Team,11,199.0,0,false
+O-01118,2026-05-03,LATAM,partner,Starter,17,49.0,0,false
+O-01119,2026-08-22,EMEA,sales,Support Plan,19,891.0,0.1,false
+O-01120,2026-02-19,NA,partner,Business,14,499.0,0,false
+O-01121,2026-02-21,NA,sales,Add-on Seats,9,15.0,0,false
+O-01122,2026-05-21,EMEA,partner,Business,11,399.2,0.2,false
+O-01123,2026-08-22,LATAM,sales,Starter,12,49.0,0,false
+O-01124,2026-02-21,APAC,web,Business,17,474.05,0.05,false
+O-01125,2026-07-02,APAC,partner,Business,1,499.0,0,false
+O-01126,2026-06-06,EMEA,sales,Team,14,199.0,0,false
+O-01127,2026-09-28,APAC,sales,Support Plan,7,891.0,0.1,false
+O-01128,2026-03-10,NA,web,Team,15,159.2,0.2,false
+O-01129,2026-01-01,NA,web,Team,1,159.2,0.2,false
+O-01130,2026-03-20,LATAM,sales,Team,6,179.1,0.1,false
+O-01131,2026-07-23,LATAM,partner,Starter,10,49.0,0,false
+O-01132,2026-09-07,EMEA,partner,Add-on Seats,7,13.5,0.1,false
+O-01133,2026-09-28,APAC,sales,Starter,18,44.1,0.1,false
+O-01134,2026-06-22,LATAM,sales,Add-on Seats,12,13.5,0.1,false
+O-01135,2026-09-10,EMEA,web,Add-on Seats,3,13.5,0.1,false
+O-01136,2026-04-30,APAC,sales,Add-on Seats,3,14.25,0.05,false
+O-01137,2026-08-16,APAC,sales,Support Plan,19,940.5,0.05,false
+O-01138,2026-04-22,LATAM,web,Add-on Seats,4,13.5,0.1,false
+O-01139,2026-03-06,LATAM,sales,Team,8,199.0,0,false
+O-01140,2026-06-24,EMEA,partner,Business,10,499.0,0,true
+O-01141,2026-08-03,APAC,sales,Support Plan,15,792.0,0.2,false
+O-01142,2026-03-28,LATAM,partner,Add-on Seats,10,14.25,0.05,false
+O-01143,2026-08-27,APAC,web,Support Plan,3,940.5,0.05,false
+O-01144,2026-04-29,APAC,partner,Support Plan,20,990.0,0,false
+O-01145,2026-06-30,APAC,partner,Support Plan,4,990.0,0,false
+O-01146,2026-06-18,APAC,web,Team,1,179.1,0.1,false
+O-01147,2026-02-02,LATAM,sales,Business,8,449.1,0.1,false
+O-01148,2026-07-11,NA,partner,Support Plan,10,990.0,0,false
+O-01149,2026-02-08,APAC,sales,Support Plan,12,990.0,0,false
+O-01150,2026-07-15,APAC,web,Business,14,499.0,0,false
+O-01151,2026-07-08,EMEA,sales,Starter,10,39.2,0.2,false
+O-01152,2026-08-23,EMEA,sales,Business,5,399.2,0.2,false
+O-01153,2026-02-20,NA,web,Add-on Seats,15,15.0,0,false
+O-01154,2026-09-30,APAC,sales,Business,18,499.0,0,false
+O-01155,2026-04-12,EMEA,web,Support Plan,18,891.0,0.1,false
+O-01156,2026-08-13,APAC,web,Add-on Seats,16,15.0,0,false
+O-01157,2026-01-02,EMEA,sales,Support Plan,5,990.0,0,false
+O-01158,2026-03-31,EMEA,web,Support Plan,12,990.0,0,true
+O-01159,2026-08-09,APAC,web,Team,19,189.05,0.05,false
+O-01160,2026-02-08,NA,web,Team,8,199.0,0,false
+O-01161,2026-02-27,APAC,partner,Business,16,499.0,0,false
+O-01162,2026-08-30,NA,partner,Add-on Seats,15,13.5,0.1,false
+O-01163,2026-02-19,LATAM,sales,Add-on Seats,4,15.0,0,false
+O-01164,2026-07-09,NA,web,Support Plan,15,940.5,0.05,false
+O-01165,2026-03-12,LATAM,partner,Team,15,199.0,0,false
+O-01166,2026-03-23,APAC,partner,Team,20,159.2,0.2,false
+O-01167,2026-05-02,NA,partner,Add-on Seats,17,14.25,0.05,false
+O-01168,2026-03-15,NA,web,Business,11,499.0,0,false
+O-01169,2026-03-02,LATAM,web,Add-on Seats,15,15.0,0,false
+O-01170,2026-01-19,LATAM,web,Starter,17,39.2,0.2,false
+O-01171,2026-06-26,LATAM,partner,Team,12,159.2,0.2,false
+O-01172,2026-05-15,NA,web,Team,11,159.2,0.2,false
+O-01173,2026-09-14,EMEA,web,Business,3,399.2,0.2,false
+O-01174,2026-02-25,EMEA,partner,Support Plan,14,792.0,0.2,false
+O-01175,2026-01-09,LATAM,web,Support Plan,2,990.0,0,false
+O-01176,2026-08-26,APAC,sales,Business,19,499.0,0,false
+O-01177,2026-06-28,EMEA,web,Starter,15,49.0,0,false
+O-01178,2026-02-27,LATAM,web,Starter,9,49.0,0,false
+O-01179,2026-09-30,NA,partner,Team,6,199.0,0,false
+O-01180,2026-09-23,LATAM,sales,Support Plan,19,891.0,0.1,false
+O-01181,2026-01-05,EMEA,web,Team,8,199.0,0,false
+O-01182,2026-06-24,LATAM,web,Business,14,399.2,0.2,false
+O-01183,2026-09-12,NA,sales,Business,17,499.0,0,false
+O-01184,2026-07-31,NA,sales,Add-on Seats,9,15.0,0,false
+O-01185,2026-07-18,NA,partner,Support Plan,13,990.0,0,false
+O-01186,2026-06-09,EMEA,partner,Starter,3,39.2,0.2,false
+O-01187,2026-01-17,NA,web,Team,20,179.1,0.1,false
+O-01188,2026-08-04,LATAM,web,Business,12,399.2,0.2,false
+O-01189,2026-08-23,NA,partner,Business,18,499.0,0,false
+O-01190,2026-04-22,NA,partner,Business,19,399.2,0.2,false
+O-01191,2026-07-07,EMEA,sales,Support Plan,5,990.0,0,false
+O-01192,2026-03-09,EMEA,web,Add-on Seats,6,15.0,0,false
+O-01193,2026-07-07,LATAM,web,Add-on Seats,2,12.0,0.2,false
+O-01194,2026-06-16,NA,partner,Business,12,499.0,0,false
+O-01195,2026-01-10,APAC,sales,Support Plan,16,792.0,0.2,true
+O-01196,2026-04-30,EMEA,partner,Add-on Seats,7,14.25,0.05,false
+O-01197,2026-03-04,LATAM,sales,Starter,1,49.0,0,false
+O-01198,2026-04-08,LATAM,sales,Starter,1,49.0,0,false
+O-01199,2026-06-02,EMEA,web,Team,15,199.0,0,false
+O-01200,2026-07-15,APAC,web,Business,15,499.0,0,false
+O-01201,2026-04-30,APAC,partner,Add-on Seats,4,14.25,0.05,false
+O-01202,2026-04-05,NA,web,Business,5,399.2,0.2,false
+O-01203,2026-03-14,NA,partner,Support Plan,6,990.0,0,false
+O-01204,2026-03-17,LATAM,web,Add-on Seats,12,12.0,0.2,false
+O-01205,2026-02-14,NA,web,Support Plan,17,990.0,0,true
+O-01206,2026-02-18,EMEA,web,Business,8,449.1,0.1,false
+O-01207,2026-06-24,APAC,sales,Add-on Seats,19,14.25,0.05,false
+O-01208,2026-03-25,EMEA,partner,Team,7,199.0,0,false
+O-01209,2026-08-14,NA,partner,Add-on Seats,10,12.0,0.2,false
+O-01210,2026-08-07,LATAM,sales,Business,11,399.2,0.2,false
+O-01211,2026-09-11,EMEA,partner,Add-on Seats,14,15.0,0,false
+O-01212,2026-03-25,APAC,partner,Starter,16,46.55,0.05,false
+O-01213,2026-03-29,LATAM,partner,Business,16,449.1,0.1,false
+O-01214,2026-06-23,LATAM,sales,Team,15,199.0,0,false
+O-01215,2026-02-14,APAC,partner,Team,12,199.0,0,false
+O-01216,2026-07-31,LATAM,sales,Starter,5,49.0,0,false
+O-01217,2026-04-26,LATAM,partner,Add-on Seats,5,13.5,0.1,false
+O-01218,2026-09-23,EMEA,sales,Support Plan,20,990.0,0,false
+O-01219,2026-03-15,EMEA,sales,Business,12,474.05,0.05,false
+O-01220,2026-05-26,LATAM,sales,Business,7,499.0,0,false
+O-01221,2026-04-30,NA,partner,Business,6,474.05,0.05,false
+O-01222,2026-03-01,NA,partner,Starter,14,44.1,0.1,false
+O-01223,2026-05-11,EMEA,web,Starter,12,46.55,0.05,false
+O-01224,2026-08-30,EMEA,partner,Business,9,474.05,0.05,false
+O-01225,2026-03-25,NA,sales,Add-on Seats,20,15.0,0,false
+O-01226,2026-05-17,LATAM,web,Starter,13,49.0,0,false
+O-01227,2026-05-01,APAC,web,Business,20,499.0,0,false
+O-01228,2026-03-26,NA,sales,Team,20,179.1,0.1,false
+O-01229,2026-08-24,NA,partner,Starter,5,39.2,0.2,false
+O-01230,2026-06-26,APAC,partner,Starter,11,46.55,0.05,false
+O-01231,2026-07-18,APAC,partner,Team,2,159.2,0.2,false
+O-01232,2026-02-28,NA,web,Support Plan,7,940.5,0.05,false
+O-01233,2026-06-10,LATAM,partner,Support Plan,13,990.0,0,false
+O-01234,2026-05-24,LATAM,web,Support Plan,16,990.0,0,false
+O-01235,2026-02-12,LATAM,web,Team,4,199.0,0,false
+O-01236,2026-06-15,EMEA,sales,Starter,13,44.1,0.1,false
+O-01237,2026-01-18,NA,sales,Support Plan,4,940.5,0.05,false
+O-01238,2026-08-17,APAC,web,Business,3,474.05,0.05,false
+O-01239,2026-01-27,NA,partner,Support Plan,18,990.0,0,false
+O-01240,2026-06-30,EMEA,sales,Add-on Seats,8,13.5,0.1,false
+O-01241,2026-04-20,NA,sales,Team,1,179.1,0.1,false
+O-01242,2026-01-06,EMEA,web,Team,9,179.1,0.1,false
+O-01243,2026-02-27,EMEA,partner,Team,18,179.1,0.1,false
+O-01244,2026-04-03,NA,sales,Add-on Seats,17,13.5,0.1,true
+O-01245,2026-02-21,NA,web,Starter,3,39.2,0.2,false
+O-01246,2026-05-09,LATAM,sales,Add-on Seats,12,14.25,0.05,false
+O-01247,2026-05-03,EMEA,sales,Add-on Seats,2,15.0,0,false
+O-01248,2026-08-26,LATAM,sales,Add-on Seats,6,13.5,0.1,false
+O-01249,2026-08-31,EMEA,sales,Team,3,199.0,0,false
+O-01250,2026-09-13,LATAM,sales,Starter,10,49.0,0,false
+O-01251,2026-01-15,NA,partner,Add-on Seats,8,15.0,0,false
+O-01252,2026-03-11,APAC,sales,Business,8,499.0,0,false
+O-01253,2026-01-13,EMEA,sales,Business,11,449.1,0.1,false
+O-01254,2026-06-02,NA,partner,Business,8,499.0,0,false
+O-01255,2026-02-22,EMEA,web,Support Plan,9,990.0,0,false
+O-01256,2026-09-08,LATAM,sales,Add-on Seats,16,13.5,0.1,false
+O-01257,2026-01-17,LATAM,web,Add-on Seats,13,15.0,0,false
+O-01258,2026-04-12,EMEA,sales,Starter,17,44.1,0.1,false
+O-01259,2026-05-08,NA,web,Add-on Seats,1,15.0,0,false
+O-01260,2026-02-22,EMEA,web,Add-on Seats,15,13.5,0.1,false
+O-01261,2026-03-17,EMEA,partner,Starter,3,44.1,0.1,false
+O-01262,2026-04-09,EMEA,partner,Add-on Seats,14,15.0,0,false
+O-01263,2026-04-04,APAC,web,Starter,3,44.1,0.1,false
+O-01264,2026-08-14,EMEA,sales,Support Plan,11,990.0,0,false
+O-01265,2026-08-26,EMEA,sales,Team,5,199.0,0,false
+O-01266,2026-07-13,APAC,partner,Starter,2,39.2,0.2,false
+O-01267,2026-03-15,LATAM,sales,Business,9,399.2,0.2,false
+O-01268,2026-04-24,LATAM,sales,Business,14,499.0,0,false
+O-01269,2026-04-27,NA,web,Business,16,499.0,0,false
+O-01270,2026-02-04,APAC,partner,Starter,9,39.2,0.2,false
+O-01271,2026-02-13,EMEA,partner,Team,11,199.0,0,false
+O-01272,2026-08-08,LATAM,sales,Team,19,199.0,0,false
+O-01273,2026-08-30,NA,sales,Business,10,449.1,0.1,false
+O-01274,2026-08-27,LATAM,web,Add-on Seats,20,15.0,0,false
+O-01275,2026-07-15,EMEA,partner,Support Plan,5,990.0,0,false
+O-01276,2026-05-04,APAC,partner,Starter,6,44.1,0.1,false
+O-01277,2026-05-17,APAC,sales,Team,9,199.0,0,false
+O-01278,2026-07-05,EMEA,sales,Business,17,449.1,0.1,false
+O-01279,2026-08-19,EMEA,web,Business,5,499.0,0,false
+O-01280,2026-09-12,APAC,web,Starter,11,44.1,0.1,false
+O-01281,2026-06-23,APAC,sales,Support Plan,7,990.0,0,false
+O-01282,2026-05-29,EMEA,sales,Support Plan,4,940.5,0.05,false
+O-01283,2026-07-06,APAC,web,Support Plan,8,792.0,0.2,false
+O-01284,2026-04-20,LATAM,partner,Business,20,499.0,0,false
+O-01285,2026-07-06,APAC,web,Starter,20,39.2,0.2,false
+O-01286,2026-02-08,LATAM,web,Team,12,179.1,0.1,false
+O-01287,2026-01-08,NA,sales,Team,2,199.0,0,false
+O-01288,2026-09-23,NA,web,Business,6,399.2,0.2,false
+O-01289,2026-08-28,NA,partner,Starter,12,39.2,0.2,false
+O-01290,2026-05-29,LATAM,sales,Starter,2,49.0,0,false
+O-01291,2026-02-09,NA,partner,Add-on Seats,12,15.0,0,false
+O-01292,2026-08-14,LATAM,sales,Business,19,474.05,0.05,false
+O-01293,2026-04-16,NA,sales,Support Plan,3,940.5,0.05,false
+O-01294,2026-01-31,LATAM,web,Starter,18,49.0,0,false
+O-01295,2026-09-15,LATAM,web,Add-on Seats,16,14.25,0.05,false
+O-01296,2026-09-24,APAC,web,Support Plan,9,990.0,0,false
+O-01297,2026-06-29,NA,sales,Business,2,499.0,0,false
+O-01298,2026-07-06,NA,partner,Add-on Seats,8,13.5,0.1,false
+O-01299,2026-05-24,LATAM,partner,Business,10,499.0,0,false
+O-01300,2026-07-01,LATAM,partner,Starter,10,46.55,0.05,false
+O-01301,2026-04-05,NA,sales,Business,8,499.0,0,false
+O-01302,2026-04-04,LATAM,web,Support Plan,9,990.0,0,false
+O-01303,2026-09-10,LATAM,sales,Support Plan,17,990.0,0,false
+O-01304,2026-09-01,APAC,web,Starter,4,49.0,0,false
+O-01305,2026-07-11,APAC,partner,Support Plan,2,990.0,0,false
+O-01306,2026-03-07,EMEA,sales,Support Plan,8,990.0,0,false
+O-01307,2026-08-22,NA,partner,Starter,5,49.0,0,false
+O-01308,2026-05-18,APAC,partner,Team,14,179.1,0.1,false
+O-01309,2026-09-10,APAC,web,Starter,10,44.1,0.1,false
+O-01310,2026-05-31,APAC,web,Starter,7,39.2,0.2,false
+O-01311,2026-06-16,EMEA,web,Team,16,179.1,0.1,false
+O-01312,2026-04-15,LATAM,web,Support Plan,10,990.0,0,false
+O-01313,2026-04-29,NA,sales,Team,2,179.1,0.1,false
+O-01314,2026-09-12,APAC,web,Support Plan,17,940.5,0.05,false
+O-01315,2026-01-20,LATAM,sales,Support Plan,18,990.0,0,false
+O-01316,2026-06-27,EMEA,partner,Team,13,179.1,0.1,false
+O-01317,2026-04-13,EMEA,web,Team,19,179.1,0.1,true
+O-01318,2026-01-12,NA,web,Support Plan,4,891.0,0.1,false
+O-01319,2026-09-25,NA,web,Add-on Seats,16,15.0,0,false
+O-01320,2026-09-01,EMEA,web,Starter,13,44.1,0.1,false
+O-01321,2026-04-23,EMEA,sales,Add-on Seats,6,14.25,0.05,false
+O-01322,2026-02-12,LATAM,sales,Business,15,399.2,0.2,false
+O-01323,2026-07-08,NA,partner,Add-on Seats,2,15.0,0,false
+O-01324,2026-01-08,LATAM,sales,Support Plan,15,940.5,0.05,false
+O-01325,2026-08-10,NA,web,Starter,9,44.1,0.1,false
+O-01326,2026-03-07,EMEA,web,Support Plan,8,990.0,0,false
+O-01327,2026-07-30,EMEA,sales,Business,17,449.1,0.1,false
+O-01328,2026-04-06,LATAM,web,Starter,15,39.2,0.2,false
+O-01329,2026-09-05,APAC,partner,Starter,5,49.0,0,false
+O-01330,2026-04-04,APAC,sales,Add-on Seats,7,14.25,0.05,false
+O-01331,2026-08-29,NA,web,Business,22,399.2,0.2,false
+O-01332,2026-08-01,APAC,partner,Add-on Seats,1,14.25,0.05,false
+O-01333,2026-09-05,LATAM,sales,Add-on Seats,14,12.0,0.2,false
+O-01334,2026-01-07,NA,partner,Business,18,499.0,0,false
+O-01335,2026-04-16,EMEA,web,Team,12,199.0,0,false
+O-01336,2026-02-16,NA,web,Business,17,499.0,0,false
+O-01337,2026-06-06,NA,partner,Support Plan,8,891.0,0.1,false
+O-01338,2026-09-24,EMEA,sales,Support Plan,5,940.5,0.05,false
+O-01339,2026-04-03,NA,partner,Team,3,159.2,0.2,false
+O-01340,2026-03-19,EMEA,sales,Add-on Seats,2,15.0,0,false
+O-01341,2026-09-19,EMEA,sales,Business,5,474.05,0.05,false
+O-01342,2026-02-08,NA,web,Add-on Seats,6,15.0,0,false
+O-01343,2026-07-07,EMEA,web,Team,3,159.2,0.2,false
+O-01344,2026-03-24,NA,partner,Starter,4,49.0,0,false
+O-01345,2026-02-13,LATAM,web,Business,15,399.2,0.2,false
+O-01346,2026-09-19,EMEA,web,Add-on Seats,3,13.5,0.1,false
+O-01347,2026-03-22,NA,web,Business,4,499.0,0,false
+O-01348,2026-06-21,EMEA,partner,Starter,12,44.1,0.1,false
+O-01349,2026-07-05,EMEA,partner,Business,18,399.2,0.2,false
+O-01350,2026-07-27,APAC,web,Team,10,199.0,0,false
+O-01351,2026-05-17,EMEA,partner,Starter,16,44.1,0.1,false
+O-01352,2026-02-07,NA,partner,Support Plan,9,940.5,0.05,false
+O-01353,2026-04-29,LATAM,sales,Business,1,399.2,0.2,false
+O-01354,2026-05-17,EMEA,sales,Starter,17,46.55,0.05,false
+O-01355,2026-05-29,LATAM,web,Team,16,199.0,0,false
+O-01356,2026-02-26,LATAM,web,Starter,9,49.0,0,true
+O-01357,2026-04-10,LATAM,partner,Business,19,499.0,0,false
+O-01358,2026-07-24,LATAM,sales,Support Plan,18,990.0,0,false
+O-01359,2026-03-23,APAC,sales,Business,3,449.1,0.1,false
+O-01360,2026-04-03,EMEA,partner,Business,14,499.0,0,false
+O-01361,2026-02-01,EMEA,partner,Business,15,499.0,0,true
+O-01362,2026-07-30,NA,partner,Support Plan,15,891.0,0.1,false
+O-01363,2026-06-27,EMEA,web,Starter,1,39.2,0.2,false
+O-01364,2026-02-24,EMEA,web,Support Plan,7,792.0,0.2,false
+O-01365,2026-09-27,EMEA,sales,Starter,5,49.0,0,false
+O-01366,2026-06-24,NA,web,Business,15,449.1,0.1,false
+O-01367,2026-02-17,NA,partner,Starter,1,44.1,0.1,false
+O-01368,2026-08-19,NA,partner,Team,14,159.2,0.2,false
+O-01369,2026-06-11,EMEA,sales,Support Plan,13,891.0,0.1,false
+O-01370,2026-05-13,APAC,partner,Add-on Seats,11,12.0,0.2,false
+O-01371,2026-03-03,NA,sales,Support Plan,17,990.0,0,false
+O-01372,2026-07-08,APAC,sales,Starter,5,49.0,0,false
+O-01373,2026-07-23,APAC,partner,Team,4,179.1,0.1,false
+O-01374,2026-08-16,APAC,partner,Business,1,399.2,0.2,false
+O-01375,2026-01-15,NA,web,Business,1,449.1,0.1,false
+O-01376,2026-05-28,APAC,partner,Starter,8,49.0,0,false
+O-01377,2026-01-08,APAC,partner,Support Plan,5,990.0,0,false
+O-01378,2026-02-16,NA,web,Starter,20,49.0,0,false
+O-01379,2026-09-10,NA,sales,Support Plan,10,940.5,0.05,false
+O-01380,2026-01-24,EMEA,partner,Team,5,159.2,0.2,false
+O-01381,2026-02-18,LATAM,sales,Team,10,159.2,0.2,false
+O-01382,2026-07-24,LATAM,web,Add-on Seats,20,15.0,0,false
+O-01383,2026-09-21,NA,sales,Support Plan,18,891.0,0.1,false
+O-01384,2026-05-23,NA,sales,Team,15,199.0,0,false
+O-01385,2026-03-18,NA,sales,Support Plan,19,792.0,0.2,false
+O-01386,2026-08-24,LATAM,web,Support Plan,1,792.0,0.2,false
+O-01387,2026-05-13,LATAM,partner,Business,12,499.0,0,false
+O-01388,2026-05-31,LATAM,web,Business,12,449.1,0.1,false
+O-01389,2026-06-12,NA,sales,Business,13,449.1,0.1,false
+O-01390,2026-06-13,NA,partner,Support Plan,14,940.5,0.05,false
+O-01391,2026-08-26,LATAM,partner,Support Plan,12,990.0,0,false
+O-01392,2026-01-29,NA,partner,Business,6,399.2,0.2,false
+O-01393,2026-03-09,LATAM,web,Team,11,159.2,0.2,true
+O-01394,2026-05-22,EMEA,web,Business,9,499.0,0,false
+O-01395,2026-03-16,EMEA,sales,Starter,18,49.0,0,false
+O-01396,2026-05-26,LATAM,sales,Team,20,179.1,0.1,false
+O-01397,2026-04-27,NA,web,Team,8,199.0,0,true
+O-01398,2026-02-11,NA,web,Team,2,199.0,0,false
+O-01399,2026-02-04,NA,sales,Team,3,189.05,0.05,false
+O-01400,2026-06-04,EMEA,web,Support Plan,10,990.0,0,false
+O-01401,2026-01-20,EMEA,sales,Team,17,159.2,0.2,false
+O-01402,2026-04-12,LATAM,partner,Team,4,199.0,0,false
+O-01403,2026-01-20,LATAM,sales,Business,6,449.1,0.1,false
+O-01404,2026-01-13,NA,partner,Starter,16,39.2,0.2,false
+O-01405,2026-08-20,EMEA,web,Support Plan,14,990.0,0,false
+O-01406,2026-09-22,LATAM,partner,Starter,9,46.55,0.05,false
+O-01407,2026-06-21,LATAM,web,Team,10,159.2,0.2,false
+O-01408,2026-08-22,NA,sales,Team,5,199.0,0,false
+O-01409,2026-07-18,LATAM,web,Support Plan,18,990.0,0,false
+O-01410,2026-02-27,EMEA,sales,Team,13,199.0,0,false
+O-01411,2026-03-10,NA,sales,Support Plan,20,990.0,0,false
+O-01412,2026-02-16,APAC,sales,Support Plan,9,940.5,0.05,false
+O-01413,2026-06-05,LATAM,web,Business,2,499.0,0,false
+O-01414,2026-06-12,EMEA,partner,Add-on Seats,3,15.0,0,false
+O-01415,2026-03-01,APAC,sales,Team,5,199.0,0,false
+O-01416,2026-08-03,NA,sales,Business,18,474.05,0.05,false
+O-01417,2026-01-01,EMEA,partner,Starter,1,49.0,0,false
+O-01418,2026-04-06,EMEA,partner,Support Plan,17,990.0,0,false
+O-01419,2026-01-16,EMEA,web,Team,13,199.0,0,false
+O-01420,2026-09-03,APAC,web,Support Plan,6,990.0,0,false
+O-01421,2026-01-14,LATAM,web,Team,18,179.1,0.1,false
+O-01422,2026-05-10,EMEA,sales,Add-on Seats,9,12.0,0.2,false
+O-01423,2026-09-27,LATAM,web,Support Plan,13,940.5,0.05,false
+O-01424,2026-02-24,LATAM,sales,Support Plan,9,940.5,0.05,false
+O-01425,2026-07-15,EMEA,sales,Team,10,199.0,0,true
+O-01426,2026-04-09,NA,partner,Business,4,499.0,0,false
+O-01427,2026-02-16,EMEA,partner,Support Plan,3,891.0,0.1,false
+O-01428,2026-01-15,EMEA,web,Business,11,499.0,0,true
+O-01429,2026-01-07,LATAM,sales,Support Plan,14,990.0,0,false
+O-01430,2026-06-28,NA,partner,Team,11,159.2,0.2,false
+O-01431,2026-08-03,LATAM,sales,Starter,8,44.1,0.1,false
+O-01432,2026-03-30,LATAM,partner,Support Plan,16,891.0,0.1,false
+O-01433,2026-08-18,LATAM,web,Starter,20,49.0,0,false
+O-01434,2026-01-22,LATAM,sales,Business,9,474.05,0.05,false
+O-01435,2026-03-17,APAC,partner,Support Plan,5,891.0,0.1,false
+O-01436,2026-07-03,NA,partner,Business,16,499.0,0,false
+O-01437,2026-04-19,NA,sales,Add-on Seats,2,15.0,0,false
+O-01438,2026-07-14,NA,partner,Business,4,499.0,0,false
+O-01439,2026-04-22,NA,sales,Business,1,449.1,0.1,false
+O-01440,2026-02-23,LATAM,partner,Business,1,399.2,0.2,false
+O-01441,2026-09-25,LATAM,partner,Team,13,199.0,0,false
+O-01442,2026-06-14,LATAM,partner,Add-on Seats,4,14.25,0.05,false
+O-01443,2026-01-07,LATAM,web,Add-on Seats,20,12.0,0.2,false
+O-01444,2026-09-11,EMEA,web,Business,19,499.0,0,false
+O-01445,2026-01-22,LATAM,web,Business,16,499.0,0,false
+O-01446,2026-03-12,APAC,partner,Business,20,499.0,0,true
+O-01447,2026-05-02,EMEA,partner,Business,4,499.0,0,false
+O-01448,2026-05-07,EMEA,partner,Add-on Seats,7,15.0,0,false
+O-01449,2026-05-05,LATAM,sales,Support Plan,19,990.0,0,false
+O-01450,2026-03-10,EMEA,sales,Add-on Seats,1,15.0,0,false
+O-01451,2026-04-16,APAC,web,Business,15,449.1,0.1,false
+O-01452,2026-04-12,EMEA,partner,Starter,2,46.55,0.05,false
+O-01453,2026-04-01,LATAM,web,Starter,9,49.0,0,false
+O-01454,2026-09-10,APAC,partner,Starter,2,49.0,0,false
+O-01455,2026-01-31,NA,sales,Starter,20,49.0,0,false
+O-01456,2026-02-10,APAC,partner,Add-on Seats,4,15.0,0,false
+O-01457,2026-05-16,LATAM,partner,Business,12,449.1,0.1,false
+O-01458,2026-08-12,APAC,partner,Add-on Seats,2,15.0,0,false
+O-01459,2026-02-01,LATAM,partner,Team,7,199.0,0,false
+O-01460,2026-05-22,NA,partner,Add-on Seats,3,12.0,0.2,false
+O-01461,2026-03-13,LATAM,web,Add-on Seats,9,12.0,0.2,false
+O-01462,2026-09-28,NA,sales,Support Plan,10,990.0,0,false
+O-01463,2026-02-17,LATAM,partner,Starter,5,49.0,0,false
+O-01464,2026-05-08,APAC,sales,Team,8,179.1,0.1,false
+O-01465,2026-09-07,EMEA,partner,Support Plan,4,792.0,0.2,false
+O-01466,2026-06-21,NA,sales,Team,14,199.0,0,false
+O-01467,2026-03-02,APAC,partner,Add-on Seats,13,15.0,0,false
+O-01468,2026-01-30,APAC,sales,Support Plan,2,792.0,0.2,false
+O-01469,2026-06-12,LATAM,partner,Starter,12,49.0,0,false
+O-01470,2026-09-05,LATAM,partner,Business,14,449.1,0.1,false
+O-01471,2026-03-21,APAC,web,Support Plan,4,792.0,0.2,false
+O-01472,2026-01-14,APAC,partner,Support Plan,3,990.0,0,false
+O-01473,2026-08-24,APAC,web,Starter,10,49.0,0,false
+O-01474,2026-03-17,NA,web,Add-on Seats,5,15.0,0,false
+O-01475,2026-06-15,APAC,sales,Team,9,179.1,0.1,false
+O-01476,2026-08-02,LATAM,sales,Business,14,399.2,0.2,false
+O-01477,2026-04-28,LATAM,sales,Support Plan,1,940.5,0.05,false
+O-01478,2026-08-17,LATAM,sales,Add-on Seats,12,15.0,0,false
+O-01479,2026-04-20,APAC,web,Business,9,474.05,0.05,false
+O-01480,2026-05-25,LATAM,partner,Starter,19,49.0,0,false
+O-01481,2026-03-22,LATAM,web,Business,8,474.05,0.05,false
+O-01482,2026-08-16,APAC,sales,Support Plan,5,990.0,0,true
+O-01483,2026-08-12,APAC,partner,Team,1,189.05,0.05,false
+O-01484,2026-08-26,EMEA,partner,Team,18,199.0,0,false
+O-01485,2026-05-25,NA,web,Team,2,199.0,0,false
+O-01486,2026-06-01,EMEA,web,Business,11,499.0,0,true
+O-01487,2026-02-17,APAC,partner,Support Plan,11,990.0,0,false
+O-01488,2026-07-21,APAC,web,Team,16,189.05,0.05,false
+O-01489,2026-03-19,LATAM,web,Starter,13,49.0,0,false
+O-01490,2026-07-04,APAC,sales,Team,19,199.0,0,true
+O-01491,2026-09-27,APAC,partner,Starter,1,49.0,0,false
+O-01492,2026-05-29,EMEA,sales,Business,1,399.2,0.2,false
+O-01493,2026-06-23,LATAM,web,Team,19,159.2,0.2,false
+O-01494,2026-03-24,LATAM,partner,Business,16,449.1,0.1,false
+O-01495,2026-09-03,APAC,sales,Team,15,159.2,0.2,false
+O-01496,2026-01-03,EMEA,partner,Business,14,449.1,0.1,false
+O-01497,2026-05-26,EMEA,sales,Team,12,159.2,0.2,false
+O-01498,2026-01-23,LATAM,partner,Support Plan,4,990.0,0,false
+O-01499,2026-03-21,NA,sales,Add-on Seats,15,13.5,0.1,false
+O-01500,2026-09-08,LATAM,partner,Add-on Seats,10,15.0,0,false
+O-01501,2026-01-22,LATAM,sales,Support Plan,19,792.0,0.2,false
+O-01502,2026-06-03,NA,partner,Add-on Seats,19,12.0,0.2,false
+O-01503,2026-02-23,APAC,web,Starter,10,49.0,0,false
+O-01504,2026-04-25,LATAM,partner,Add-on Seats,13,14.25,0.05,false
+O-01505,2026-05-06,APAC,partner,Business,12,499.0,0,false
+O-01506,2026-04-15,EMEA,web,Starter,18,44.1,0.1,false
+O-01507,2026-06-03,NA,partner,Add-on Seats,8,15.0,0,false
+O-01508,2026-09-29,LATAM,sales,Team,2,159.2,0.2,false
+O-01509,2026-04-05,EMEA,sales,Starter,11,39.2,0.2,false
+O-01510,2026-07-04,NA,sales,Add-on Seats,7,13.5,0.1,false
+O-01511,2026-08-01,LATAM,web,Support Plan,16,891.0,0.1,false
+O-01512,2026-05-02,LATAM,sales,Team,1,179.1,0.1,false
+O-01513,2026-03-09,LATAM,web,Business,7,499.0,0,false
+O-01514,2026-02-24,APAC,partner,Business,17,399.2,0.2,false
+O-01515,2026-05-28,EMEA,partner,Starter,11,49.0,0,false
+O-01516,2026-03-18,APAC,web,Add-on Seats,19,14.25,0.05,false
+O-01517,2026-03-10,EMEA,partner,Business,3,499.0,0,false
+O-01518,2026-02-20,NA,partner,Add-on Seats,2,15.0,0,false
+O-01519,2026-01-18,LATAM,sales,Business,17,449.1,0.1,false
+O-01520,2026-09-12,LATAM,partner,Add-on Seats,21,13.5,0.1,false
+O-01521,2026-06-26,APAC,partner,Add-on Seats,7,15.0,0,false
+O-01522,2026-04-07,LATAM,web,Business,4,449.1,0.1,false
+O-01523,2026-05-05,EMEA,sales,Add-on Seats,7,15.0,0,false
+O-01524,2026-04-24,LATAM,web,Support Plan,10,990.0,0,false
+O-01525,2026-05-24,LATAM,partner,Team,15,159.2,0.2,false
+O-01526,2026-02-16,LATAM,sales,Team,10,179.1,0.1,false
+O-01527,2026-01-27,NA,sales,Support Plan,13,792.0,0.2,false
+O-01528,2026-05-15,LATAM,partner,Business,20,399.2,0.2,false
+O-01529,2026-05-08,LATAM,partner,Starter,18,49.0,0,false
+O-01530,2026-02-20,LATAM,partner,Add-on Seats,4,13.5,0.1,false
+O-01531,2026-02-15,LATAM,sales,Starter,9,46.55,0.05,false
+O-01532,2026-01-09,NA,web,Add-on Seats,6,15.0,0,false
+O-01533,2026-03-01,NA,sales,Support Plan,2,990.0,0,false
+O-01534,2026-03-25,LATAM,web,Starter,4,49.0,0,false
+O-01535,2026-06-11,LATAM,partner,Add-on Seats,17,15.0,0,false
+O-01536,2026-05-10,APAC,web,Starter,1,49.0,0,false
+O-01537,2026-03-27,LATAM,web,Starter,17,49.0,0,false
+O-01538,2026-02-13,NA,sales,Add-on Seats,5,13.5,0.1,false
+O-01539,2026-03-01,APAC,partner,Starter,17,46.55,0.05,false
+O-01540,2026-07-14,EMEA,partner,Starter,3,49.0,0,false
+O-01541,2026-03-28,APAC,web,Business,8,399.2,0.2,false
+O-01542,2026-09-23,EMEA,sales,Business,11,499.0,0,false
+O-01543,2026-09-15,APAC,sales,Starter,10,39.2,0.2,false
+O-01544,2026-01-28,APAC,partner,Add-on Seats,4,15.0,0,false
+O-01545,2026-02-24,LATAM,sales,Starter,15,39.2,0.2,false
+O-01546,2026-07-23,NA,web,Starter,13,49.0,0,false
+O-01547,2026-02-24,APAC,partner,Add-on Seats,7,12.0,0.2,false
+O-01548,2026-01-11,NA,partner,Support Plan,18,990.0,0,false
+O-01549,2026-06-16,EMEA,web,Business,2,399.2,0.2,false
+O-01550,2026-03-21,APAC,web,Support Plan,4,990.0,0,false
+O-01551,2026-02-16,APAC,sales,Business,14,474.05,0.05,false
+O-01552,2026-08-22,EMEA,partner,Add-on Seats,20,15.0,0,false
+O-01553,2026-01-23,NA,web,Add-on Seats,4,15.0,0,false
+O-01554,2026-06-27,NA,partner,Starter,13,39.2,0.2,false
+O-01555,2026-09-16,EMEA,sales,Support Plan,5,990.0,0,false
+O-01556,2026-07-04,NA,partner,Starter,6,39.2,0.2,false
+O-01557,2026-05-28,LATAM,sales,Support Plan,14,792.0,0.2,false
+O-01558,2026-09-17,APAC,partner,Team,3,199.0,0,false
+O-01559,2026-08-22,NA,sales,Add-on Seats,18,15.0,0,false
+O-01560,2026-04-20,LATAM,sales,Starter,5,39.2,0.2,false
+O-01561,2026-04-11,NA,sales,Support Plan,18,940.5,0.05,false
+O-01562,2026-04-05,LATAM,partner,Support Plan,8,990.0,0,false
+O-01563,2026-01-28,LATAM,sales,Support Plan,14,990.0,0,false
+O-01564,2026-08-21,APAC,partner,Add-on Seats,4,15.0,0,false
+O-01565,2026-07-23,APAC,web,Business,5,499.0,0,false
+O-01566,2026-09-24,NA,partner,Support Plan,4,990.0,0,false
+O-01567,2026-09-07,NA,partner,Starter,20,49.0,0,false
+O-01568,2026-09-17,APAC,web,Starter,11,49.0,0,false
+O-01569,2026-06-23,APAC,sales,Starter,6,46.55,0.05,false
+O-01570,2026-05-12,NA,web,Business,20,399.2,0.2,true
+O-01571,2026-08-25,EMEA,sales,Starter,21,49.0,0,false
+O-01572,2026-08-26,LATAM,web,Support Plan,8,891.0,0.1,false
+O-01573,2026-05-06,NA,partner,Business,19,499.0,0,false
+O-01574,2026-07-09,APAC,partner,Business,4,499.0,0,false
+O-01575,2026-08-02,NA,web,Team,16,199.0,0,false
+O-01576,2026-04-01,APAC,web,Starter,19,44.1,0.1,false
+O-01577,2026-02-13,LATAM,partner,Starter,6,44.1,0.1,false
+O-01578,2026-03-11,EMEA,sales,Team,13,199.0,0,false
+O-01579,2026-02-11,NA,partner,Business,16,474.05,0.05,false
+O-01580,2026-06-18,APAC,web,Business,20,399.2,0.2,false
+O-01581,2026-01-06,LATAM,sales,Add-on Seats,20,14.25,0.05,false
+O-01582,2026-08-16,LATAM,web,Support Plan,3,990.0,0,false
+O-01583,2026-04-10,NA,web,Add-on Seats,3,15.0,0,false
+O-01584,2026-04-27,LATAM,web,Support Plan,2,990.0,0,true
+O-01585,2026-05-28,NA,partner,Add-on Seats,13,15.0,0,false
+O-01586,2026-04-03,APAC,sales,Business,15,449.1,0.1,false
+O-01587,2026-08-08,APAC,sales,Support Plan,6,990.0,0,false
+O-01588,2026-01-25,NA,partner,Add-on Seats,18,15.0,0,false
+O-01589,2026-04-04,NA,web,Business,8,499.0,0,false
+O-01590,2026-04-10,LATAM,sales,Team,11,199.0,0,false
+O-01591,2026-02-07,APAC,partner,Add-on Seats,11,13.5,0.1,false
+O-01592,2026-05-03,APAC,web,Add-on Seats,11,12.0,0.2,false
+O-01593,2026-08-27,LATAM,web,Business,18,499.0,0,false
+O-01594,2026-04-06,LATAM,partner,Support Plan,13,792.0,0.2,false
+O-01595,2026-08-07,LATAM,sales,Starter,11,49.0,0,false
+O-01596,2026-08-13,LATAM,partner,Add-on Seats,1,15.0,0,false
+O-01597,2026-08-24,APAC,sales,Support Plan,18,990.0,0,false
+O-01598,2026-08-13,EMEA,web,Team,5,179.1,0.1,false
+O-01599,2026-09-23,LATAM,sales,Add-on Seats,11,15.0,0,false
+O-01600,2026-02-11,EMEA,partner,Starter,8,49.0,0,false
+O-01601,2026-07-06,LATAM,partner,Starter,6,49.0,0,false
+O-01602,2026-05-12,APAC,web,Add-on Seats,13,12.0,0.2,false
+O-01603,2026-09-03,APAC,web,Team,12,199.0,0,false
+O-01604,2026-07-20,EMEA,web,Team,4,189.05,0.05,false
+O-01605,2026-06-16,APAC,web,Support Plan,12,990.0,0,false
+O-01606,2026-07-29,LATAM,partner,Business,10,399.2,0.2,false
+O-01607,2026-08-15,APAC,web,Add-on Seats,18,13.5,0.1,false
+O-01608,2026-07-08,NA,partner,Support Plan,16,990.0,0,false
+O-01609,2026-03-26,LATAM,partner,Team,18,199.0,0,false
+O-01610,2026-04-25,NA,sales,Add-on Seats,20,15.0,0,false
+O-01611,2026-01-24,APAC,partner,Team,17,159.2,0.2,false
+O-01612,2026-09-16,EMEA,sales,Starter,14,49.0,0,false
+O-01613,2026-08-11,APAC,web,Business,8,449.1,0.1,false
+O-01614,2026-08-05,NA,web,Add-on Seats,14,14.25,0.05,false
+O-01615,2026-07-01,APAC,sales,Add-on Seats,14,15.0,0,false
+O-01616,2026-08-16,LATAM,partner,Add-on Seats,10,15.0,0,false
+O-01617,2026-09-03,EMEA,partner,Business,16,449.1,0.1,false
+O-01618,2026-06-02,NA,partner,Starter,10,39.2,0.2,false
+O-01619,2026-05-29,NA,web,Starter,9,49.0,0,false
+O-01620,2026-08-29,NA,web,Support Plan,3,792.0,0.2,false
+O-01621,2026-09-22,LATAM,web,Starter,18,49.0,0,false
+O-01622,2026-08-30,NA,sales,Starter,17,49.0,0,true
+O-01623,2026-07-27,LATAM,partner,Team,18,159.2,0.2,false
+O-01624,2026-08-08,APAC,web,Starter,6,44.1,0.1,false
+O-01625,2026-05-29,EMEA,sales,Starter,11,49.0,0,false
+O-01626,2026-07-13,NA,sales,Starter,9,46.55,0.05,false
+O-01627,2026-02-24,NA,sales,Business,11,399.2,0.2,false
+O-01628,2026-03-16,APAC,web,Support Plan,15,990.0,0,false
+O-01629,2026-02-26,NA,sales,Starter,5,49.0,0,false
+O-01630,2026-02-11,NA,sales,Business,18,474.05,0.05,false
+O-01631,2026-07-17,NA,partner,Support Plan,3,792.0,0.2,false
+O-01632,2026-09-20,EMEA,partner,Business,13,499.0,0,false
+O-01633,2026-06-04,LATAM,sales,Team,16,199.0,0,false
+O-01634,2026-07-18,APAC,partner,Add-on Seats,1,15.0,0,false
+O-01635,2026-04-30,APAC,sales,Business,17,474.05,0.05,false
+O-01636,2026-05-07,APAC,sales,Business,10,499.0,0,false
+O-01637,2026-08-14,NA,sales,Business,19,499.0,0,false
+O-01638,2026-07-21,LATAM,partner,Business,8,474.05,0.05,false
+O-01639,2026-02-26,LATAM,partner,Team,5,179.1,0.1,false
+O-01640,2026-08-16,NA,partner,Add-on Seats,5,13.5,0.1,false
+O-01641,2026-06-21,NA,sales,Business,14,499.0,0,false
+O-01642,2026-07-15,LATAM,web,Team,12,189.05,0.05,false
+O-01643,2026-01-08,LATAM,partner,Support Plan,16,990.0,0,false
+O-01644,2026-02-04,NA,sales,Support Plan,2,792.0,0.2,false
+O-01645,2026-09-18,LATAM,partner,Team,15,199.0,0,false
+O-01646,2026-07-06,NA,partner,Support Plan,3,990.0,0,false
+O-01647,2026-09-10,NA,partner,Add-on Seats,21,13.5,0.1,false
+O-01648,2026-05-05,NA,partner,Business,9,449.1,0.1,false
+O-01649,2026-01-17,EMEA,web,Support Plan,20,990.0,0,false
+O-01650,2026-04-04,NA,partner,Starter,6,49.0,0,false
+O-01651,2026-06-28,LATAM,web,Business,12,399.2,0.2,false
+O-01652,2026-03-16,LATAM,sales,Team,10,199.0,0,false
+O-01653,2026-05-03,NA,web,Support Plan,18,990.0,0,false
+O-01654,2026-09-04,NA,web,Team,21,199.0,0,false
+O-01655,2026-04-22,APAC,partner,Starter,8,44.1,0.1,false
+O-01656,2026-04-08,NA,web,Add-on Seats,15,15.0,0,false
+O-01657,2026-01-15,EMEA,partner,Support Plan,7,940.5,0.05,false
+O-01658,2026-07-26,APAC,partner,Add-on Seats,4,15.0,0,false
+O-01659,2026-02-22,APAC,partner,Business,14,499.0,0,false
+O-01660,2026-04-24,NA,web,Add-on Seats,9,14.25,0.05,false
+O-01661,2026-04-29,NA,web,Team,5,189.05,0.05,false
+O-01662,2026-09-29,APAC,web,Starter,10,44.1,0.1,false
+O-01663,2026-01-28,NA,sales,Team,6,159.2,0.2,false
+O-01664,2026-08-12,LATAM,web,Team,20,199.0,0,false
+O-01665,2026-07-09,EMEA,sales,Starter,13,46.55,0.05,false
+O-01666,2026-08-02,LATAM,sales,Team,1,199.0,0,false
+O-01667,2026-03-22,LATAM,web,Starter,6,39.2,0.2,false
+O-01668,2026-08-12,LATAM,sales,Add-on Seats,11,15.0,0,false
+O-01669,2026-04-21,APAC,partner,Starter,5,46.55,0.05,false
+O-01670,2026-06-09,APAC,web,Support Plan,1,891.0,0.1,false
+O-01671,2026-02-23,NA,partner,Business,9,499.0,0,false
+O-01672,2026-08-29,APAC,partner,Team,4,179.1,0.1,false
+O-01673,2026-02-23,EMEA,sales,Support Plan,13,990.0,0,false
+O-01674,2026-08-01,EMEA,partner,Support Plan,21,990.0,0,false
+O-01675,2026-01-21,APAC,sales,Support Plan,4,891.0,0.1,false
+O-01676,2026-03-02,LATAM,partner,Team,18,189.05,0.05,false
+O-01677,2026-05-30,APAC,sales,Add-on Seats,4,15.0,0,false
+O-01678,2026-07-21,APAC,sales,Business,14,449.1,0.1,false
+O-01679,2026-08-03,APAC,partner,Starter,4,46.55,0.05,false
+O-01680,2026-08-01,NA,sales,Starter,16,44.1,0.1,false
+O-01681,2026-04-04,APAC,web,Business,17,449.1,0.1,false
+O-01682,2026-04-25,LATAM,web,Add-on Seats,5,15.0,0,false
+O-01683,2026-07-14,NA,web,Starter,14,49.0,0,false
+O-01684,2026-07-22,APAC,partner,Support Plan,4,891.0,0.1,false
+O-01685,2026-09-09,APAC,partner,Business,1,499.0,0,false
+O-01686,2026-01-08,APAC,sales,Starter,3,44.1,0.1,false
+O-01687,2026-01-28,EMEA,web,Starter,11,49.0,0,false
+O-01688,2026-02-14,NA,sales,Add-on Seats,16,15.0,0,false
+O-01689,2026-08-28,EMEA,web,Starter,22,46.55,0.05,false
+O-01690,2026-07-11,APAC,web,Support Plan,5,990.0,0,false
+O-01691,2026-04-20,LATAM,partner,Support Plan,11,940.5,0.05,false
+O-01692,2026-05-19,NA,partner,Business,19,499.0,0,false
+O-01693,2026-02-07,LATAM,partner,Business,1,449.1,0.1,false
+O-01694,2026-08-19,APAC,web,Business,20,449.1,0.1,false
+O-01695,2026-05-30,APAC,partner,Starter,11,49.0,0,false
+O-01696,2026-04-09,LATAM,partner,Team,12,179.1,0.1,true
+O-01697,2026-01-05,EMEA,web,Support Plan,14,990.0,0,false
+O-01698,2026-06-16,EMEA,sales,Add-on Seats,7,14.25,0.05,false
+O-01699,2026-03-25,EMEA,partner,Business,3,449.1,0.1,false
+O-01700,2026-02-13,NA,sales,Team,11,189.05,0.05,false
+O-01701,2026-04-08,APAC,partner,Starter,13,39.2,0.2,false
+O-01702,2026-09-23,NA,sales,Business,13,449.1,0.1,false
+O-01703,2026-03-16,LATAM,partner,Business,12,399.2,0.2,false
+O-01704,2026-04-08,LATAM,web,Add-on Seats,12,15.0,0,false
+O-01705,2026-02-21,EMEA,sales,Starter,6,49.0,0,false
+O-01706,2026-06-02,EMEA,partner,Support Plan,14,940.5,0.05,false
+O-01707,2026-07-25,EMEA,sales,Add-on Seats,19,13.5,0.1,false
+O-01708,2026-02-18,NA,sales,Team,5,199.0,0,false
+O-01709,2026-01-17,EMEA,sales,Add-on Seats,3,13.5,0.1,false
+O-01710,2026-05-04,LATAM,partner,Support Plan,1,940.5,0.05,false
+O-01711,2026-06-06,EMEA,sales,Business,5,399.2,0.2,false
+O-01712,2026-04-25,APAC,web,Add-on Seats,4,15.0,0,false
+O-01713,2026-07-17,EMEA,partner,Business,15,399.2,0.2,false
+O-01714,2026-05-08,LATAM,partner,Starter,8,49.0,0,false
+O-01715,2026-09-28,APAC,sales,Support Plan,5,990.0,0,false
+O-01716,2026-06-26,LATAM,partner,Support Plan,3,990.0,0,false
+O-01717,2026-04-22,EMEA,sales,Support Plan,20,990.0,0,false
+O-01718,2026-01-13,LATAM,sales,Support Plan,11,792.0,0.2,false
+O-01719,2026-09-06,LATAM,web,Business,5,499.0,0,false
+O-01720,2026-09-28,EMEA,sales,Add-on Seats,13,14.25,0.05,false
+O-01721,2026-05-01,APAC,partner,Add-on Seats,8,13.5,0.1,false
+O-01722,2026-06-01,NA,sales,Add-on Seats,14,15.0,0,false
+O-01723,2026-05-12,LATAM,sales,Support Plan,3,990.0,0,false
+O-01724,2026-04-10,NA,web,Starter,6,46.55,0.05,true
+O-01725,2026-09-15,LATAM,web,Support Plan,5,990.0,0,false
+O-01726,2026-09-17,APAC,sales,Support Plan,17,990.0,0,false
+O-01727,2026-09-27,LATAM,partner,Starter,12,49.0,0,false
+O-01728,2026-01-03,LATAM,web,Business,13,499.0,0,true
+O-01729,2026-04-15,LATAM,sales,Team,3,189.05,0.05,false
+O-01730,2026-07-22,LATAM,partner,Starter,2,44.1,0.1,false
+O-01731,2026-04-05,EMEA,web,Support Plan,18,891.0,0.1,false
+O-01732,2026-01-30,NA,partner,Team,19,159.2,0.2,false
+O-01733,2026-04-22,APAC,web,Team,11,159.2,0.2,false
+O-01734,2026-05-10,LATAM,sales,Team,1,159.2,0.2,false
+O-01735,2026-02-27,APAC,partner,Support Plan,7,990.0,0,false
+O-01736,2026-08-12,LATAM,sales,Support Plan,14,990.0,0,false
+O-01737,2026-05-26,APAC,sales,Team,7,199.0,0,false
+O-01738,2026-02-05,EMEA,sales,Business,17,499.0,0,false
+O-01739,2026-08-14,LATAM,sales,Support Plan,6,990.0,0,false
+O-01740,2026-03-09,APAC,sales,Business,8,499.0,0,false
+O-01741,2026-02-06,NA,sales,Team,7,189.05,0.05,false
+O-01742,2026-02-26,EMEA,web,Add-on Seats,19,15.0,0,false
+O-01743,2026-07-26,LATAM,partner,Support Plan,8,990.0,0,false
+O-01744,2026-01-20,LATAM,partner,Add-on Seats,17,15.0,0,false
+O-01745,2026-06-13,NA,web,Team,15,179.1,0.1,false
+O-01746,2026-02-20,EMEA,sales,Business,11,499.0,0,false
+O-01747,2026-05-20,APAC,partner,Add-on Seats,6,13.5,0.1,false
+O-01748,2026-06-03,APAC,partner,Support Plan,15,940.5,0.05,false
+O-01749,2026-05-27,NA,partner,Support Plan,3,990.0,0,false
+O-01750,2026-09-16,LATAM,partner,Team,3,199.0,0,false
+O-01751,2026-05-23,EMEA,partner,Add-on Seats,1,14.25,0.05,false
+O-01752,2026-09-28,LATAM,web,Business,6,499.0,0,false
+O-01753,2026-07-12,NA,web,Team,21,179.1,0.1,false
+O-01754,2026-04-17,EMEA,sales,Starter,11,49.0,0,false
+O-01755,2026-03-20,EMEA,web,Add-on Seats,7,12.0,0.2,false
+O-01756,2026-05-02,LATAM,sales,Add-on Seats,13,13.5,0.1,false
+O-01757,2026-04-18,APAC,sales,Team,10,199.0,0,false
+O-01758,2026-07-17,LATAM,partner,Add-on Seats,15,14.25,0.05,false
+O-01759,2026-08-11,APAC,partner,Add-on Seats,2,15.0,0,false
+O-01760,2026-08-25,LATAM,web,Support Plan,5,990.0,0,false
+O-01761,2026-09-15,APAC,partner,Starter,5,46.55,0.05,false
+O-01762,2026-02-10,LATAM,web,Support Plan,11,792.0,0.2,false
+O-01763,2026-07-28,LATAM,partner,Add-on Seats,20,12.0,0.2,false
+O-01764,2026-07-07,LATAM,partner,Support Plan,15,891.0,0.1,false
+O-01765,2026-01-07,LATAM,partner,Business,19,499.0,0,false
+O-01766,2026-09-21,LATAM,partner,Support Plan,14,990.0,0,true
+O-01767,2026-07-15,APAC,partner,Add-on Seats,2,15.0,0,false
+O-01768,2026-06-24,EMEA,partner,Add-on Seats,19,14.25,0.05,false
+O-01769,2026-03-09,APAC,partner,Add-on Seats,9,15.0,0,false
+O-01770,2026-02-14,EMEA,sales,Support Plan,6,940.5,0.05,false
+O-01771,2026-01-28,EMEA,web,Business,17,499.0,0,false
+O-01772,2026-04-26,NA,sales,Starter,13,49.0,0,false
+O-01773,2026-06-10,NA,partner,Business,12,499.0,0,false
+O-01774,2026-06-05,APAC,partner,Support Plan,2,792.0,0.2,false
+O-01775,2026-09-24,LATAM,partner,Support Plan,7,792.0,0.2,true
+O-01776,2026-07-13,NA,sales,Starter,4,49.0,0,false
+O-01777,2026-01-02,NA,web,Starter,16,46.55,0.05,false
+O-01778,2026-08-13,LATAM,web,Starter,10,44.1,0.1,false
+O-01779,2026-06-07,NA,partner,Team,10,199.0,0,false
+O-01780,2026-08-19,LATAM,partner,Support Plan,3,990.0,0,false
+O-01781,2026-08-01,NA,web,Support Plan,7,990.0,0,false
+O-01782,2026-05-06,EMEA,partner,Support Plan,19,990.0,0,false
+O-01783,2026-05-27,APAC,partner,Team,19,189.05,0.05,false
+O-01784,2026-01-01,NA,partner,Support Plan,9,990.0,0,false
+O-01785,2026-01-03,APAC,sales,Team,4,179.1,0.1,false
+O-01786,2026-08-22,LATAM,partner,Support Plan,12,940.5,0.05,false
+O-01787,2026-01-29,LATAM,partner,Team,20,189.05,0.05,false
+O-01788,2026-02-10,LATAM,partner,Team,15,159.2,0.2,true
+O-01789,2026-02-20,EMEA,web,Starter,13,39.2,0.2,false
+O-01790,2026-04-16,APAC,partner,Support Plan,19,940.5,0.05,false
+O-01791,2026-02-15,APAC,sales,Support Plan,5,990.0,0,false
+O-01792,2026-09-18,EMEA,web,Starter,6,49.0,0,false
+O-01793,2026-03-25,EMEA,sales,Support Plan,19,990.0,0,false
+O-01794,2026-02-02,LATAM,web,Team,13,179.1,0.1,false
+O-01795,2026-04-30,APAC,web,Support Plan,14,990.0,0,false
+O-01796,2026-03-18,LATAM,sales,Team,8,199.0,0,false
+O-01797,2026-02-07,EMEA,web,Business,1,499.0,0,false
+O-01798,2026-06-06,APAC,web,Add-on Seats,19,15.0,0,false
+O-01799,2026-08-01,NA,web,Add-on Seats,22,13.5,0.1,false
+O-01800,2026-08-07,NA,sales,Business,12,499.0,0,false
+O-01801,2026-04-30,EMEA,sales,Business,10,474.05,0.05,false
+O-01802,2026-01-05,EMEA,sales,Starter,5,49.0,0,false
+O-01803,2026-09-13,NA,web,Business,14,399.2,0.2,false
+O-01804,2026-02-10,APAC,web,Support Plan,17,990.0,0,false
+O-01805,2026-09-06,APAC,partner,Team,1,159.2,0.2,false
+O-01806,2026-03-03,APAC,sales,Add-on Seats,15,12.0,0.2,false
+O-01807,2026-07-10,NA,partner,Starter,4,46.55,0.05,false
+O-01808,2026-07-17,NA,web,Starter,9,39.2,0.2,false
+O-01809,2026-08-05,APAC,web,Business,20,499.0,0,false
+O-01810,2026-05-21,LATAM,web,Business,7,474.05,0.05,false
+O-01811,2026-09-16,EMEA,sales,Support Plan,7,940.5,0.05,false
+O-01812,2026-02-25,APAC,partner,Support Plan,17,990.0,0,false
+O-01813,2026-09-14,LATAM,partner,Support Plan,7,792.0,0.2,false
+O-01814,2026-02-12,NA,web,Business,17,474.05,0.05,false
+O-01815,2026-05-23,EMEA,web,Team,7,159.2,0.2,false
+O-01816,2026-08-19,NA,sales,Starter,11,49.0,0,false
+O-01817,2026-02-09,EMEA,sales,Team,16,199.0,0,false
+O-01818,2026-09-05,APAC,web,Starter,3,49.0,0,false
+O-01819,2026-07-20,NA,sales,Team,6,189.05,0.05,false
+O-01820,2026-03-14,NA,partner,Support Plan,17,792.0,0.2,false
+O-01821,2026-03-29,EMEA,sales,Support Plan,4,891.0,0.1,false
+O-01822,2026-05-22,LATAM,sales,Team,20,199.0,0,false
+O-01823,2026-01-16,EMEA,partner,Support Plan,2,792.0,0.2,false
+O-01824,2026-02-26,EMEA,web,Starter,18,46.55,0.05,false
+O-01825,2026-08-14,NA,partner,Business,5,499.0,0,false
+O-01826,2026-08-15,LATAM,partner,Starter,15,49.0,0,false
+O-01827,2026-08-09,NA,partner,Support Plan,3,940.5,0.05,false
+O-01828,2026-08-19,EMEA,web,Support Plan,10,990.0,0,false
+O-01829,2026-04-24,NA,sales,Support Plan,1,891.0,0.1,false
+O-01830,2026-04-03,NA,partner,Team,10,189.05,0.05,false
+O-01831,2026-06-25,NA,web,Add-on Seats,18,15.0,0,false
+O-01832,2026-06-17,EMEA,sales,Starter,18,49.0,0,false
+O-01833,2026-06-18,APAC,partner,Starter,12,49.0,0,false
+O-01834,2026-04-04,LATAM,partner,Team,11,199.0,0,false
+O-01835,2026-05-21,NA,partner,Starter,8,39.2,0.2,false
+O-01836,2026-06-18,EMEA,web,Support Plan,9,792.0,0.2,false
+O-01837,2026-09-21,LATAM,partner,Team,3,199.0,0,false
+O-01838,2026-02-06,LATAM,web,Team,10,199.0,0,false
+O-01839,2026-03-10,APAC,web,Business,9,499.0,0,false
+O-01840,2026-03-25,LATAM,sales,Business,5,449.1,0.1,false
+O-01841,2026-09-29,NA,partner,Starter,9,39.2,0.2,false
+O-01842,2026-06-12,APAC,sales,Starter,11,49.0,0,false
+O-01843,2026-07-31,LATAM,sales,Add-on Seats,8,15.0,0,false
+O-01844,2026-01-17,EMEA,sales,Support Plan,6,990.0,0,false
+O-01845,2026-01-21,EMEA,sales,Team,14,189.05,0.05,true
+O-01846,2026-04-10,EMEA,web,Support Plan,5,891.0,0.1,false
+O-01847,2026-08-20,EMEA,sales,Team,8,189.05,0.05,false
+O-01848,2026-06-20,EMEA,partner,Team,9,199.0,0,false
+O-01849,2026-05-26,LATAM,sales,Starter,5,39.2,0.2,false
+O-01850,2026-04-19,EMEA,web,Add-on Seats,1,12.0,0.2,false
+O-01851,2026-05-14,APAC,web,Add-on Seats,15,15.0,0,false
+O-01852,2026-04-24,LATAM,web,Starter,5,39.2,0.2,false
+O-01853,2026-03-02,EMEA,sales,Business,19,449.1,0.1,false
+O-01854,2026-03-24,APAC,web,Support Plan,3,891.0,0.1,false
+O-01855,2026-07-20,APAC,sales,Add-on Seats,11,12.0,0.2,false
+O-01856,2026-04-09,EMEA,web,Add-on Seats,3,15.0,0,false
+O-01857,2026-04-15,EMEA,partner,Starter,19,49.0,0,false
+O-01858,2026-02-07,EMEA,web,Starter,7,49.0,0,false
+O-01859,2026-02-10,NA,sales,Starter,11,49.0,0,false
+O-01860,2026-02-28,NA,web,Team,8,179.1,0.1,false
+O-01861,2026-05-17,EMEA,partner,Business,17,474.05,0.05,false
+O-01862,2026-03-01,LATAM,web,Team,18,179.1,0.1,false
+O-01863,2026-06-27,EMEA,partner,Support Plan,9,990.0,0,false
+O-01864,2026-09-21,LATAM,sales,Business,22,449.1,0.1,false
+O-01865,2026-04-25,APAC,partner,Team,15,199.0,0,false
+O-01866,2026-02-19,LATAM,sales,Business,13,474.05,0.05,false
+O-01867,2026-03-30,NA,sales,Starter,14,44.1,0.1,false
+O-01868,2026-01-15,LATAM,partner,Support Plan,17,940.5,0.05,false
+O-01869,2026-06-04,LATAM,web,Business,9,499.0,0,false
+O-01870,2026-06-28,NA,sales,Business,4,499.0,0,false
+O-01871,2026-03-28,EMEA,sales,Starter,20,49.0,0,false
+O-01872,2026-01-08,APAC,sales,Team,15,199.0,0,false
+O-01873,2026-01-10,APAC,partner,Team,13,159.2,0.2,false
+O-01874,2026-05-10,NA,web,Business,11,499.0,0,false
+O-01875,2026-07-27,APAC,web,Starter,3,49.0,0,false
+O-01876,2026-01-30,APAC,partner,Team,7,199.0,0,false
+O-01877,2026-05-20,NA,partner,Support Plan,9,990.0,0,false
+O-01878,2026-05-13,NA,partner,Team,6,179.1,0.1,false
+O-01879,2026-08-17,APAC,web,Support Plan,6,990.0,0,false
+O-01880,2026-09-20,EMEA,web,Starter,19,46.55,0.05,false
+O-01881,2026-07-12,LATAM,partner,Starter,6,44.1,0.1,true
+O-01882,2026-01-05,NA,partner,Business,1,474.05,0.05,false
+O-01883,2026-07-19,LATAM,web,Team,3,189.05,0.05,false
+O-01884,2026-09-29,LATAM,sales,Business,7,399.2,0.2,false
+O-01885,2026-09-25,EMEA,sales,Add-on Seats,10,12.0,0.2,false
+O-01886,2026-06-28,APAC,partner,Business,3,474.05,0.05,false
+O-01887,2026-04-14,NA,web,Team,6,199.0,0,false
+O-01888,2026-08-02,LATAM,partner,Starter,12,44.1,0.1,false
+O-01889,2026-08-15,LATAM,sales,Add-on Seats,17,13.5,0.1,true
+O-01890,2026-01-31,APAC,partner,Business,5,474.05,0.05,false
+O-01891,2026-05-09,LATAM,web,Support Plan,18,990.0,0,false
+O-01892,2026-01-29,EMEA,partner,Business,14,499.0,0,false
+O-01893,2026-05-20,LATAM,partner,Starter,16,49.0,0,false
+O-01894,2026-01-09,EMEA,sales,Add-on Seats,4,14.25,0.05,false
+O-01895,2026-03-12,APAC,sales,Support Plan,1,990.0,0,false
+O-01896,2026-07-18,EMEA,web,Team,19,199.0,0,false
+O-01897,2026-07-22,APAC,web,Team,18,199.0,0,false
+O-01898,2026-09-29,NA,web,Support Plan,7,990.0,0,false
+O-01899,2026-08-02,EMEA,web,Add-on Seats,5,14.25,0.05,false
+O-01900,2026-08-03,NA,web,Business,3,499.0,0,false
+O-01901,2026-04-19,APAC,web,Business,16,499.0,0,false
+O-01902,2026-06-06,LATAM,sales,Add-on Seats,19,15.0,0,false
+O-01903,2026-06-27,NA,web,Team,17,199.0,0,false
+O-01904,2026-07-19,EMEA,sales,Team,7,179.1,0.1,false
+O-01905,2026-09-12,APAC,partner,Business,1,499.0,0,false
+O-01906,2026-07-05,APAC,sales,Business,9,499.0,0,false
+O-01907,2026-05-09,LATAM,web,Starter,15,49.0,0,false
+O-01908,2026-03-29,NA,web,Support Plan,15,990.0,0,false
+O-01909,2026-08-04,APAC,web,Starter,13,49.0,0,false
+O-01910,2026-03-13,NA,sales,Add-on Seats,9,15.0,0,false
+O-01911,2026-05-06,APAC,partner,Add-on Seats,6,14.25,0.05,false
+O-01912,2026-07-05,NA,sales,Support Plan,18,891.0,0.1,false
+O-01913,2026-04-11,NA,web,Support Plan,12,990.0,0,false
+O-01914,2026-08-15,LATAM,sales,Add-on Seats,17,13.5,0.1,false
+O-01915,2026-07-13,APAC,partner,Support Plan,2,940.5,0.05,false
+O-01916,2026-05-12,NA,partner,Support Plan,1,990.0,0,false
+O-01917,2026-03-14,APAC,partner,Team,3,189.05,0.05,false
+O-01918,2026-02-07,LATAM,partner,Business,12,499.0,0,false
+O-01919,2026-07-15,LATAM,sales,Support Plan,18,990.0,0,false
+O-01920,2026-01-05,LATAM,sales,Team,9,199.0,0,false
+O-01921,2026-04-07,EMEA,partner,Add-on Seats,19,13.5,0.1,false
+O-01922,2026-07-12,NA,partner,Starter,21,49.0,0,false
+O-01923,2026-07-13,APAC,partner,Starter,2,49.0,0,false
+O-01924,2026-05-31,NA,web,Starter,1,49.0,0,false
+O-01925,2026-05-23,APAC,sales,Add-on Seats,15,12.0,0.2,false
+O-01926,2026-09-30,NA,sales,Business,10,499.0,0,false
+O-01927,2026-03-02,APAC,web,Business,10,499.0,0,false
+O-01928,2026-04-01,EMEA,sales,Business,7,499.0,0,false
+O-01929,2026-06-06,EMEA,partner,Business,8,474.05,0.05,false
+O-01930,2026-09-07,APAC,web,Business,10,499.0,0,false
+O-01931,2026-02-20,LATAM,web,Team,6,199.0,0,false
+O-01932,2026-02-13,NA,sales,Support Plan,2,990.0,0,false
+O-01933,2026-04-14,NA,web,Starter,5,46.55,0.05,false
+O-01934,2026-04-06,LATAM,web,Add-on Seats,17,15.0,0,false
+O-01935,2026-03-27,LATAM,partner,Support Plan,10,891.0,0.1,true
+O-01936,2026-07-01,EMEA,partner,Support Plan,5,792.0,0.2,false
+O-01937,2026-04-14,APAC,web,Starter,12,39.2,0.2,false
+O-01938,2026-06-29,NA,sales,Team,4,179.1,0.1,false
+O-01939,2026-06-13,EMEA,sales,Starter,19,46.55,0.05,false
+O-01940,2026-06-09,NA,web,Support Plan,16,990.0,0,false
+O-01941,2026-06-20,NA,web,Support Plan,20,792.0,0.2,false
+O-01942,2026-03-17,EMEA,web,Team,4,199.0,0,false
+O-01943,2026-06-13,LATAM,partner,Team,14,199.0,0,false
+O-01944,2026-07-30,LATAM,partner,Team,2,199.0,0,false
+O-01945,2026-05-29,EMEA,partner,Starter,14,39.2,0.2,false
+O-01946,2026-05-05,LATAM,partner,Support Plan,6,940.5,0.05,false
+O-01947,2026-08-02,EMEA,partner,Support Plan,14,940.5,0.05,false
+O-01948,2026-03-11,LATAM,partner,Support Plan,1,891.0,0.1,false
+O-01949,2026-08-24,EMEA,web,Team,7,189.05,0.05,false
+O-01950,2026-01-21,EMEA,partner,Starter,12,49.0,0,false
+O-01951,2026-03-07,NA,web,Support Plan,9,792.0,0.2,false
+O-01952,2026-09-12,APAC,sales,Add-on Seats,10,15.0,0,false
+O-01953,2026-08-27,APAC,partner,Starter,1,49.0,0,false
+O-01954,2026-03-27,LATAM,web,Starter,2,49.0,0,false
+O-01955,2026-04-23,LATAM,partner,Support Plan,4,891.0,0.1,false
+O-01956,2026-05-25,APAC,partner,Add-on Seats,4,15.0,0,false
+O-01957,2026-07-19,APAC,sales,Starter,20,49.0,0,false
+O-01958,2026-01-24,NA,partner,Support Plan,15,891.0,0.1,false
+O-01959,2026-07-05,LATAM,partner,Add-on Seats,12,12.0,0.2,false
+O-01960,2026-06-03,LATAM,sales,Support Plan,4,990.0,0,false
+O-01961,2026-01-09,APAC,partner,Business,4,499.0,0,false
+O-01962,2026-02-21,LATAM,sales,Team,18,199.0,0,false
+O-01963,2026-05-13,LATAM,sales,Starter,9,44.1,0.1,false
+O-01964,2026-06-16,APAC,web,Starter,7,49.0,0,false
+O-01965,2026-07-19,APAC,web,Starter,9,39.2,0.2,false
+O-01966,2026-06-10,APAC,web,Business,5,499.0,0,false
+O-01967,2026-07-14,LATAM,partner,Team,13,159.2,0.2,false
+O-01968,2026-08-31,EMEA,partner,Business,10,474.05,0.05,false
+O-01969,2026-08-27,LATAM,web,Team,8,159.2,0.2,false
+O-01970,2026-06-18,LATAM,sales,Business,3,499.0,0,false
+O-01971,2026-02-08,EMEA,partner,Team,19,199.0,0,false
+O-01972,2026-09-20,LATAM,sales,Business,6,474.05,0.05,false
+O-01973,2026-07-12,NA,web,Add-on Seats,6,15.0,0,false
+O-01974,2026-09-27,NA,web,Add-on Seats,19,15.0,0,false
+O-01975,2026-06-26,EMEA,web,Team,16,179.1,0.1,false
+O-01976,2026-02-02,EMEA,sales,Add-on Seats,20,15.0,0,false
+O-01977,2026-04-28,APAC,web,Add-on Seats,13,13.5,0.1,false
+O-01978,2026-09-25,LATAM,partner,Business,1,399.2,0.2,false
+O-01979,2026-05-12,LATAM,sales,Business,4,399.2,0.2,false
+O-01980,2026-08-18,APAC,partner,Starter,5,44.1,0.1,false
+O-01981,2026-07-03,LATAM,web,Starter,9,39.2,0.2,false
+O-01982,2026-08-09,EMEA,sales,Business,12,474.05,0.05,false
+O-01983,2026-06-26,LATAM,sales,Team,20,199.0,0,false
+O-01984,2026-04-27,APAC,sales,Starter,18,46.55,0.05,false
+O-01985,2026-04-24,LATAM,partner,Business,7,399.2,0.2,false
+O-01986,2026-06-15,APAC,sales,Support Plan,4,990.0,0,false
+O-01987,2026-02-27,LATAM,web,Support Plan,10,990.0,0,false
+O-01988,2026-08-16,EMEA,sales,Business,9,449.1,0.1,false
+O-01989,2026-01-15,LATAM,web,Support Plan,8,891.0,0.1,false
+O-01990,2026-08-10,EMEA,partner,Support Plan,18,990.0,0,false
+O-01991,2026-05-24,LATAM,web,Support Plan,3,940.5,0.05,false
+O-01992,2026-09-26,NA,web,Add-on Seats,17,15.0,0,false
+O-01993,2026-06-11,EMEA,web,Support Plan,17,990.0,0,false
+O-01994,2026-01-17,NA,web,Team,10,159.2,0.2,false
+O-01995,2026-01-14,EMEA,web,Team,13,199.0,0,false
+O-01996,2026-08-30,LATAM,partner,Starter,6,39.2,0.2,false
+O-01997,2026-07-19,EMEA,web,Support Plan,14,990.0,0,false
+O-01998,2026-04-28,LATAM,sales,Business,1,399.2,0.2,false
+O-01999,2026-04-06,EMEA,sales,Starter,1,49.0,0,false
+O-02000,2026-09-19,NA,web,Add-on Seats,20,15.0,0,false
+O-02001,2026-09-27,NA,sales,Business,3,474.05,0.05,false
+O-02002,2026-06-29,EMEA,partner,Support Plan,19,940.5,0.05,false
+O-02003,2026-01-10,LATAM,partner,Starter,7,49.0,0,false
+O-02004,2026-01-06,LATAM,partner,Starter,10,49.0,0,false
+O-02005,2026-05-09,EMEA,web,Support Plan,16,792.0,0.2,false
+O-02006,2026-06-02,NA,partner,Support Plan,10,990.0,0,false
+O-02007,2026-08-07,NA,partner,Support Plan,14,891.0,0.1,false
+O-02008,2026-08-03,LATAM,web,Business,8,399.2,0.2,false
+O-02009,2026-07-16,APAC,web,Starter,17,46.55,0.05,false
+O-02010,2026-05-24,APAC,sales,Team,7,199.0,0,false
+O-02011,2026-09-30,APAC,sales,Support Plan,15,990.0,0,false
+O-02012,2026-09-24,EMEA,sales,Team,10,199.0,0,true
+O-02013,2026-09-22,NA,sales,Business,16,474.05,0.05,false
+O-02014,2026-05-13,EMEA,web,Add-on Seats,20,15.0,0,false
+O-02015,2026-04-27,LATAM,sales,Team,10,189.05,0.05,false
+O-02016,2026-04-26,APAC,partner,Team,14,199.0,0,false
+O-02017,2026-07-04,NA,web,Support Plan,2,990.0,0,false
+O-02018,2026-04-05,APAC,partner,Add-on Seats,15,15.0,0,false
+O-02019,2026-05-03,NA,web,Business,5,449.1,0.1,false
+O-02020,2026-03-21,APAC,partner,Business,8,399.2,0.2,false
+O-02021,2026-06-03,EMEA,partner,Starter,8,44.1,0.1,false
+O-02022,2026-03-23,APAC,sales,Team,16,159.2,0.2,false
+O-02023,2026-04-13,APAC,sales,Starter,6,49.0,0,false
+O-02024,2026-03-09,APAC,sales,Business,13,449.1,0.1,false
+O-02025,2026-02-07,LATAM,web,Starter,11,46.55,0.05,false
+O-02026,2026-04-05,LATAM,sales,Add-on Seats,16,12.0,0.2,false
+O-02027,2026-04-15,APAC,partner,Business,9,399.2,0.2,false
+O-02028,2026-02-16,NA,partner,Business,4,499.0,0,false
+O-02029,2026-04-09,NA,partner,Team,6,199.0,0,false
+O-02030,2026-01-27,NA,web,Team,20,159.2,0.2,false
+O-02031,2026-05-27,NA,partner,Support Plan,2,891.0,0.1,false
+O-02032,2026-03-05,LATAM,web,Team,3,199.0,0,false
+O-02033,2026-06-03,NA,partner,Business,17,449.1,0.1,false
+O-02034,2026-06-20,LATAM,web,Support Plan,14,940.5,0.05,false
+O-02035,2026-06-06,LATAM,web,Business,8,474.05,0.05,false
+O-02036,2026-02-14,LATAM,partner,Support Plan,2,940.5,0.05,false
+O-02037,2026-06-18,LATAM,sales,Support Plan,20,891.0,0.1,false
+O-02038,2026-06-09,EMEA,web,Team,18,199.0,0,false
+O-02039,2026-03-31,EMEA,web,Team,7,159.2,0.2,false
+O-02040,2026-09-06,EMEA,partner,Team,5,199.0,0,false
+O-02041,2026-05-16,LATAM,sales,Add-on Seats,2,14.25,0.05,false
+O-02042,2026-06-22,LATAM,web,Starter,2,39.2,0.2,false
+O-02043,2026-04-14,NA,web,Team,15,199.0,0,false
+O-02044,2026-04-02,LATAM,partner,Starter,18,39.2,0.2,false
+O-02045,2026-06-14,LATAM,sales,Team,5,159.2,0.2,false
+O-02046,2026-02-23,LATAM,web,Starter,12,49.0,0,false
+O-02047,2026-07-30,EMEA,partner,Team,19,159.2,0.2,false
+O-02048,2026-08-11,NA,sales,Starter,14,46.55,0.05,false
+O-02049,2026-01-10,NA,sales,Starter,18,49.0,0,false
+O-02050,2026-09-01,LATAM,web,Starter,19,49.0,0,false
+O-02051,2026-03-27,NA,web,Add-on Seats,15,15.0,0,true
+O-02052,2026-09-11,EMEA,partner,Support Plan,22,990.0,0,false
+O-02053,2026-05-18,LATAM,partner,Starter,13,39.2,0.2,false
+O-02054,2026-04-22,APAC,partner,Support Plan,11,990.0,0,false
+O-02055,2026-03-02,NA,web,Team,4,179.1,0.1,false
+O-02056,2026-02-21,APAC,web,Business,12,399.2,0.2,false
+O-02057,2026-05-08,NA,partner,Team,6,189.05,0.05,false
+O-02058,2026-03-16,APAC,sales,Support Plan,12,990.0,0,false
+O-02059,2026-09-29,NA,web,Business,3,399.2,0.2,false
+O-02060,2026-09-21,EMEA,partner,Team,13,199.0,0,false
+O-02061,2026-07-14,NA,partner,Team,14,199.0,0,true
+O-02062,2026-09-19,APAC,partner,Support Plan,3,792.0,0.2,false
+O-02063,2026-01-20,LATAM,sales,Team,15,199.0,0,false
+O-02064,2026-05-19,LATAM,web,Support Plan,8,990.0,0,false
+O-02065,2026-08-11,EMEA,sales,Team,4,199.0,0,false
+O-02066,2026-04-02,NA,sales,Business,16,499.0,0,false
+O-02067,2026-04-14,EMEA,sales,Support Plan,14,792.0,0.2,false
+O-02068,2026-01-25,EMEA,web,Support Plan,10,990.0,0,false
+O-02069,2026-05-12,APAC,partner,Team,6,189.05,0.05,false
+O-02070,2026-09-08,APAC,web,Business,17,499.0,0,false
+O-02071,2026-07-13,APAC,sales,Team,4,199.0,0,false
+O-02072,2026-08-09,EMEA,sales,Support Plan,10,990.0,0,false
+O-02073,2026-08-21,APAC,partner,Add-on Seats,3,13.5,0.1,false
+O-02074,2026-03-06,NA,partner,Starter,4,44.1,0.1,false
+O-02075,2026-02-24,APAC,partner,Add-on Seats,16,13.5,0.1,false
+O-02076,2026-01-10,EMEA,web,Team,8,179.1,0.1,false
+O-02077,2026-02-14,APAC,web,Add-on Seats,6,15.0,0,false
+O-02078,2026-09-08,EMEA,sales,Starter,19,49.0,0,false
+O-02079,2026-05-30,LATAM,sales,Business,18,499.0,0,false
+O-02080,2026-02-03,NA,sales,Support Plan,4,891.0,0.1,false
+O-02081,2026-08-10,APAC,sales,Support Plan,12,792.0,0.2,false
+O-02082,2026-04-23,NA,sales,Support Plan,7,990.0,0,false
+O-02083,2026-05-06,EMEA,web,Team,17,159.2,0.2,false
+O-02084,2026-02-05,EMEA,web,Starter,1,44.1,0.1,true
+O-02085,2026-01-02,EMEA,partner,Team,3,199.0,0,false
+O-02086,2026-01-27,APAC,web,Team,20,199.0,0,false
+O-02087,2026-07-05,NA,sales,Starter,5,39.2,0.2,false
+O-02088,2026-05-17,LATAM,web,Starter,18,39.2,0.2,false
+O-02089,2026-08-10,LATAM,partner,Starter,12,44.1,0.1,false
+O-02090,2026-05-03,EMEA,partner,Support Plan,20,940.5,0.05,false
+O-02091,2026-02-02,LATAM,partner,Add-on Seats,5,15.0,0,false
+O-02092,2026-01-31,NA,web,Support Plan,3,990.0,0,false
+O-02093,2026-05-26,EMEA,sales,Starter,7,44.1,0.1,false
+O-02094,2026-07-30,NA,sales,Support Plan,11,990.0,0,false
+O-02095,2026-02-24,LATAM,web,Starter,19,46.55,0.05,false
+O-02096,2026-08-26,NA,web,Starter,21,46.55,0.05,false
+O-02097,2026-09-16,LATAM,partner,Starter,8,49.0,0,false
+O-02098,2026-09-12,NA,sales,Add-on Seats,15,15.0,0,false
+O-02099,2026-06-05,EMEA,partner,Business,18,499.0,0,false
+O-02100,2026-04-16,LATAM,web,Add-on Seats,5,13.5,0.1,false
+O-02101,2026-01-30,APAC,web,Team,20,159.2,0.2,false
+O-02102,2026-06-21,LATAM,web,Support Plan,6,990.0,0,false
+O-02103,2026-06-20,LATAM,sales,Add-on Seats,11,14.25,0.05,false
+O-02104,2026-05-08,LATAM,partner,Add-on Seats,9,15.0,0,false
+O-02105,2026-03-27,APAC,sales,Business,12,449.1,0.1,false
+O-02106,2026-09-06,APAC,web,Team,13,199.0,0,false
+O-02107,2026-08-18,LATAM,partner,Add-on Seats,13,15.0,0,false
+O-02108,2026-08-08,APAC,sales,Starter,3,49.0,0,false
+O-02109,2026-01-26,LATAM,partner,Add-on Seats,9,12.0,0.2,false
+O-02110,2026-04-26,LATAM,web,Team,17,159.2,0.2,true
+O-02111,2026-03-24,LATAM,partner,Add-on Seats,5,15.0,0,false
+O-02112,2026-04-10,EMEA,partner,Add-on Seats,7,12.0,0.2,false
+O-02113,2026-03-23,APAC,partner,Business,8,399.2,0.2,false
+O-02114,2026-01-21,APAC,partner,Support Plan,1,891.0,0.1,false
+O-02115,2026-04-14,LATAM,web,Business,15,449.1,0.1,false
+O-02116,2026-01-04,LATAM,partner,Team,13,199.0,0,false
+O-02117,2026-06-03,EMEA,web,Add-on Seats,4,15.0,0,false
+O-02118,2026-03-27,NA,web,Team,19,199.0,0,false
+O-02119,2026-03-14,EMEA,partner,Team,2,179.1,0.1,true
+O-02120,2026-03-23,NA,web,Add-on Seats,17,15.0,0,true
+O-02121,2026-04-09,EMEA,web,Business,1,399.2,0.2,false
+O-02122,2026-06-04,NA,partner,Team,20,199.0,0,false
+O-02123,2026-01-25,NA,partner,Add-on Seats,8,15.0,0,false
+O-02124,2026-05-12,NA,web,Add-on Seats,13,12.0,0.2,false
+O-02125,2026-01-07,APAC,sales,Team,15,179.1,0.1,false
+O-02126,2026-08-20,EMEA,sales,Support Plan,1,792.0,0.2,false
+O-02127,2026-07-21,EMEA,sales,Team,2,199.0,0,false
+O-02128,2026-08-03,APAC,sales,Business,13,499.0,0,false
+O-02129,2026-07-27,LATAM,sales,Support Plan,4,990.0,0,false
+O-02130,2026-06-27,NA,partner,Starter,1,46.55,0.05,false
+O-02131,2026-07-13,LATAM,sales,Support Plan,17,940.5,0.05,false
+O-02132,2026-06-18,NA,sales,Support Plan,15,990.0,0,false
+O-02133,2026-04-23,LATAM,sales,Starter,17,39.2,0.2,false
+O-02134,2026-06-01,EMEA,sales,Support Plan,3,891.0,0.1,false
+O-02135,2026-03-27,NA,sales,Team,11,179.1,0.1,false
+O-02136,2026-03-23,LATAM,partner,Team,17,189.05,0.05,false
+O-02137,2026-01-21,APAC,partner,Business,1,399.2,0.2,false
+O-02138,2026-03-10,APAC,partner,Business,12,499.0,0,false
+O-02139,2026-02-09,LATAM,web,Add-on Seats,8,15.0,0,false
+O-02140,2026-08-21,NA,web,Business,3,474.05,0.05,false
+O-02141,2026-09-18,EMEA,sales,Starter,22,39.2,0.2,false
+O-02142,2026-01-16,LATAM,web,Starter,4,49.0,0,false
+O-02143,2026-08-28,NA,partner,Starter,13,39.2,0.2,false
+O-02144,2026-01-18,LATAM,sales,Business,2,499.0,0,false
+O-02145,2026-07-25,EMEA,sales,Support Plan,19,990.0,0,false
+O-02146,2026-03-24,EMEA,partner,Business,2,499.0,0,false
+O-02147,2026-09-19,EMEA,sales,Starter,3,49.0,0,false
+O-02148,2026-01-30,EMEA,partner,Business,17,399.2,0.2,false
+O-02149,2026-03-27,EMEA,sales,Starter,2,46.55,0.05,false
+O-02150,2026-04-21,NA,web,Starter,20,46.55,0.05,false
+O-02151,2026-03-31,APAC,partner,Business,11,499.0,0,false
+O-02152,2026-02-17,APAC,sales,Support Plan,20,990.0,0,false
+O-02153,2026-02-28,LATAM,sales,Support Plan,13,792.0,0.2,false
+O-02154,2026-04-01,APAC,partner,Support Plan,17,990.0,0,false
+O-02155,2026-08-31,EMEA,web,Starter,16,44.1,0.1,false
+O-02156,2026-06-12,APAC,sales,Support Plan,3,940.5,0.05,false
+O-02157,2026-02-11,LATAM,web,Team,7,179.1,0.1,false
+O-02158,2026-09-09,EMEA,sales,Starter,11,46.55,0.05,true
+O-02159,2026-05-18,LATAM,partner,Business,7,449.1,0.1,false
+O-02160,2026-03-18,APAC,partner,Business,4,474.05,0.05,false
+O-02161,2026-09-28,APAC,partner,Starter,1,44.1,0.1,false
+O-02162,2026-01-31,NA,partner,Business,8,499.0,0,false
+O-02163,2026-08-14,LATAM,sales,Team,9,189.05,0.05,false
+O-02164,2026-02-01,EMEA,partner,Business,7,499.0,0,false
+O-02165,2026-05-03,LATAM,partner,Business,20,474.05,0.05,false
+O-02166,2026-02-10,NA,sales,Team,7,179.1,0.1,false
+O-02167,2026-06-13,EMEA,partner,Team,19,159.2,0.2,false
+O-02168,2026-08-19,APAC,sales,Business,18,474.05,0.05,false
+O-02169,2026-02-01,LATAM,web,Support Plan,10,990.0,0,false
+O-02170,2026-03-21,NA,web,Support Plan,1,792.0,0.2,false
+O-02171,2026-09-19,APAC,partner,Starter,1,39.2,0.2,false
+O-02172,2026-07-10,LATAM,web,Support Plan,9,990.0,0,false
+O-02173,2026-06-15,LATAM,sales,Add-on Seats,5,14.25,0.05,false
+O-02174,2026-06-12,EMEA,sales,Business,4,499.0,0,false
+O-02175,2026-05-23,EMEA,sales,Team,13,199.0,0,false
+O-02176,2026-04-05,LATAM,web,Business,12,499.0,0,false
+O-02177,2026-01-14,APAC,web,Add-on Seats,9,15.0,0,false
+O-02178,2026-08-08,APAC,partner,Business,1,499.0,0,false
+O-02179,2026-07-05,EMEA,web,Business,11,499.0,0,true
+O-02180,2026-08-27,EMEA,partner,Support Plan,19,891.0,0.1,false
+O-02181,2026-05-27,APAC,web,Business,7,449.1,0.1,false
+O-02182,2026-09-12,LATAM,sales,Support Plan,14,940.5,0.05,false
+O-02183,2026-03-08,APAC,partner,Support Plan,5,940.5,0.05,false
+O-02184,2026-04-18,EMEA,sales,Add-on Seats,8,15.0,0,false
+O-02185,2026-01-18,APAC,web,Team,10,199.0,0,false
+O-02186,2026-01-27,NA,sales,Starter,1,44.1,0.1,false
+O-02187,2026-09-23,APAC,sales,Team,12,189.05,0.05,false
+O-02188,2026-03-19,NA,partner,Support Plan,13,990.0,0,false
+O-02189,2026-09-14,NA,sales,Starter,4,44.1,0.1,false
+O-02190,2026-07-08,EMEA,partner,Team,1,189.05,0.05,false
+O-02191,2026-06-28,NA,sales,Team,16,199.0,0,false
+O-02192,2026-06-13,NA,sales,Support Plan,12,940.5,0.05,false
+O-02193,2026-03-10,APAC,partner,Support Plan,14,990.0,0,false
+O-02194,2026-05-08,EMEA,web,Team,12,179.1,0.1,false
+O-02195,2026-06-05,EMEA,web,Starter,5,49.0,0,false
+O-02196,2026-04-27,NA,sales,Starter,12,49.0,0,false
+O-02197,2026-06-14,LATAM,web,Team,13,159.2,0.2,false
+O-02198,2026-04-12,APAC,partner,Business,5,449.1,0.1,false
+O-02199,2026-02-13,EMEA,web,Add-on Seats,14,15.0,0,false
+O-02200,2026-05-29,LATAM,sales,Add-on Seats,17,15.0,0,false
+O-02201,2026-07-11,APAC,partner,Team,2,179.1,0.1,false
+O-02202,2026-03-21,NA,web,Business,3,399.2,0.2,false
+O-02203,2026-05-11,LATAM,partner,Business,3,499.0,0,false
+O-02204,2026-08-27,APAC,partner,Team,3,199.0,0,false
+O-02205,2026-06-06,NA,sales,Team,16,189.05,0.05,false
+O-02206,2026-07-21,LATAM,sales,Add-on Seats,5,15.0,0,false
+O-02207,2026-02-01,EMEA,web,Add-on Seats,16,14.25,0.05,false
+O-02208,2026-05-06,APAC,web,Add-on Seats,15,15.0,0,false
+O-02209,2026-07-25,EMEA,sales,Team,5,199.0,0,false
+O-02210,2026-01-27,APAC,sales,Business,7,499.0,0,false
+O-02211,2026-04-26,LATAM,sales,Support Plan,2,990.0,0,false
+O-02212,2026-04-28,LATAM,partner,Starter,4,49.0,0,false
+O-02213,2026-06-08,NA,sales,Add-on Seats,19,14.25,0.05,false
+O-02214,2026-06-18,LATAM,web,Starter,18,49.0,0,false
+O-02215,2026-05-25,APAC,web,Business,9,474.05,0.05,false
+O-02216,2026-07-27,APAC,partner,Add-on Seats,3,13.5,0.1,false
+O-02217,2026-06-19,EMEA,partner,Starter,2,44.1,0.1,true
+O-02218,2026-01-29,NA,partner,Add-on Seats,3,14.25,0.05,false
+O-02219,2026-01-17,NA,sales,Support Plan,15,990.0,0,false
+O-02220,2026-05-13,LATAM,web,Team,13,159.2,0.2,false
+O-02221,2026-08-03,LATAM,web,Support Plan,10,990.0,0,false
+O-02222,2026-08-06,APAC,web,Starter,11,46.55,0.05,false
+O-02223,2026-07-11,APAC,partner,Team,1,199.0,0,false
+O-02224,2026-08-30,LATAM,sales,Business,10,474.05,0.05,false
+O-02225,2026-04-08,EMEA,sales,Team,19,179.1,0.1,false
+O-02226,2026-09-03,APAC,web,Add-on Seats,11,15.0,0,false
+O-02227,2026-06-30,LATAM,sales,Support Plan,13,990.0,0,false
+O-02228,2026-01-08,EMEA,web,Starter,11,49.0,0,false
+O-02229,2026-07-21,LATAM,sales,Team,10,199.0,0,false
+O-02230,2026-07-08,EMEA,web,Business,15,499.0,0,false
+O-02231,2026-03-05,APAC,sales,Support Plan,12,990.0,0,false
+O-02232,2026-06-08,EMEA,sales,Support Plan,7,990.0,0,false
+O-02233,2026-03-04,EMEA,web,Support Plan,9,990.0,0,true
+O-02234,2026-04-26,APAC,web,Support Plan,16,990.0,0,false
+O-02235,2026-01-05,APAC,sales,Team,9,199.0,0,false
+O-02236,2026-01-27,APAC,sales,Team,7,189.05,0.05,false
+O-02237,2026-03-19,NA,sales,Support Plan,4,990.0,0,false
+O-02238,2026-05-31,LATAM,partner,Add-on Seats,5,14.25,0.05,true
+O-02239,2026-02-03,NA,web,Business,13,499.0,0,false
+O-02240,2026-03-13,LATAM,partner,Starter,2,49.0,0,false
+O-02241,2026-08-17,EMEA,sales,Team,8,199.0,0,false
+O-02242,2026-03-16,APAC,web,Add-on Seats,3,15.0,0,false
+O-02243,2026-07-09,LATAM,partner,Add-on Seats,20,12.0,0.2,false
+O-02244,2026-03-29,LATAM,web,Add-on Seats,7,14.25,0.05,false
+O-02245,2026-09-05,EMEA,sales,Support Plan,8,990.0,0,false
+O-02246,2026-05-19,APAC,partner,Support Plan,4,990.0,0,false
+O-02247,2026-09-21,EMEA,web,Add-on Seats,3,13.5,0.1,false
+O-02248,2026-01-01,EMEA,partner,Add-on Seats,2,14.25,0.05,true
+O-02249,2026-07-06,LATAM,partner,Business,12,499.0,0,false
+O-02250,2026-07-17,APAC,web,Starter,13,39.2,0.2,false
+O-02251,2026-09-27,LATAM,partner,Support Plan,13,891.0,0.1,false
+O-02252,2026-02-06,NA,web,Starter,8,49.0,0,false
+O-02253,2026-02-07,EMEA,sales,Support Plan,13,990.0,0,false
+O-02254,2026-07-16,LATAM,partner,Team,15,189.05,0.05,false
+O-02255,2026-04-26,APAC,partner,Add-on Seats,13,15.0,0,false
+O-02256,2026-03-07,EMEA,partner,Team,13,179.1,0.1,false
+O-02257,2026-08-23,LATAM,sales,Business,17,474.05,0.05,false
+O-02258,2026-07-26,APAC,web,Add-on Seats,4,15.0,0,false
+O-02259,2026-02-11,APAC,partner,Add-on Seats,1,15.0,0,false
+O-02260,2026-08-18,EMEA,partner,Add-on Seats,17,12.0,0.2,false
+O-02261,2026-06-18,NA,partner,Support Plan,13,990.0,0,false
+O-02262,2026-06-05,NA,partner,Team,7,199.0,0,false
+O-02263,2026-05-06,EMEA,partner,Support Plan,8,990.0,0,false
+O-02264,2026-01-30,EMEA,partner,Business,12,499.0,0,true
+O-02265,2026-09-25,LATAM,web,Support Plan,10,891.0,0.1,false
+O-02266,2026-04-24,NA,partner,Support Plan,20,990.0,0,false
+O-02267,2026-04-09,EMEA,web,Business,13,399.2,0.2,false
+O-02268,2026-04-30,EMEA,web,Business,1,499.0,0,false
+O-02269,2026-03-03,EMEA,sales,Business,6,399.2,0.2,false
+O-02270,2026-04-25,LATAM,sales,Add-on Seats,18,15.0,0,false
+O-02271,2026-01-19,APAC,sales,Business,4,449.1,0.1,false
+O-02272,2026-02-22,APAC,partner,Add-on Seats,7,15.0,0,false
+O-02273,2026-08-25,APAC,partner,Business,4,499.0,0,false
+O-02274,2026-04-20,APAC,sales,Team,15,199.0,0,false
+O-02275,2026-07-25,EMEA,web,Support Plan,4,990.0,0,false
+O-02276,2026-02-13,LATAM,partner,Starter,6,49.0,0,false
+O-02277,2026-03-20,APAC,web,Team,14,199.0,0,false
+O-02278,2026-06-18,EMEA,partner,Starter,2,49.0,0,true
+O-02279,2026-06-15,LATAM,partner,Add-on Seats,2,15.0,0,false
+O-02280,2026-06-08,NA,partner,Business,14,399.2,0.2,false
+O-02281,2026-05-25,LATAM,web,Starter,14,39.2,0.2,false
+O-02282,2026-04-05,LATAM,web,Support Plan,7,891.0,0.1,false
+O-02283,2026-01-02,EMEA,partner,Team,17,199.0,0,false
+O-02284,2026-09-04,NA,web,Add-on Seats,21,14.25,0.05,false
+O-02285,2026-06-05,NA,web,Add-on Seats,18,15.0,0,false
+O-02286,2026-04-08,APAC,partner,Team,14,189.05,0.05,false
+O-02287,2026-05-08,EMEA,sales,Business,20,499.0,0,false
+O-02288,2026-04-19,NA,partner,Team,16,199.0,0,false
+O-02289,2026-05-22,EMEA,partner,Add-on Seats,10,15.0,0,false
+O-02290,2026-04-13,LATAM,partner,Add-on Seats,20,15.0,0,false
+O-02291,2026-02-24,NA,web,Add-on Seats,1,15.0,0,false
+O-02292,2026-03-28,LATAM,partner,Team,8,199.0,0,false
+O-02293,2026-09-12,NA,sales,Add-on Seats,13,15.0,0,false
+O-02294,2026-01-12,EMEA,partner,Business,15,499.0,0,false
+O-02295,2026-05-09,APAC,web,Business,5,499.0,0,false
+O-02296,2026-01-26,LATAM,web,Team,12,199.0,0,false
+O-02297,2026-08-19,LATAM,sales,Support Plan,21,990.0,0,false
+O-02298,2026-05-17,LATAM,sales,Starter,11,46.55,0.05,false
+O-02299,2026-09-29,LATAM,partner,Add-on Seats,3,15.0,0,false
+O-02300,2026-09-14,LATAM,partner,Starter,16,49.0,0,false
+O-02301,2026-05-07,EMEA,partner,Support Plan,2,990.0,0,false
+O-02302,2026-02-19,LATAM,partner,Starter,10,39.2,0.2,false
+O-02303,2026-06-18,APAC,web,Business,11,499.0,0,false
+O-02304,2026-06-06,LATAM,web,Business,3,449.1,0.1,false
+O-02305,2026-05-16,EMEA,web,Team,2,199.0,0,false
+O-02306,2026-07-11,LATAM,sales,Support Plan,5,990.0,0,false
+O-02307,2026-08-29,APAC,web,Support Plan,9,940.5,0.05,false
+O-02308,2026-08-04,LATAM,partner,Business,18,399.2,0.2,false
+O-02309,2026-05-23,LATAM,partner,Starter,12,44.1,0.1,true
+O-02310,2026-07-16,LATAM,partner,Add-on Seats,14,14.25,0.05,false
+O-02311,2026-02-17,EMEA,sales,Starter,10,49.0,0,false
+O-02312,2026-07-06,LATAM,sales,Business,9,474.05,0.05,false
+O-02313,2026-08-23,EMEA,web,Add-on Seats,15,15.0,0,false
+O-02314,2026-06-11,EMEA,sales,Support Plan,14,990.0,0,false
+O-02315,2026-07-15,LATAM,partner,Starter,14,49.0,0,false
+O-02316,2026-01-01,NA,sales,Support Plan,11,990.0,0,false
+O-02317,2026-04-05,LATAM,partner,Add-on Seats,17,13.5,0.1,false
+O-02318,2026-01-21,LATAM,partner,Starter,16,44.1,0.1,false
+O-02319,2026-01-17,EMEA,sales,Team,18,189.05,0.05,false
+O-02320,2026-08-08,LATAM,partner,Business,18,499.0,0,false
+O-02321,2026-05-13,LATAM,web,Business,18,499.0,0,false
+O-02322,2026-09-28,EMEA,sales,Support Plan,19,990.0,0,false
+O-02323,2026-06-16,LATAM,web,Add-on Seats,3,15.0,0,false
+O-02324,2026-03-24,EMEA,web,Support Plan,2,792.0,0.2,false
+O-02325,2026-06-04,NA,partner,Starter,4,44.1,0.1,false
+O-02326,2026-03-13,APAC,partner,Starter,1,49.0,0,false
+O-02327,2026-08-30,LATAM,partner,Business,12,449.1,0.1,false
+O-02328,2026-07-27,APAC,partner,Support Plan,4,891.0,0.1,false
+O-02329,2026-01-28,EMEA,web,Support Plan,13,891.0,0.1,false
+O-02330,2026-01-20,NA,partner,Add-on Seats,7,15.0,0,false
+O-02331,2026-05-11,LATAM,partner,Support Plan,6,792.0,0.2,false
+O-02332,2026-01-30,NA,sales,Business,17,499.0,0,false
+O-02333,2026-05-04,APAC,sales,Team,6,199.0,0,false
+O-02334,2026-05-29,EMEA,partner,Add-on Seats,12,15.0,0,false
+O-02335,2026-06-17,LATAM,web,Support Plan,13,990.0,0,false
+O-02336,2026-01-03,APAC,sales,Team,7,159.2,0.2,false
+O-02337,2026-01-09,NA,partner,Business,18,449.1,0.1,false
+O-02338,2026-09-16,LATAM,sales,Starter,12,49.0,0,false
+O-02339,2026-01-08,NA,partner,Add-on Seats,3,15.0,0,false
+O-02340,2026-04-19,NA,partner,Starter,7,39.2,0.2,false
+O-02341,2026-09-30,NA,partner,Business,8,399.2,0.2,false
+O-02342,2026-01-19,APAC,sales,Support Plan,10,940.5,0.05,false
+O-02343,2026-02-01,LATAM,partner,Support Plan,13,990.0,0,false
+O-02344,2026-07-18,EMEA,web,Team,6,199.0,0,false
+O-02345,2026-07-16,EMEA,sales,Team,21,199.0,0,false
+O-02346,2026-04-04,EMEA,web,Starter,2,49.0,0,false
+O-02347,2026-02-07,APAC,partner,Add-on Seats,11,15.0,0,false
+O-02348,2026-08-27,NA,web,Add-on Seats,20,14.25,0.05,false
+O-02349,2026-01-05,APAC,sales,Support Plan,8,990.0,0,false
+O-02350,2026-02-26,APAC,partner,Support Plan,20,990.0,0,false
+O-02351,2026-03-25,NA,sales,Business,3,449.1,0.1,false
+O-02352,2026-03-17,NA,partner,Support Plan,12,990.0,0,false
+O-02353,2026-02-16,LATAM,web,Support Plan,8,990.0,0,false
+O-02354,2026-02-06,EMEA,web,Business,19,449.1,0.1,false
+O-02355,2026-05-24,NA,web,Team,11,199.0,0,false
+O-02356,2026-06-06,NA,partner,Add-on Seats,19,13.5,0.1,false
+O-02357,2026-06-28,APAC,partner,Starter,19,39.2,0.2,false
+O-02358,2026-04-18,APAC,partner,Support Plan,20,792.0,0.2,false
+O-02359,2026-09-20,APAC,sales,Business,16,499.0,0,false
+O-02360,2026-01-09,EMEA,web,Add-on Seats,13,13.5,0.1,false
+O-02361,2026-02-12,EMEA,sales,Starter,1,46.55,0.05,false
+O-02362,2026-09-11,APAC,sales,Starter,19,49.0,0,false
+O-02363,2026-01-31,APAC,web,Support Plan,10,792.0,0.2,false
+O-02364,2026-06-28,NA,web,Add-on Seats,9,15.0,0,false
+O-02365,2026-06-01,EMEA,web,Add-on Seats,4,15.0,0,false
+O-02366,2026-04-25,LATAM,partner,Team,17,199.0,0,false
+O-02367,2026-01-18,NA,sales,Support Plan,17,891.0,0.1,false
+O-02368,2026-09-18,LATAM,partner,Business,9,499.0,0,false
+O-02369,2026-09-10,EMEA,partner,Starter,19,49.0,0,false
+O-02370,2026-03-10,LATAM,web,Team,15,199.0,0,false
+O-02371,2026-03-14,LATAM,sales,Support Plan,11,990.0,0,false
+O-02372,2026-07-06,APAC,sales,Starter,10,49.0,0,false
+O-02373,2026-04-16,EMEA,web,Team,6,199.0,0,false
+O-02374,2026-06-12,APAC,web,Business,14,499.0,0,false
+O-02375,2026-07-15,LATAM,sales,Business,6,474.05,0.05,false
+O-02376,2026-06-25,APAC,sales,Starter,19,39.2,0.2,false
+O-02377,2026-06-17,NA,partner,Support Plan,11,792.0,0.2,false
+O-02378,2026-03-21,LATAM,web,Business,8,399.2,0.2,false
+O-02379,2026-07-22,APAC,partner,Team,4,179.1,0.1,false
+O-02380,2026-08-17,EMEA,partner,Add-on Seats,15,15.0,0,true
+O-02381,2026-08-29,EMEA,partner,Support Plan,7,891.0,0.1,false
+O-02382,2026-02-21,NA,web,Business,15,499.0,0,false
+O-02383,2026-09-14,APAC,sales,Add-on Seats,20,13.5,0.1,false
+O-02384,2026-03-12,NA,web,Business,20,499.0,0,false
+O-02385,2026-02-28,LATAM,web,Team,4,199.0,0,false
+O-02386,2026-06-18,LATAM,sales,Add-on Seats,16,14.25,0.05,false
+O-02387,2026-01-21,NA,partner,Support Plan,11,990.0,0,false
+O-02388,2026-04-22,EMEA,sales,Starter,14,46.55,0.05,false
+O-02389,2026-04-01,LATAM,partner,Support Plan,12,891.0,0.1,false
+O-02390,2026-09-27,APAC,partner,Add-on Seats,1,12.0,0.2,false
+O-02391,2026-08-14,EMEA,web,Business,21,474.05,0.05,false
+O-02392,2026-02-07,APAC,sales,Team,5,189.05,0.05,true
+O-02393,2026-07-09,EMEA,partner,Starter,3,49.0,0,true
+O-02394,2026-05-21,APAC,web,Add-on Seats,1,13.5,0.1,false
+O-02395,2026-04-24,EMEA,sales,Add-on Seats,4,14.25,0.05,false
+O-02396,2026-01-10,NA,partner,Support Plan,8,891.0,0.1,false
+O-02397,2026-03-20,NA,web,Team,17,179.1,0.1,false
+O-02398,2026-09-13,EMEA,sales,Add-on Seats,13,14.25,0.05,false
+O-02399,2026-08-11,NA,web,Add-on Seats,7,14.25,0.05,false
+O-02400,2026-01-31,APAC,web,Team,18,199.0,0,false

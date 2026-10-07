@@ -1,0 +1,43 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "gateway-responses/gpt-6-sol",
+  "small_model": "gateway/glm-5.3",
+  "permission": {
+    "bash": "ask",
+    "edit": "ask"
+  },
+  "provider": {
+    "gateway": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Gateway (Chat Completions)",
+      "options": {
+        "baseURL": "https://argolink.io/v1",
+        "apiKey": "{env:OPENAI_API_KEY}"
+      },
+      "models": {
+        "deepseek-v4-pro": {
+          "name": "DeepSeek V4 Pro",
+          "limit": { "context": 1048576, "output": 32000 }
+        },
+        "glm-5.3": {
+          "name": "GLM-5.3",
+          "limit": { "context": 1000000, "output": 32000 }
+        }
+      }
+    },
+    "gateway-responses": {
+      "npm": "@ai-sdk/openai",
+      "name": "Gateway (Responses)",
+      "options": {
+        "baseURL": "https://argolink.io/v1",
+        "apiKey": "{env:OPENAI_API_KEY}"
+      },
+      "models": {
+        "gpt-6-sol": {
+          "name": "GPT-6 Sol",
+          "limit": { "context": 922000, "output": 32000 }
+        }
+      }
+    }
+  }
+}
