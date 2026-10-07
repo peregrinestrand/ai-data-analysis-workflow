@@ -26,6 +26,7 @@ class FakeResponse(io.BytesIO):
 
 def fake_api(monkeypatch, replies, sent):
     def urlopen(request, timeout=None):
+        assert request.get_header("User-agent") == "ai-data-analysis-workflow/1.0"
         sent.append((request.full_url, json.loads(request.data)))
         content = replies.pop(0)
         return FakeResponse(json.dumps({

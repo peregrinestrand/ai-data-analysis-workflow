@@ -26,6 +26,7 @@ from pathlib import Path
 import pandas as pd
 
 DEFAULT_BASE_URL = "https://argolink.io/v1"
+USER_AGENT = "ai-data-analysis-workflow/1.0"  # some endpoints reject urllib's default agent
 # USD per 1M input / output tokens on the default endpoint, checked 2026-10-07.
 PRICES = {
     "gpt-6-sol": (0.60, 3.00),
@@ -137,6 +138,7 @@ def chat(messages: list[dict], model: str, effort: str | None = None) -> tuple[s
     request = urllib.request.Request(f"{base}/chat/completions", data=json.dumps(body).encode(), method="POST")
     request.add_header("Authorization", f"Bearer {key}")
     request.add_header("Content-Type", "application/json")
+    request.add_header("User-Agent", USER_AGENT)
     try:
         with urllib.request.urlopen(request, timeout=300) as response:
             data = json.loads(response.read())
